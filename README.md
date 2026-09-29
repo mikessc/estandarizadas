@@ -30,9 +30,11 @@ Las respuestas correctas nunca llegan al navegador antes de entregar: la calific
 
    ```bash
    npm install
-   npx vercel env pull .env        # o copia .env.example a .env y llena los valores
+   npx vercel env pull .env.local --environment=production
    npm run seed                    # crea o actualiza el admin con ADMIN_EMAIL / ADMIN_PASSWORD
    ```
+
+   `npm run seed` y `npm run db:migrate` leen `.env.local`. Si en Vercel las variables son *Sensitive*, `vercel env pull` escribe `"[Sensitive]"` en vez del valor: reemplaza a mano en `.env.local` `STORAGE_DATABASE_URL` y `STORAGE_DATABASE_URL_UNPOOLED` (desde la consola de Neon, *Connection string*), `ADMIN_EMAIL` y `ADMIN_PASSWORD`.
 
    Luego entra con el correo del admin.
 
@@ -41,9 +43,9 @@ Las respuestas correctas nunca llegan al navegador antes de entregar: la calific
 ## Desarrollo local
 
 ```bash
-cp .env.example .env   # llena los valores
+cp .env.example .env.local   # llena los valores
 npm install
-npx prisma migrate deploy
+npm run db:migrate
 npm run seed
 npm run dev            # http://localhost:3000
 npm run check          # prueba de la lógica de calificación
