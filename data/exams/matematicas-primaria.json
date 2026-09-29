@@ -1,0 +1,757 @@
+{
+  "id": "matematicas-primaria",
+  "title": "Matemáticas – Práctica",
+  "subject": "Matemáticas",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "block": "Números",
+      "blockNumber": 1,
+      "skill": "Reconoce las distintas representaciones de números naturales o decimales, en diversos contextos.",
+      "text": "Considere la siguiente información:\n\nEn un estudio científico se determinó que, en cierto instante, la distancia del Sol al planeta Saturno fue mil cuatrocientos veinticinco millones de kilómetros.\n\nDe acuerdo con la información anterior, ¿cuál es la representación simbólica del número que corresponde a la distancia en kilómetros que hubo del Sol al planeta Saturno en ese instante?",
+      "options": {
+        "A": "1 000 000 425",
+        "B": "1 000 425 000",
+        "C": "1 425 000 000",
+        "D": "1 400 000 025"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "block": "Números",
+      "blockNumber": 2,
+      "skill": "Compara números naturales, decimales o fraccionarios, en diversos contextos.",
+      "text": "En la siguiente tabla se presentan los tiempos, en segundos, que tardaron cuatro personas en una competencia de natación:\n\n| Persona | Tiempo (en segundos) |\n|---|---|\n| Karen | 53,07 |\n| María | 54,80 |\n| Natalia | 53,70 |\n| Patricia | 54,15 |\n\nDe acuerdo con la información anterior, si se ordenaran esos tiempos en forma ascendente, entonces ese ordenamiento sería",
+      "options": {
+        "A": "54,80 - 54,15 - 53,70 - 53,07",
+        "B": "53,07 - 53,70 - 54,15 - 54,80",
+        "C": "54,80 - 54,15 - 53,07 - 53,70",
+        "D": "53,70 - 53,07 - 54,80 - 54,15"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "block": "Números",
+      "blockNumber": 3,
+      "skill": "Reconoce la notación desarrollada de un número natural o decimal, en diversos contextos.",
+      "text": "En la siguiente tabla se muestra el precio, en colones, que tiene cada uno de cuatro productos que se venden en un supermercado:\n\n| Producto | Precio (en colones) |\n|---|---|\n| Caja de leche | 1312 |\n| Caja de galletas | 1321 |\n| Caja de mantequilla | 2131 |\n| Caja de natilla | 1231 |\n\nDe acuerdo con la información anterior, el número cuya notación desarrollada es $1 \\times 10^3 + 3 \\times 10^2 + 2 \\times 10^1 + 1$ corresponde al precio, en colones, de la caja de",
+      "options": {
+        "A": "caja de leche.",
+        "B": "caja de galletas.",
+        "C": "caja de mantequilla.",
+        "D": "caja de natilla."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "block": "Números",
+      "blockNumber": 4,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con los conceptos básicos de la teoría de números.",
+      "text": "La siguiente tabla muestra la superficie aproximada, en hectáreas, de cada uno de cuatro parques nacionales de Costa Rica:\n\n| Parque nacional | Superficie (en hectáreas) |\n|---|---|\n| Chirripó | 50 849 |\n| Guanacaste | 35 796 |\n| Isla del Coco | 99 635 |\n| Tortuguero | 26 653 |\n\nDe acuerdo con la información anterior, ¿en cuál de esos parques su superficie corresponde a un número divisible por cinco?",
+      "options": {
+        "A": "Chirripó",
+        "B": "Guanacaste",
+        "C": "Isla del Coco",
+        "D": "Tortuguero"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "block": "Números",
+      "blockNumber": 5,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con las operaciones aritméticas de números en sus distintas representaciones.",
+      "text": "En la siguiente tabla se muestra la cantidad de fresas en kilogramos, que empacaron cada una de cuatro personas en un día:\n\n| Persona | Cantidad de fresas (en kilogramos) |\n|---|---|\n| Isabel | 7,9 |\n| Marcos | 6,5 |\n| Roberto | 7,3 |\n| Alejandra | 6,2 |\n\nDe acuerdo con la información anterior, ¿cuántos kilogramos de fresas en total empacaron cuatro personas en ese día?",
+      "options": {
+        "A": "27,0",
+        "B": "26,9",
+        "C": "27,9",
+        "D": "28,0"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "block": "Números",
+      "blockNumber": 6,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con el concepto, los tipos o representaciones de fracciones.",
+      "text": "En la siguiente tabla se muestra la cantidad de maíz, en kilogramos, que compró cada una de cuatro personas en el mercado:\n\n| Persona | Cantidad de maíz (en kilogramos) |\n|---|---|\n| Ana | $\\dfrac{3}{2}$ |\n| Patricia | $\\dfrac{3}{5}$ |\n| Rodrigo | $\\dfrac{5}{6}$ |\n| Humberto | $\\dfrac{7}{8}$ |\n\nDe acuerdo con la información anterior, ¿cuál de esas personas compró una cantidad de maíz mayor que 1 kg?",
+      "options": {
+        "A": "Ana",
+        "B": "Patricia",
+        "C": "Rodrigo",
+        "D": "Humberto"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "block": "Números",
+      "blockNumber": 7,
+      "skill": "Reconoce propiedades o representaciones de números naturales, decimales o fraccionarios, en diversos contextos.",
+      "text": "Un operario de una empresa que fabrica tornillos determina que el promedio del peso (masa) de cierto tipo de tornillo es 10,6184 g. Si para elaborar un reporte sobre el peso promedio de ese tipo de tornillo el operario debe redondearlo a la centésima más cercana, entonces ¿cuál es el peso promedio que debe anotar ese operario en el reporte?",
+      "options": {
+        "A": "10,60",
+        "B": "10,61",
+        "C": "10,62",
+        "D": "10,71"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "block": "Números",
+      "blockNumber": 8,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con los conceptos básicos de la teoría de números.",
+      "text": "Considere la siguiente información:\n\nUn agricultor ha recolectado una cantidad de manzanas y las coloca en cajas de distintos colores. La siguiente tabla muestra la cantidad de manzanas que contiene cada caja:\n\n| Color de la caja | Cantidad de manzanas |\n|---|---|\n| Roja | 13 |\n| Azul | 15 |\n| Verde | 11 |\n| Morado | 19 |\n\nDe acuerdo con la información anterior, ¿cuál es el color de la caja que contiene una cantidad de manzanas que corresponde a un número compuesto?",
+      "options": {
+        "A": "Roja",
+        "B": "Azul",
+        "C": "Verde",
+        "D": "Morado"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "block": "Números",
+      "blockNumber": 9,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con el concepto, los tipos o representaciones de fracciones.",
+      "text": "Juan Carlos compró en el supermercado una bolsa de arroz, la cual tiene un peso mayor que 2 kg y menor que 3 kg. ¿Cuál de las siguientes fracciones representa un posible peso, en kilogramos, de la bolsa de arroz que compró Juan Carlos en ese supermercado?",
+      "options": {
+        "A": "$\\dfrac{2}{5}$",
+        "B": "$\\dfrac{3}{2}$",
+        "C": "$\\dfrac{5}{2}$",
+        "D": "$\\dfrac{7}{2}$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "block": "Números",
+      "blockNumber": 10,
+      "skill": "Reconoce propiedades o representaciones de números naturales, decimales o fraccionarios, en diversos contextos.",
+      "text": "Considere la siguiente información:\n\nFrancisco fue a la feria de su comunidad y compró 10 naranjas y 12 guayabas. El precio de cada naranja era ₡120 y el de cada guayaba ₡280.\n\nDe acuerdo con la información anterior, ¿cuál de los siguientes procedimientos permite conocer el monto total que pagó Francisco por la compra que realizó en esa feria?",
+      "options": {
+        "A": "10 x (120 + 12) x 280",
+        "B": "(10 + 12) x (120 + 280)",
+        "C": "(10 x 120) + (12 x 280)",
+        "D": "(10 + 280) x (12 + 120)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "block": "Números",
+      "blockNumber": 11,
+      "skill": "Reconoce las distintas representaciones de números naturales o decimales, en diversos contextos.",
+      "text": "Considere la siguiente información:\n\nEn una región de Costa Rica, durante un periodo determinado, se recolectó 1 908 938 canastos de café.\n\nDe acuerdo con la información anterior, ¿cuál es la representación literal del número de canastos de café recolectados en esa región de Costa Rica durante ese periodo?",
+      "options": {
+        "A": "Un millón novecientos ocho mil novecientos treinta y ocho",
+        "B": "Un millón novecientos ocho novecientos treinta y ocho mil",
+        "C": "Un millón novecientos treinta y ocho mil novecientos ocho",
+        "D": "Un millón novecientos ochenta mil novecientos treinta y ocho"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "block": "Números",
+      "blockNumber": 12,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con los conceptos básicos de la teoría de números.",
+      "text": "Rosaura empacó un total de 81 naranjas en bolsas. Si cada una de esas bolsas contiene la misma cantidad de naranjas, entonces, ¿cuál de las siguientes opciones corresponde a una posible cantidad de naranjas contenida en cada una de esas bolsas?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "10"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "block": "Números",
+      "blockNumber": 13,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados a los conceptos básicos de la teoría de números.",
+      "text": "La siguiente tabla muestra el total de estudiantes que tiene cada uno de cuatro grupos en una escuela de música:\n\n| Grupo | Total de estudiantes |\n|---|---|\n| Piano | 35 |\n| Guitarra | 34 |\n| Trompeta | 31 |\n| Batería | 37 |\n\nAdemás, el director de la escuela requiere elegir uno de esos grupos para formar, con el total de los estudiantes del grupo elegido, dos subgrupos que cumplan con las siguientes condiciones:\n\n- Cada subgrupo tiene la misma cantidad de estudiantes.\n- Cada estudiante queda ubicado en solo uno de los subgrupos.\n\nDe acuerdo con la información anterior, ¿cuál de esos grupos requiere elegir el director de esa escuela?",
+      "options": {
+        "A": "Piano",
+        "B": "Guitarra",
+        "C": "Trompeta",
+        "D": "Batería"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "block": "Números",
+      "blockNumber": 14,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con las operaciones aritméticas de números en sus distintas representaciones.",
+      "text": "Un recipiente contiene 2 L de aceite y esta cantidad representa la cuarta parte de su capacidad total. Si a partir de esa cantidad se requiere agregar más aceite hasta llenar ese recipiente a su capacidad total, entonces, ¿cuántos litros de aceite se requieren agregar?",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "block": "Geometría",
+      "blockNumber": 1,
+      "skill": "Reconoce figuras geométricas planas, sus elementos o propiedades, en diversos contextos.",
+      "text": "Considere las siguientes figuras que corresponden a la superficie que tiene cada uno de cuatro jardines:\n\n![Figura](/exams/matematicas-primaria/q15.png)\n\nDe acuerdo con la información anterior, ¿cuál de esas figuras corresponde a un paralelogramo?",
+      "options": {
+        "A": "Figura I",
+        "B": "Figura II",
+        "C": "Figura III",
+        "D": "Figura IV"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "block": "Geometría",
+      "blockNumber": 2,
+      "skill": "Determina cuerpos sólidos, sus elementos o propiedades, en diversos contextos.",
+      "text": "Considere la siguiente figura que representa a un envase de un perfume:\n\n![Figura](/exams/matematicas-primaria/q16.png)\n\nDe acuerdo con la información anterior, la forma que tiene el envase de ese perfume podría corresponder al cuerpo sólido que se denomina",
+      "options": {
+        "A": "cubo.",
+        "B": "cilindro.",
+        "C": "prisma rectangular.",
+        "D": "pirámide."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "block": "Geometría",
+      "blockNumber": 3,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con el perímetro o área de triángulos, cuadriláteros, polígonos o círculos.",
+      "text": "Karla desea colocar una cinta decorativa alrededor de un mantel, el cual tiene forma rectangular. Si la medida del largo de ese mantel es 100 cm y la del ancho es 50 cm, entonces ¿cuántos centímetros de esa cinta, como mínimo, necesita comprar Karla?",
+      "options": {
+        "A": "150",
+        "B": "300",
+        "C": "500",
+        "D": "5000"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "block": "Geometría",
+      "blockNumber": 4,
+      "skill": "Reconoce figuras simétricas o elementos relacionados a estas, en diversos contextos.",
+      "text": "En el siguiente sistema de coordenadas se representa la figura correspondiente a una ventana que tiene una casa, así como los puntos (P, T, R y H) donde se colocaron tornillos:\n\n![Figura](/exams/matematicas-primaria/q18.png)\n\nDe acuerdo con la información anterior, ¿cuántos ejes de simetría tiene esa figura?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "block": "Geometría",
+      "blockNumber": 5,
+      "skill": "Reconoce la ubicación de puntos o figuras en un sistema de coordenadas, así como figuras que se obtienen mediante traslación de otras, en diversos contextos",
+      "text": "Considere el siguiente sistema de coordenadas referente a la ubicación de la casa de Ana (A), de Jorge (J), de Guillermo (G), de Rocío (R) y de Tatiana (T):\n\n![Figura](/exams/matematicas-primaria/q19.png)\n\nDe acuerdo con la información anterior, si Ana (A) sale de su casa y camina 300 m al este y 200 m al norte, entonces, ella llega a la casa de",
+      "options": {
+        "A": "Jorge.",
+        "B": "Rocío.",
+        "C": "Tatiana.",
+        "D": "Guillermo."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "block": "Geometría",
+      "blockNumber": 6,
+      "skill": "Reconoce figuras geométricas planas, sus elementos o propiedades, en diversos contextos.",
+      "text": "Las siguientes figuras, formadas cada una por una línea, representan elementos de señales de tránsito:\n\n![Figura](/exams/matematicas-primaria/q20.png)\n\nDe acuerdo con la información anterior, ¿cuál de esas figuras <u>no</u> corresponde a un polígono?",
+      "options": {
+        "A": "Figura I",
+        "B": "Figura II",
+        "C": "Figura III",
+        "D": "Figura IV"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "block": "Geometría",
+      "blockNumber": 7,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con el perímetro o área de triángulos, cuadriláteros, polígonos o círculos.",
+      "text": "Considere el siguiente cuadrado que representa el piso de un dormitorio que tiene una casa:\n\n![Figura](/exams/matematicas-primaria/q21.png)\n\nDe acuerdo con la información anterior, si se requiere colocar cerámica a la totalidad del piso de ese dormitorio, entonces, ¿cuántos metros cuadrados de cerámica se requieren colocar?",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "25",
+        "D": "5"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "block": "Geometría",
+      "blockNumber": 8,
+      "skill": "Reconoce figuras geométricas planas, sus elementos o propiedades, en diversos contextos.",
+      "text": "La siguiente figura representa dos senderos de una reserva biológica, uno de ida y otro de regreso desde la entrada hasta el mirador. El sendero de ida se utiliza para realizar un recorrido que inicia en la entrada, pasa por el mariposario y finaliza en el mirador. El de regreso se utiliza para realizar un recorrido que inicia en el mirador, pasa por la oficina del guardaparques y finaliza en la entrada:\n\n![Figura](/exams/matematicas-primaria/q22.png)\n\nAsimismo, una persona se trasladó desde la entrada hasta el mirador, por el sendero de ida y luego se trasladó desde el mirador hasta la entrada, por el sendero de regreso.\n\nDe acuerdo con la información anterior, el recorrido que realizó esa persona por el sendero de ida es",
+      "options": {
+        "A": "igual que el recorrido por el sendero de regreso.",
+        "B": "mayor que el recorrido por el sendero de regreso.",
+        "C": "menor que el recorrido por el sendero de regreso.",
+        "D": "diferente al recorrido por el sendero de regreso."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "block": "Geometría",
+      "blockNumber": 9,
+      "skill": "Clasifica figuras geométricas planas de acuerdo con sus elementos o propiedades, en diversos contextos.",
+      "text": "A continuación, se muestra la forma que tiene cada uno de cuatro jardines, los cuales se identifican con las letras P, Q, R y T:\n\n![Figura](/exams/matematicas-primaria/q23.png)\n\nDe acuerdo con la información anterior, dos de esos jardines que tienen forma de trapecio corresponden a",
+      "options": {
+        "A": "P y Q.",
+        "B": "Q y R.",
+        "C": "P y R.",
+        "D": "P y T."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "block": "Geometría",
+      "blockNumber": 10,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con el perímetro o área de triángulos, cuadriláteros, polígonos o círculos",
+      "text": "La superficie de una mesa tiene forma de cuadrado, cuyo perímetro es 12 m. Si se requiere cubrir la totalidad de la superficie de la mesa con plástico adhesivo, entonces, ¿cuántos metros cuadrados de ese plástico se requieren para cubrir la superficie de la mesa?",
+      "options": {
+        "A": "12",
+        "B": "9",
+        "C": "6",
+        "D": "16"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "block": "Geometría",
+      "blockNumber": 11,
+      "skill": "Reconoce figuras simétricas o elementos relacionados a estas, en diversos contextos.",
+      "text": "El siguiente sistema de coordenadas muestra una figura simétrica que representa el dibujo de un árbol:\n\n![Figura](/exams/matematicas-primaria/q25.png)\n\nDe acuerdo con la información anterior, dos puntos que son homólogos entre sí, con respecto al eje de simetría de esa figura, corresponden a",
+      "options": {
+        "A": "F y G.",
+        "B": "D y C.",
+        "C": "F y D.",
+        "D": "G y D."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "block": "Geometría",
+      "blockNumber": 12,
+      "skill": "Reconoce figuras geométricas planas, sus elementos o propiedades, en situaciones de diversos contextos.",
+      "text": "La siguiente figura, que representa el frente de una casa, está compuesta por las figuras geométricas identificadas con 1, 2, 3 y 4:\n\n![Figura](/exams/matematicas-primaria/q26.png)\n\nDe acuerdo con la información anterior, ¿cuál de esas figuras geométricas corresponde a un rectángulo?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "block": "Medidas",
+      "blockNumber": 1,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con la conversión entre unidades del sistema métrico decimal.",
+      "text": "Si el peso (masa) de un gato es 3600 g, entonces, ¿cuál es el peso, en kilogramos, de ese gato?",
+      "options": {
+        "A": "0,36",
+        "B": "3,6",
+        "C": "36",
+        "D": "360"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "block": "Medidas",
+      "blockNumber": 2,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con los sistemas monetarios.",
+      "text": "Rosaura utiliza 500 g de azúcar por cada frasco de mermelada que elabora. El azúcar solo se vende en paquetes de 2 kg a un precio de ₡1000 cada uno. ¿Cuánto debe pagar Rosaura para comprar la cantidad exacta de azúcar que utilizará en la elaboración de ocho frascos de esa mermelada?",
+      "options": {
+        "A": "₡500",
+        "B": "₡1000",
+        "C": "₡2000",
+        "D": "₡4000"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "block": "Medidas",
+      "blockNumber": 3,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con la conversión entre unidades del sistema métrico decimal.",
+      "text": "Considere la siguiente tabla referente a la edad que tienen cuatro personas:\n\n| Persona | Edad |\n|---|---|\n| Jorge | 24 meses |\n| Laura | 365 días |\n| Víctor | 4 años |\n| Karla | 14 meses |\n\nDe acuerdo con la información anterior, ¿cuál de esas personas es la que tiene la menor edad?",
+      "options": {
+        "A": "Jorge",
+        "B": "Laura",
+        "C": "Víctor",
+        "D": "Karla"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "block": "Medidas",
+      "blockNumber": 4,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con los sistemas monetarios.",
+      "text": "Si el monto que se paga por viajar en un bus es ₡580 y una persona lo paga exacto con monedas, entonces, ¿cuál sería un posible pago que hace esa persona?",
+      "options": {
+        "A": "Cinco monedas de ₡100, una de ₡50 y una de ₡10",
+        "B": "Cuatro monedas de ₡100, tres de ₡50 y tres de ₡10",
+        "C": "Tres monedas de ₡100, cuatro de ₡50 y cinco de ₡10",
+        "D": "Dos monedas de ₡100, siete de ₡50 y dos de ₡10"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "block": "Medidas",
+      "blockNumber": 5,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con la conversión entre unidades del sistema métrico decimal.",
+      "text": "Considere la siguiente información:\n\nUna maratón es una competencia en donde las personas participantes corren una distancia de 42,195 km.\n\nDe acuerdo con la información anterior, si Esteban corrió la distancia completa de una maratón, entonces, ¿cuántos metros corrió él?",
+      "options": {
+        "A": "4,2195",
+        "B": "42 195",
+        "C": "421 950",
+        "D": "421, 95"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "block": "Medidas",
+      "blockNumber": 6,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con la conversión entre unidades del sistema métrico decimal.",
+      "text": "Considere la siguiente tabla referente al periodo aproximado de gestación (embarazo) que tiene cada uno de cuatro animales:\n\n| Animal | Periodo de gestación |\n|---|---|\n| Coneja | 31 días |\n| Cabra | 22 semanas |\n| Gata | 2 meses |\n| Cerda | 115 días |\n\nDe acuerdo con la información anterior, ¿cuál de esos animales tiene el mayor periodo de gestación?",
+      "options": {
+        "A": "Coneja",
+        "B": "Cabra",
+        "C": "Gata",
+        "D": "Cerda"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "block": "Medidas",
+      "blockNumber": 7,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con los sistemas monetarios.",
+      "text": "Considere la siguiente información:\n\nMariana fue al supermercado y compró un artículo cuyo precio es ₡500. Ella pagó por esa compra con un billete de ₡5000 y recibió el vuelto en billetes de ₡1000 y monedas de ₡500.\n\nDe acuerdo con la información anterior, ¿cuál de las siguientes opciones corresponde a un posible vuelto que Mariana recibió por esa compra?",
+      "options": {
+        "A": "2 billetes de ₡1000 y 2 monedas de ₡500",
+        "B": "3 billetes de ₡1000 y 3 monedas de ₡500",
+        "C": "4 billetes de ₡1000 y 2 monedas de ₡500",
+        "D": "1 billete de ₡1000 y 6 monedas de ₡500"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "block": "Medidas",
+      "blockNumber": 8,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con los sistemas monetarios.",
+      "text": "Alejandra compra 2500 g de pollo. Si el precio de cada kilogramo de pollo es ₡2500, entonces, ¿cuánto debe pagar Alejandra por esa compra?",
+      "options": {
+        "A": "₡2500",
+        "B": "₡5000",
+        "C": "₡6250",
+        "D": "₡7500"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 1,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con patrones en sucesiones.",
+      "text": "María elabora collares con 36 perlas, siguiendo un patrón establecido. A continuación, se presenta parte de uno de los collares que está elaborando:\n\n![Figura](/exams/matematicas-primaria/q35.png)\n\nDe acuerdo con la información anterior, las perlas 30 y 31 son respectivamente",
+      "options": {
+        "A": "● y ○",
+        "B": "● y ●",
+        "C": "○ y ●",
+        "D": "○ y ○"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 2,
+      "skill": "Resuelve problemas de diversos contextos, que involucran relaciones entre dos cantidades, en una expresión matemática.",
+      "text": "Considere la siguiente información:\n\nUn teatro tiene una ocupación máxima de 100 personas y el precio de la entrada por persona que se paga para ingresar a este es ₡2000. Las obras que se presentan en ese teatro tienen una duración entre 120 min y 130 min. Además, cada fila tiene 10 asientos.\n\nDe acuerdo con la información anterior, una cantidad variable corresponde",
+      "options": {
+        "A": "a la ocupación máxima del teatro.",
+        "B": "a la duración en minutos, de las obras que se presentan en ese teatro.",
+        "C": "al precio de la entrada, por persona, que se paga para ingresar al teatro.",
+        "D": "a la cantidad de asientos que tiene cada fila."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 3,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con regla de tres, porcentajes o proporcionalidad directa.",
+      "text": "Considere la siguiente información:\n\nA una actividad deportiva asistieron 50 personas en total, de ellas 40 eran mujeres y el resto hombres.\n\nDe acuerdo con la información anterior, ¿qué porcentaje, del total de personas que asistieron a esa actividad, corresponde a la cantidad de hombres?",
+      "options": {
+        "A": "10 %",
+        "B": "20 %",
+        "C": "80 %",
+        "D": "90 %"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 4,
+      "skill": "Resuelve problemas de diversos contextos, el valor desconocido en una expresión dada, en diversos contextos.",
+      "text": "En un parqueo hay motocicletas y automóviles. En la siguiente ecuación “n” representa la cantidad de automóviles que hay en ese parqueo:\n\n20 + n = 60\n\nDe acuerdo con la información anterior, ¿cuántos automóviles hay en ese parqueo?",
+      "options": {
+        "A": "3",
+        "B": "40",
+        "C": "80",
+        "D": "1200"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 5,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con patrones en sucesiones.",
+      "text": "Considere la siguiente información:\n\nEn una carrera de atletismo, en la que las personas corrieron 42 195 m, se ubicaron puestos donde se entregaron bebidas hidratantes. En la siguiente tabla se muestra el número de puesto y la distancia, con respecto al punto de inicio de la carrera, donde fueron ubicados algunos de estos puestos:\n\n| Número de puesto | 1 | 2 | 3 | 4 | 5 | 6 |\n|---|---|---|---|---|---|---|\n| Distancia (en metros) | 4000 | 8000 | 12 000 | 16 000 | 20 000 | 24 000 |\n\nDe acuerdo con la información anterior, si se mantiene el patrón en la distancia a la cual se ubicó cada puesto, entonces, ¿a qué distancia, en metros con respecto al punto de inicio de la carrera, fue ubicado el puesto número 8?",
+      "options": {
+        "A": "28 000",
+        "B": "32 000",
+        "C": "36 000",
+        "D": "40 000"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 6,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con regla de tres, porcentajes o proporcionalidad directa.",
+      "text": "Si una máquina bombea 15 L de agua cada 3 min, entonces, ¿en cuántos minutos esa máquina bombeará 45 L de agua?",
+      "options": {
+        "A": "6",
+        "B": "9",
+        "C": "30",
+        "D": "12"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 7,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con patrones en sucesiones.",
+      "text": "La siguiente tabla muestra la cantidad de naranjas recolectadas diariamente, en una finca, durante los primeros seis días de una semana:\n\n| Día | 1 | 2 | 3 | 4 | 5 | 6 |\n|---|---|---|---|---|---|---|\n| Cantidad de naranjas | 50 | 101 | 203 | 407 | 815 | 1631 |\n\nDe acuerdo con la información anterior, si en esa finca se mantuvo el patrón en la cantidad de naranjas recolectadas en los distintos días de esa semana, entonces, ¿cuál fue la cantidad de naranjas recolectadas en el día siete de esa semana?",
+      "options": {
+        "A": "3261",
+        "B": "3262",
+        "C": "3263",
+        "D": "3264"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 8,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con patrones en sucesiones.",
+      "text": "Considere la siguiente información:\n\nRebeca comenzó a leer un libro. El primer día ella leyó dos páginas, el segundo día leyó el triple de páginas que el primero, el tercer día leyó el triple del segundo, y así sucesivamente.\n\nDe acuerdo con esta información, ¿cuántas páginas leyó Rebeca el quinto día?",
+      "options": {
+        "A": "54",
+        "B": "162",
+        "C": "486",
+        "D": "1458"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 9,
+      "skill": "Resuelve problemas de diversos contextos, el valor desconocido en una expresión dada, en diversos contextos.",
+      "text": "Un tanque contiene un total de 225 litros de una mezcla conformada por agua y aceite. En la siguiente ecuación \"m\" representa la cantidad de litros de agua que conforma esa mezcla:\n\n75 + m = 225\n\nDe acuerdo con la información anterior, ¿de cuántos litros de agua está conformada la mezcla contenida en ese tanque?",
+      "options": {
+        "A": "3",
+        "B": "150",
+        "C": "300",
+        "D": "75"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q44",
+      "number": 44,
+      "block": "Relaciones y Álgebra",
+      "blockNumber": 10,
+      "skill": "Resuelve problemas de diversos contextos, el valor desconocido en una expresión dada, en diversos contextos.",
+      "text": "En una pulpería, hay un total de 360 huevos empacados en diferentes cartones y cada uno de esos cartones contiene la misma cantidad de huevos. En la siguiente ecuación, \"n\" representa la cantidad de cartones de huevos que hay en esa pulpería:\n\n30 × n = 360\n\nDe acuerdo con la información anterior, ¿cuál es la cantidad de cartones de huevos que hay en esa pulpería?",
+      "options": {
+        "A": "12",
+        "B": "330",
+        "C": "390",
+        "D": "30"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "block": "Estadística y Probabilidad",
+      "blockNumber": 1,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con conceptos estadísticos, medidas de posición o de variabilidad.",
+      "text": "En la siguiente tabla se muestran los tiempos en segundos obtenidos por un atleta en siete carreras:\n\n| Carrera | Tiempo (en segundos) |\n|---|---|\n| 1 | 6,93 |\n| 2 | 6,17 |\n| 3 | 6,02 |\n| 4 | 6,85 |\n| 5 | 6,90 |\n| 6 | 7,02 |\n| 7 | 6,93 |\n\nDe acuerdo con la información anterior, ¿cuál fue el tiempo que obtuvo ese atleta con mayor frecuencia?",
+      "options": {
+        "A": "6,02 s",
+        "B": "6,85 s",
+        "C": "6,93 s",
+        "D": "7,02 s"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "block": "Estadística y Probabilidad",
+      "blockNumber": 2,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con situaciones aleatorias.",
+      "text": "Considere la siguiente información:\n\nUn juego consiste en tirar simultáneamente dos dados de seis caras cada uno y multiplicar los números que quedaron en las caras superiores. Cada dado tiene sus caras numeradas con un número natural del uno al seis, los cuales no se repiten. Además, cada número tiene la misma probabilidad de quedar en la cara superior.\n\nDe acuerdo con la información anterior, ¿cuál de los siguientes resultados es el más probable que se obtenga al multiplicar los números que quedaron en las caras superiores de los dados?",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "10"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "block": "Estadística y Probabilidad",
+      "blockNumber": 3,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con conceptos estadísticos, medidas de posición o de variabilidad.",
+      "text": "Considere la siguiente información:\n\nUna investigación pretende determinar el tiempo, en horas, que dedican a estudiar las 1000 personas matriculadas en un centro educativo. Para ello se seleccionaron al azar a 200 de esas personas y se les aplicó una encuesta. Además, durante el estudio también se registró el método de estudio preferido por cada una de las personas encuestadas.\n\nDe acuerdo con la información anterior, en esa investigación, la muestra corresponde",
+      "options": {
+        "A": "a las personas a las que se les aplicó la encuesta.",
+        "B": "a las personas matriculadas en el centro educativo.",
+        "C": "al tiempo, en horas, que dedican las personas a estudiar.",
+        "D": "al método de estudio preferido por las personas encuestadas."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "block": "Estadística y Probabilidad",
+      "blockNumber": 4,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con conceptos estadísticos, medidas de posición o de variabilidad.",
+      "text": "Considere la siguiente información:\n\nUna investigación requiere determinar el tiempo, en horas, que dedican a la lectura las 500 personas estudiantes de una escuela. Para ello, se seleccionó al azar 100 de esas personas y se le aplicó una encuesta a cada una de ellas. Además, la investigación también registró el lugar habitual donde las personas estudiantes realizan sus sesiones de lectura.\n\nDe acuerdo con la información anterior, la muestra de esa investigación corresponde a la cantidad de",
+      "options": {
+        "A": "personas estudiantes de esa escuela.",
+        "B": "personas estudiantes seleccionadas al azar de esa escuela.",
+        "C": "horas que dedican a la lectura las personas estudiantes de esa escuela.",
+        "D": "lugares donde las personas estudiantes acostumbran a realizar sus sesiones de lectura."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "block": "Estadística y Probabilidad",
+      "blockNumber": 5,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con conceptos estadísticos, medidas de posición o de variabilidad.",
+      "text": "La siguiente tabla muestra el tiempo, en segundos, que duró cada uno de cinco nadadores en una competencia:\n\n| Nadador | Tiempo en segundos |\n|---|---|\n| Carlos | 32 |\n| Gabriel | 28 |\n| Esteban | 35 |\n| Juan Luis | 45 |\n| José Roberto | 40 |\n\nDe acuerdo con la información anterior, ¿cuál es la mayor diferencia entre los tiempos de dos nadadores cualesquiera en esa competencia?",
+      "options": {
+        "A": "8 s",
+        "B": "13 s",
+        "C": "17 s",
+        "D": "10 s"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "block": "Estadística y Probabilidad",
+      "blockNumber": 6,
+      "skill": "Resuelve problemas, de diversos contextos, relacionados con situaciones aleatorias.",
+      "text": "Considere las siguientes situaciones:\n\nI. El nombre del día de la semana siguiente al lunes.\n\nII. La cantidad de minutos que tiene una hora.\n\nIII. El número ganador en una rifa.\n\nIV. La cantidad de meses que tiene un año.\n\nDe acuerdo con la información anterior, ¿cuál de esas situaciones es aleatoria?",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "answer": "C"
+    }
+  ]
+}

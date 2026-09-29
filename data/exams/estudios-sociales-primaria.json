@@ -1,0 +1,757 @@
+{
+  "id": "estudios-sociales-primaria",
+  "title": "Estudios Sociales y Educación Cívica – Práctica",
+  "subject": "Estudios Sociales",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "block": "Geografía e Historia",
+      "blockNumber": 1,
+      "skill": "Comprende la definición y la importancia de los Estudios Sociales.",
+      "text": "Considere el siguiente texto:\n\nLos Estudios Sociales es una disciplina que analiza, discute y genera conocimientos para resolver problemas, investigar el pasado, relacionarse con el entorno y cuestionar el presente con miras al futuro. Su misión es que los jóvenes comprendan y valoren los avances culturales, sociales y económicos, contribuyendo así a una mejor convivencia y fortalecimiento del sistema democrático.\n\nAdaptado de: _geografiahistoriasecundaria.blogspot.com._\n\nA partir del texto anterior, los Estudios Sociales propician en la vida cotidiana de la sociedad costarricense",
+      "options": {
+        "A": "otorgar mayor importancia al aprendizaje sobre culturas extranjeras, ignorando la historia costarricense.",
+        "B": "promover la indiferencia hacia los avances sociales y económicos, restando valor a la convivencia democrática.",
+        "C": "fomentar la curiosidad por aprender sobre los sucesos históricos que ha contribuido al desarrollo democrático de Costa Rica.",
+        "D": "considerar que los problemas nacionales se solucionan de mejor manera cuando la persona actúa por su cuenta."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "block": "Geografía e Historia",
+      "blockNumber": 2,
+      "skill": "Reconoce la importancia de Costa Rica en el contexto geográfico, social y político.",
+      "text": "Lea el siguiente texto:\n\nLa ubicación estratégica de Limón y su proximidad al Canal de Panamá lo convierten en un puerto crucial para Costa Rica. Desde allí se exportan alimentos, productos agrícolas, carnes, equipos médicos y componentes electrónicos. Además, recibe importaciones de materias primas, petróleo y materiales de construcción.\n\nAdaptado de: www.icontainers.com.\n\nEl texto anterior describe la importancia del puerto de Limón para la actividad comercial del país, debido a que",
+      "options": {
+        "A": "destaca únicamente la exportación de productos agrícolas, sin reconocer la diversidad de bienes y servicios que maneja el puerto.",
+        "B": "contribuye al comercio nacional, además de tener una función turística al recibir cruceros y visitantes internacionales.",
+        "C": "la ubicación de Limón facilita el comercio exterior, siendo un puerto clave para solo exportar y recibir materias primas.",
+        "D": "la cercanía con el Canal de Panamá, aunque su impacto en el comercio y exportaciones nacionales es limitado."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "block": "Geografía e Historia",
+      "blockNumber": 3,
+      "skill": "Identifica las características básicas de las diferentes formas de relieve de Costa Rica",
+      "text": "Lea la siguiente definición:\n\nSe trata de una depresión alargada y con pendiente entre dos cadenas montañosas, por donde suele fluir un río. Esta formación geográfica destaca por su entorno natural y su valor paisajístico, siendo un lugar ideal para actividades al aire libre como el senderismo y la observación de la naturaleza. Las montañas que la rodean y los cuerpos de agua contribuyen a su atractivo ecológico y recreativo.\n\nAdaptado de: _enciclopedia.net._\n\n¿A cuál forma de relieve del territorio costarricense hace referencia la definición anterior?",
+      "options": {
+        "A": "Cordillera",
+        "B": "Meseta",
+        "C": "Sierra",
+        "D": "Valle"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "block": "Geografía e Historia",
+      "blockNumber": 4,
+      "skill": "Identifica las características básicas de las diferentes formas de relieve de Costa Rica.",
+      "text": "Lea la siguiente información:\n\nSe trata de una extensión amplia y plana del terreno, con pocas irregularidades, que facilita actividades como la agricultura y la ganadería. Este tipo de relieve es preferido por su accesibilidad y suelo fértil, lo que favorece el desarrollo económico en esas zonas.\n\nAdaptado de: _www.icontainers.com._\n\nLa información anterior hace referencia al tipo de relieve que forma parte del territorio costarricense denominado",
+      "options": {
+        "A": "costa.",
+        "B": "llanura.",
+        "C": "altiplano.",
+        "D": "fosa abisal."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "block": "Geografía e Historia",
+      "blockNumber": 5,
+      "skill": "Identifica temporalmente la historia antigua de Costa Rica y su incidencia en la sociedad actual.",
+      "text": "Lea el siguiente texto:\n\nEl maíz fue clave en la Costa Rica mesoamericana, especialmente en Guanacaste, y junto con la yuca, también en el Caribe. La milpa, formada por maíz, frijoles y ayote, es reconocida por sus beneficios nutricionales, agronómicos y ambientales, y desde 2010 es Patrimonio Inmaterial Mundial. Este sistema agrícola produce gran variedad de alimentos con múltiples formas de preparación. Costa Rica y otras culturas americanas difundieron alimentos, plantas y animales que hoy son parte de la cultura alimentaria global.\n\nAdaptado de: _www.binasss.sa.cr._\n\nDe acuerdo con el texto anterior, un hecho de la historia antigua de Costa Rica presente en la sociedad actual está relacionado con la",
+      "options": {
+        "A": "milpa como sistema agrícola tradicional que contribuye con la diversidad alimentaria y es Patrimonio Inmaterial Mundial.",
+        "B": "permanencia de la milpa como sistema agrícola mesoamericano que hoy aporta alimentos variados y prácticas sostenibles.",
+        "C": "domesticación del ayote en la época colonial, que permitió su uso en múltiples preparaciones culinarias actuales.",
+        "D": "introducción del maíz y la yuca por los europeos, que transformó la alimentación en Guanacaste y el Caribe."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "block": "Geografía e Historia",
+      "blockNumber": 6,
+      "skill": "Comprende las características básicas de las principales etnias de la Costa Rica antigua.",
+      "text": "Lea el siguiente texto:\n\nEl artista precolombino consideraba su arte un instrumento mágico para influir en la naturaleza, dominar enemigos y expresar temas de vida y muerte. Su objetivo no era crear belleza, sino manifestar el poder mágico, los símbolos y ritos que manifestaban la identidad individual y social.\n\nAdaptado de_: www.binasss.sa.cr._\n\nEl texto anterior describe características del arte de los pueblos originarios de Costa Rica, el cual",
+      "options": {
+        "A": "buscaba principalmente la belleza estética y la decoración de objetos cotidianos.",
+        "B": "tenía un propósito mágico y simbólico, reflejando la identidad y las creencias de la sociedad.",
+        "C": "se limitaba a reproducir escenas de la naturaleza sin intención mágica ni simbólica.",
+        "D": "se enfocaba en narrar historias mitológicas sin relación con la vida social o espiritual de la vida diaria."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "block": "Geografía e Historia",
+      "blockNumber": 7,
+      "skill": "Comprende las principales características de los pueblos originarios y sus aportes a la sociedad actual.",
+      "text": "Lea el siguiente texto:\n\nLos Chorotegas se establecieron en Guanacaste y se destacaron como alfareros, creando cerámica multicolor inspirada en la fauna y los dioses naturales. Aunque los diseños originales se perdieron con la colonización española, la técnica de alfarería en hornos rústicos perduró gracias a una tradición transmitida de madres a hijas, preservada por las mujeres de la región.\n\nAdaptado de: _revistas.ucr.ac.cr._\n\nEl texto anterior describe parte de las características artísticas propias de uno de los pueblos originarios de Costa Rica, lo cual ha propiciado la",
+      "options": {
+        "A": "creación de cerámica multicolor original que se mantiene igual desde la época precolombina en la actualidad.",
+        "B": "práctica de la alfarería únicamente en talleres industriales modernos, lo que sustituyó las técnicas tradicionales.",
+        "C": "conservación de técnicas ancestrales de alfarería que mantienen viva la identidad cultural de Guanacaste.",
+        "D": "influencia directa de la colonización española en el diseño de la cerámica tradicional chorotega."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "block": "Geografía e Historia",
+      "blockNumber": 8,
+      "skill": "Comprende las principales características de los pueblos originarios y sus aportes a la sociedad actual.",
+      "text": "Lea el siguiente texto:\n\nEn Costa Rica, la herencia Chorotega se fusiona con la tradición española en las festividades de la Virgen de Guadalupe, celebradas con devoción en Nicoya. Estas fiestas tienen sus raíces en las antiguas celebraciones chorotegas del Maíz y del Sol, dedicadas al Sol, la Luna, el Viento y el Agua.\n\nAdaptado de: _www.periodicomensaje.com./guanacaste._\n\nLa información anterior refleja el aporte de la cultura Chorotega que, unido a la sociedad actual de Nicoya, se manifiesta en",
+      "options": {
+        "A": "las danzas, ritos y festividades que honran a la Virgen de Guadalupe, basadas en costumbres españolas.",
+        "B": "una tradición religiosa y cultural que fusiona antiguas celebraciones con festividades actuales.",
+        "C": "las prácticas agrícolas ancestrales que anularon la influencia de los europeos en la actualidad.",
+        "D": "las festividades religiosas actuales que reemplazaron por completo las fiestas el Maíz y del Sol."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "block": "Geografía e Historia",
+      "blockNumber": 9,
+      "skill": "Comprende las principales características de los pueblos originarios y sus aportes a la sociedad actual.",
+      "text": "Lea el siguiente texto:\n\nEl Juego de los Diablitos es la tradición más representativa de la cultura indígena Boruca, una procesión de tres días realizada del 31 de diciembre al 2 de enero. Representa dramáticamente la lucha entre el invasor español, simbolizado por el toro, y la comunidad indígena, representada por los diablitos.\n\nAdaptado de: _www.puravidauniversity.eu._\n\nDe acuerdo con la información anterior, un aporte de los pueblos originarios a la sociedad actual consiste en la",
+      "options": {
+        "A": "integración de elementos indígenas en celebraciones actuales, que promueven un diálogo intercultural entre tradiciones originarias y la cultura mestiza.",
+        "B": "transmisión de una identidad cultural viva mediante rituales que preservan la memoria histórica y fortalecen el sentido de pertenencia.",
+        "C": "influencia de prácticas como la organización política comunitaria y el uso de tecnologías ancestrales en la agricultura moderna.",
+        "D": "realización de desfiles comerciales sin contenido simbólico, que usan las máscaras de diablitos solo como adorno turístico."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "block": "Geografía e Historia",
+      "blockNumber": 10,
+      "skill": "Comprende la situación actual y los retos de los pueblos originarios.",
+      "text": "Lea el siguiente texto:\n\nEn 2020, los derechos indígenas en Costa Rica tuvieron avances y retrocesos. Se inició un diagnóstico sobre el agua en territorios indígenas, continuó el programa de vivienda culturalmente apropiada y aumentó la inversión pública en ayudas sociales e infraestructura educativa. Sin embargo, persisten problemas graves como la impunidad ante invasiones de tierras, que el Estado no ha logrado resolver debido a una visión limitada que no considera la complejidad sociocultural de los conflictos ni implementa desalojos o indemnizaciones cuando corresponde.\n\nAdaptado de: _www.iwgia.org/es/costa-rica._\n\nEl texto anterior describe parte de la situación actual que viven los pueblos originarios del país, por lo que es necesario",
+      "options": {
+        "A": "implementar políticas que reconozcan la complejidad sociocultural y garanticen la protección de los derechos territoriales indígenas.",
+        "B": "continuar con programas de vivienda e infraestructura sin modificar estrategias actuales de resolución de conflictos territoriales",
+        "C": "mantener la atención únicamente en ayudas sociales temporales, sin abordar de manera directa las invasiones de propiedad.",
+        "D": "priorizar la inversión en infraestructura educativa y social, dejando los conflictos de tierras para un análisis futuro."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "block": "Geografía e Historia",
+      "blockNumber": 11,
+      "skill": "Comprende la situación actual y los retos de los pueblos originarios.",
+      "text": "Lea la siguiente información:\n\nEn Costa Rica como consecuencia del abandono de los caminos y el difícil acceso geográfico, los niños y las niñas de los territorios aborígenes tienen un limitado ingreso a los servicios de salud, con pocas posibilidades de recibir controles de crecimiento y desarrollo, promoción de condiciones de vida saludables y respuesta rápida frente a enfermedades o traumas.\n\nAdaptado de: Adaptado de: _www.unicef.org._\n\nLa información anterior describe una de las situaciones vividas por la niñez indígena del país, por lo cual es necesario",
+      "options": {
+        "A": "incrementar campañas de vacunación y controles de salud de forma ocasional en comunidades indígenas remotas.",
+        "B": "promover talleres educativos sobre hábitos saludables sin modificar el acceso actual a los servicios de salud.",
+        "C": "aumentar únicamente charlas informativas en las comunidades, sin mejorar caminos ni servicios médicos.",
+        "D": "atender la infraestructura vial y el acceso a servicios de salud en los territorios indígenas."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "block": "Geografía e Historia",
+      "blockNumber": 12,
+      "skill": "Comprende el impacto cultural, demográfico y social de la conquista española.",
+      "text": "Lea la siguiente información:\n\nUna vez conquistado un territorio, los españoles recibían concesiones de indígenas en encomienda como premio por sus servicios a la Corona. La encomienda permitía al encomendero cobrar impuestos a los aborígenes en productos agrícolas, artesanales, frutos recolectados, aves de corral y trabajo directo.\n\nAdaptado de: _https/historia.unah.edu.hn._\n\nDe acuerdo con el texto anterior, una de las consecuencias de la conquista española en Costa Rica consistió en",
+      "options": {
+        "A": "imposición de un sistema de explotación indígena mediante la encomienda, que obligaba a tributar productos y trabajo a los españoles.",
+        "B": "creación de acuerdos justos de intercambio que garantizaron igualdad de derechos para los indígenas.",
+        "C": "integración pacífica de indígenas y españoles mediante acuerdos culturales y comerciales.",
+        "D": "establecimiento de comunidades indígenas autónomas libres de tributos coloniales."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "block": "Geografía e Historia",
+      "blockNumber": 13,
+      "skill": "Ubica en el espacio y el tiempo el periodo colonial de Costa Rica.",
+      "text": "Lea la siguiente información:\n\nDurante el siglo XVII, la expansión de la población española en Costa Rica se concentró en el Valle Central, especialmente en las zonas de San José, Heredia, Barva y Aserrí, así como en áreas cercanas como Pacaca y Curridabat. Esta colonización fue impulsada tanto por la élite de Cartago como por agricultores que buscaban nuevas tierras para asentarse.\n\nAdaptado de: _micostaricadeantano.com._\n\n¿A cuál periodo de la historia de Costa Rica hace referencia la información anterior?",
+      "options": {
+        "A": "Exploración y conquista",
+        "B": "Republicano.",
+        "C": "Colonial",
+        "D": "Liberal ."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "block": "Geografía e Historia",
+      "blockNumber": 14,
+      "skill": "Reconoce las principales características de la Colonia en Costa Rica y sus aportes a la sociedad actual.",
+      "text": "Lea el siguiente texto:\n\nEn Costa Rica, los pobladores originarios fueron repartidos en encomiendas al servicio de un pequeño grupo de españoles, quienes emplearon esta mano de obra para explotaciones agrícolas de trigo y maíz, y exigieron tributos de productos autóctonos. También les exigieron recolectar plantas silvestres y elaborar canastas para empacar dichos productos, enviados al puerto de Caldera y el Caribe.\n\nAdaptado de: _www.dgan.go.cr._\n\nDe acuerdo con el texto anterior, una característica de la economía de Costa Rica en el periodo colonial consistió en la",
+      "options": {
+        "A": "pago voluntario de tributos en productos autóctonos para fortalecer la economía indígena.",
+        "B": "imposición de tributos en productos autóctonos y la recolección de plantas silvestres por los indígenas.",
+        "C": "responsabilidad de los indígenas para coordinar el transporte de canastas y productos hacia puertos de Caldera y el Caribe.",
+        "D": "integración de la mano de obra voluntaria del aborigen en la economía colonial mediante la producción agrícola de trigo y maíz."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "block": "Geografía e Historia",
+      "blockNumber": 15,
+      "skill": "Distingue los aportes de la colonia a la sociedad costarricense.",
+      "text": "Lea el siguiente texto:\n\nLa obra de evangelización emprendida en la provincia de Costa Rica por los sacerdotes franciscanos durante el periodo colonial permite considerar a estos misioneros como los primeros maestros que tuvieron nuestros aborígenes, ya que no sólo les preocupaba su catequesis, sino que además de la religión cristiana, les enseñaban a leer, contar y escribir. Por esta razón se considera a las iglesias y las capillas coloniales, como los primeros “centros educativos” que se fundaron.\n\nAdaptado de: _www.centroedumatematica.com._\n\nEn relación con el texto anterior, uno de los aportes del periodo colonial a la sociedad costarricense consiste en la",
+      "options": {
+        "A": "organización de escuelas laicas administradas por indígenas, independientes de la influencia religiosa.",
+        "B": "introducción de la educación básica con el papel de los misioneros franciscanos como los primeros “maestros”.",
+        "C": "establecimiento de rutas comerciales que facilitaron el intercambio de bienes entre indígenas y los colonizadores.",
+        "D": "construcción de infraestructura religiosa que sirvió como refugio para la población indígena durante conflictos."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "block": "Geografía e Historia",
+      "blockNumber": 16,
+      "skill": "Distingue los aportes de la colonia a la sociedad costarricense.",
+      "text": "Lea el siguiente texto:\n\nEn Costa Rica, en octubre de 1821, al Ayuntamiento de Cartago le correspondió invitar a ciudadanos con amplios poderes para decidir el rumbo que habría que seguir al declararse la independencia. Acudieron representantes de diversas tendencias ideológicas. La jornada terminó con el establecimiento del primer documento con carácter constitucional, el cual concedió la ciudadanía a todos los hombres libres y naturales de la provincia o habitantes en ella con cinco años de residencia.\n\nAdaptado de: _www.larepublica.net._\n\nSegún el texto anterior, un principio democrático establecido en el Pacto de Concordia, con vigencia en la actualidad, consiste en que la ciudadanía se",
+      "options": {
+        "A": "limita únicamente a quienes hayan nacido en la provincia, excluyendo a los extranjeros residentes de cualquier participación política.",
+        "B": "concede de manera automática a toda persona que declare su lealtad al país sin importar su tiempo de residencia.",
+        "C": "otorga a los hombres libres y residentes, reconociendo derechos políticos a quienes cumplen ciertos requisitos.",
+        "D": "reconoce como ciudadanos únicamente a quienes poseen propiedades, excluyendo a residentes sin tierras."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "block": "Geografía e Historia",
+      "blockNumber": 17,
+      "skill": "Reconoce la importancia del Pacto de Concordia en la organización republicana del Estado nación costarricense.",
+      "text": "Lea el siguiente texto:\n\nEl 1 de diciembre de 1821 en Costa Rica una Junta de Legados redactó un documento para garantizar que los primeros pasos autónomos se dieran en un ambiente de convivencia pacífica. Considerada la primera Constitución Política, el Pacto Social Fundamental Interino del Estado de Costa Rica o Pacto de Concordia, tuvo vigencia hasta 1823 y su importancia llega hasta hoy, ya que sienta las bases republicanas del Estado costarricense.\n\nAdaptado de: _castrocarazo.info._\n\nSegún el texto anterior, el Pacto de Concordia adquirió un carácter relevante para el país, porque",
+      "options": {
+        "A": "posibilitó la construcción de una república soberana y estableció un marco para la convivencia pacífica entre los costarricenses.",
+        "B": "estableció el sufragio universal y garantizó la participación directa de todos los habitantes en la elección de sus gobernantes.",
+        "C": "fue el último documento colonial que mantuvo la subordinación de Costa Rica a la Corona española.",
+        "D": "confirmó la dependencia política de Costa Rica frente a España, manteniendo la autoridad colonial."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "block": "Geografía e Historia",
+      "blockNumber": 18,
+      "skill": "Distingue la importancia geográfica de la anexión del Partido de Nicoya a Costa Rica.",
+      "text": "Lea el siguiente texto:\n\nTras la independencia en 1821, las relaciones entre la Provincia de Costa Rica y el Partido de Nicoya se intensificaron debido a la proximidad geográfica y conveniencia comercial. Nicoya tenía más vínculos comerciales con Costa Rica que con Nicaragua, comerciando principalmente con Puntarenas, Esparza, Las Cañas y Bagaces. Por ello, los habitantes de Nicoya decidieron integrarse a Costa Rica el 25 de julio de 1824.\n\nAdaptado de: _revistas.ucr.ac.cr._\n\nSegún el texto anterior, una característica, desde el punto de vista geográfico, que propició la anexión del Partido de Nicoya al país fue la",
+      "options": {
+        "A": "ausencia de límites naturales claros entre Nicoya y Costa Rica, que permitió la libre circulación de bienes y personas.",
+        "B": "cercanía territorial entre Costa Rica y Nicoya, lo que facilitó la continuidad y el aumento de sus relaciones comerciales.",
+        "C": "extensión territorial del Partido de Nicoya, que se incrementó significativamente tras su unión con Costa Rica.",
+        "D": "lejanía entre Nicoya y Costa Rica, que dificultaba el comercio por tierra y por mar."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "block": "Geografía e Historia",
+      "blockNumber": 19,
+      "skill": "Reconoce la importancia de la Campaña Nacional en la conformación del Estado nación costarricense.",
+      "text": "Lea el siguiente texto:\n\nLa Campaña Nacional de 1856-1857 como lucha por la libertad es considerada como una guerra por la independencia. Esta no se libró contra los ejércitos españoles, como en otras colonias de Hispanoamérica, sino contra los filibusteros liderados por William Walker que pretendían dominar Centroamérica. La amenaza a la existencia de Costa Rica como una nación soberana, fortaleció el patriotismo y ayudó a conformar los rasgos de la sociedad costarricense.\n\nAdaptado de: _semanariouniversidad.com._\n\nDe acuerdo con el texto anterior, la guerra contra los filibusteros contribuyó con",
+      "options": {
+        "A": "la creación de un ejército profesional permanente para expandir el territorio costarricense en Centroamérica.",
+        "B": "establecer vínculos diplomáticos permanentes con España para evitar futuras invasiones coloniales.",
+        "C": "fortalecer el sentimiento patriótico y consolidar la identidad costarricense ante una amenaza externa.",
+        "D": "impulsar el control extranjero sobre Costa Rica, debilitando la identidad y el patriotismo nacionales."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "block": "Geografía e Historia",
+      "blockNumber": 20,
+      "skill": "Reconoce la importancia de la Campaña Nacional en la conformación del Estado nación costarricense.",
+      "text": "Lea el siguiente texto:\n\nEn horas de la mañana del 11 de abril de 1856 el ejército costarricense fue sorprendido por el batallón enemigo. Esto provocó, confusión y desorientación entre los integrantes del ejército, pero se inició el contraataque con mucha valentía. La mayor parte de las fuerzas enemigas se concentró en una casona de huéspedes llamada Mesón de Guerra. Bien colocados en el Mesón, a los filibusteros les resultaba muy fácil controlar la situación, dando la señal de alerta con disparos en contra del ejército nacional.\n\nAdaptado de: _guiascostarica.info._\n\n¿A cuál batalla de la Campaña Nacional 1856-1857 hace referencia el texto anterior?",
+      "options": {
+        "A": "Batalla de Santa Rosa, donde los filibusteros ocuparon el Mesón de Guerra y fueron repelidos por el ejército costarricense.",
+        "B": "Batalla de Rivas, caracterizada por el enfrentamiento en Nicaragua y el uso estratégico del Mesón de Guerra.",
+        "C": "Batalla de Sardinal, donde el ejército costarricense fue sorprendido en un campamento cercano al Mesón.",
+        "D": "Batalla del río San Juan, centrada en el control de las rutas fluviales hacia Nicaragua."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "block": "Geografía e Historia",
+      "blockNumber": 21,
+      "skill": "Comprende la importancia de las Reformas liberales a finales del siglo XX para la consolidación del Estado Nación costarricense.",
+      "text": "Lea el siguiente texto:\n\nEn Costa Rica, para 1884 la secularización de los cementerios pretendía demostrar el poder del Estado sobre otras instituciones, en este caso en contra de la jerarquía de la iglesia Católica. Uno de los argumentos de secularizar los campos santos por parte de los liberales, era permitir el libre culto a los no católicos y así eliminar la intolerancia católica.\n\nAdaptado de: _revistas.una.ac.cr._\n\nEl texto anterior hace referencia a uno de los aspectos que formaron parte de la Reformas Liberales en el país, denominado",
+      "options": {
+        "A": "separación de poderes.",
+        "B": "leyes anticlericales.",
+        "C": "reforma educativa.",
+        "D": "monarquía."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "block": "Geografía e Historia",
+      "blockNumber": 22,
+      "skill": "Comprende los logros sociales de la década de1940 y su impacto en la sociedad actual. (salud, educación y trabajo).",
+      "text": "Lea el siguiente texto:\n\nEn el Gobierno de Rafael Ángel Calderón Guardia, Luis Demetrio Tinoco Castro, quien fue secretario de Instrucción Pública, impulsó la creación de la Universidad de Costa Rica la cual fue inaugurada en 1941, convencido de que el país había alcanzado gran madurez social, cultural, económica y política; por tanto, era necesario un centro de estudios superiores que respondiera a las características de la sociedad, a las necesidades y aspiraciones del país.\n\nAdaptado de: _didacticamultimedia.com._\n\nA partir de texto anterior, la Universidad de Costa Rica desde el momento de su creación ha",
+      "options": {
+        "A": "promovido principalmente la educación religiosa y la influencia de la Iglesia Católica.",
+        "B": "representado un centro público, autónomo y comprometido con el desarrollo nacional.",
+        "C": "funcionado como una institución privada con acceso restringido a élites sociales más favorecidas.",
+        "D": "actuado como un centro exclusivo para la formación militar y entrenamiento de fuerzas armadas."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "block": "Geografía e Historia",
+      "blockNumber": 23,
+      "skill": "Comprende la definición y la importancia de la Educación Cívica.",
+      "text": "Lea el siguiente texto:\n\nLa Educación Cívica es una asignatura que orienta y explica el funcionamiento del sistema social en el que cada persona interactúa de una u otra manera, permitiendo engrandecer la comunidad y la propia experiencia, entendiendo el conjunto de leyes y normas de convivencia que llevan a establecer deberes y derechos.\n\nAdaptado de: _significado.com._\n\nCon base en el texto anterior, la Educación Cívica en la sociedad costarricense permite",
+      "options": {
+        "A": "fomentar el individualismo y la competencia sin considerar el bienestar colectivo ni las leyes.",
+        "B": "promover exclusivamente la obediencia a las autoridades sin cuestionar las normas sociales.",
+        "C": "comprender y ejercer derechos y deberes para fortalecer la convivencia y la participación ciudadana.",
+        "D": "limitar la participación ciudadana al cumplimiento pasivo de las órdenes sin asumir responsabilidades."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "block": "Geografía e Historia",
+      "blockNumber": 24,
+      "skill": "Reconoce las funciones de las principales instituciones promotoras de los derechos del estudiantado.",
+      "text": "Lea la siguiente información:\n\nEn Costa Rica, esta institución protege los derechos e intereses de la población en general ante las actuaciones irregulares que puedan cometer las instituciones públicas cuando brindan sus servicios, de forma tal que los derechos e intereses de los habitantes siempre estén protegidos.\n\nAdaptado de: _dhr.go.cr._\n\nA partir de la información anterior, ¿a cuál institución promotora de los derechos del estudiantado pueden recurrir las personas estudiantes?",
+      "options": {
+        "A": "Contraloría General de la República",
+        "B": "Ministerio de Educación Pública",
+        "C": "Instituto Mixto de Ayuda Social",
+        "D": "Defensoría de los Habitantes"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "block": "Geografía e Historia",
+      "blockNumber": 25,
+      "skill": "Reconoce la importancia de las actitudes ciudadanas en el fortalecimiento de la relación armoniosa con el ambiente.",
+      "text": "Lea la siguiente información:\n\nEn Costa Rica, la disposición a cambiar algunos comportamientos de las personas que generen cambios en la protección y conservación del ambiente se dificulta porque no hay buenas alternativas y políticas públicas por parte de las autoridades para estimular u obligar la modificación de conductas de protección al ambiente para el beneficio de la comunidad y, por otro lado, existe una resistencia cultural de las personas para asumir compromisos que representan un mayor esfuerzo individual.\n\nAdaptado de: _repositorio.conare.ac.cr._\n\nA partir del texto anterior, se puede establecer que una práctica ciudadana que ayuda a la protección del ambiente consiste en",
+      "options": {
+        "A": "Desestimar la responsabilidad individual, confiando únicamente en que las autoridades implementen políticas públicas efectivas.",
+        "B": "Adoptar prácticas sostenibles como el reciclaje, la participación y el ahorro de recursos en iniciativas ambientales comunitarias.",
+        "C": "Mantener conductas tradicionales sin modificar hábitos, debido a la resistencia cultural y falta de incentivos estatales.",
+        "D": "apoyar solo campañas simbólicas sin cambiar hábitos de consumo ni uso de recursos."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "block": "Geografía e Historia",
+      "blockNumber": 26,
+      "skill": "Comprende la identidad costarricense desde una perspectiva intercultural, multiétnica y plurilingüe (afrodescendientes, asiáticos y pueblos originarios).",
+      "text": "Lea la siguiente información:\n\nLa existencia de los pueblos originarios en Costa Rica se estima desde el año 10 000 antes de Cristo. La cultura de estos pueblos en general es dinámica, es una herencia sociocultural que se transmite y renueva constantemente. Es la experiencia social que se hereda por generaciones, se alimenta de la memoria histórica del grupo (capacidad para escoger, conservar y construir información de la experiencia colectiva). Esta memoria histórica, es un recurso vital para la recreación permanente de la cultura, es decir, para mantener vigente la cultura aborigen.\n\nAdaptado de: _www.unicef.org/costarica._\n\nA partir del texto anterior, se puede establecer que un aporte de los pueblos originarios a la identidad costarricense consiste en la",
+      "options": {
+        "A": "olvido progresivo de su historia, lo que debilita su aporte a la identidad nacional.",
+        "B": "sustitución de sus costumbres y tradiciones culturales debido a la modernización y pérdida de memoria colectiva.",
+        "C": "preservación y transmisión constante de su memoria histórica como base de la identidad cultural nacional.",
+        "D": "imposición de tradiciones ancestrales que limitan la integración con otras culturas costarricenses."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "block": "Geografía e Historia",
+      "blockNumber": 27,
+      "skill": "Comprende los problemas éticos y ciudadanos establecidos en la cotidianidad durante el periodo colonial, para la construcción de una sociedad igualitaria y equitativa.",
+      "text": "Lea el siguiente texto:\n\nDurante el periodo colonial en Costa Rica, la población indígena, que siempre fue escasa y rebelde, disminuyó aún más debido a su retiro a las montañas, a las guerras y a las enfermedades traídas por los españoles. Los pocos indígenas que quedaron en la provincia de Costa Rica en ese entonces debieron realizar trabajos forzosos en servicios personales a los peninsulares, ya que estos carecían de suministros de leña, cuidado del ganado, el cultivo del maíz y del trigo, los oficios domésticos, entre otros.\n\nAdaptado de: embajadacostarica.org\n\nDe acuerdo con el texto anterior, los pueblos originarios de Costa Rica durante la Colonia",
+      "options": {
+        "A": "mantuvieron su población invariable y conservaron su autonomía frente a los colonizadores españoles.",
+        "B": "fueron reducidos en número y obligados a trabajos forzosos para sostener la economía colonial.",
+        "C": "se integraron voluntariamente a la sociedad colonial sin sufrir desplazamientos ni enfermedades.",
+        "D": "aumento de su población gracias a mejores condiciones de vida bajo el dominio español."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "block": "Geografía e Historia",
+      "blockNumber": 28,
+      "skill": "Comprende el papel de los símbolos nacionales en la consolidación del Estado nación costarricense (Escudo Bandera e Himno Nacional).",
+      "text": "Lea el siguiente texto:\n\nLa idea de Costa Rica libre, soberana e independiente, con riquezas naturales, ha diferenciado al país de otros, aspecto que es ejemplificado mediante los distintos símbolos nacionales que posee el país. Por lo tanto, el conocimiento y la toma de conciencia de dichos símbolos, contribuye a que los costarricenses se identifiquen con ellos. Así, desde jóvenes, las personas van formando su concepto de identidad mediante la incorporación de temas relacionadas con normas, comportamientos y simbología nacional.\n\nAdaptado de: _revistas.una.ac.cr._\n\nDe acuerdo con el texto anterior, los símbolos nacionales cumplen un papel en la consolidación del Estado Nación con lo cual",
+      "options": {
+        "A": "fomenta el respeto por la historia, aunque sin influir de forma significativa en la participación ciudadana actual.",
+        "B": "limita la diversidad cultural al enfocarse únicamente en los valores tradicionales representados por los símbolos.",
+        "C": "fortalece la identidad nacional y se promueve la unidad entre los ciudadanos desde edades tempranas.",
+        "D": "debilita la identidad común al centrarse solo en diferencias regionales y locales del país."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "block": "Geografía e Historia",
+      "blockNumber": 29,
+      "skill": "Comprende el papel de los derechos constitucionales en una sociedad democrática.",
+      "text": "Lea el siguiente texto:\n\nLos seres humanos se diferencian de otros organismos vivos por la capacidad de reflexionar, de crear y de aspirar a estar mejor. Y es ahí donde las manifestaciones artísticas son fundamentales para las sociedades. Las artes contribuyen a crear espacios apropiados para analizar y entender la vida de las personas y de la sociedad en que se desarrollan; por esta razón la Constitución Política de Costa Rica establece el derecho al arte y la cultura.\n\nAdaptado de: _ucr.ac.cr._\n\nA partir del texto anterior se puede afirmar que el desarrollo del arte y la cultura, entre otros aspectos, propicia en las personas",
+      "options": {
+        "A": "el desarrollo de la creatividad, la capacidad de reflexión crítica y el fortalecimiento de la identidad y cohesión social.",
+        "B": "la tendencia a imitar expresiones culturales extranjeras, debilitando el sentido de pertenencia a la cultura nacional.",
+        "C": "el interés por el entretenimiento superficial, restando importancia al análisis profundo de la vida en sociedad.",
+        "D": "el rechazo de expresiones culturales propias, al considerarlas menos valiosas que las extranjeras."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "block": "Geografía e Historia",
+      "blockNumber": 30,
+      "skill": "Comprende el papel de los derechos constitucionales en una sociedad democrática.",
+      "text": "Lea el siguiente texto:\n\nEn opinión de la Sala Constitucional (Sala IV) en Costa Rica, los derechos constitucionales representan la principal garantía con que cuenta la ciudadanía, en donde los sistemas jurídico y político, en conjunto, deben preocuparse por el respeto y la promoción de la persona humana, su desarrollo y la constante divulgación de las libertades públicas.\n\nAdaptado de: _institucional.us.es._\n\nA partir de la información anterior, la existencia de los derechos constitucionales en la sociedad posibilita",
+      "options": {
+        "A": "permitir que las autoridades ejerzan su poder sin limitaciones, restringiendo la participación y protección de la ciudadanía.",
+        "B": "garantizar la protección efectiva de los derechos fundamentales al promover el desarrollo integral y la defensa ciudadana.",
+        "C": "facilitar el control exclusivo del Poder Ejecutivo sobre las libertades públicas, al limitar la función de los órganos estatales.",
+        "D": "asegurar solo algunos privilegios especiales para grupos específicos, sin proteger a toda la población."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "block": "Geografía e Historia",
+      "blockNumber": 31,
+      "skill": "Comprende la definición y la importancia de los Estudios Sociales.",
+      "text": "Lea la siguiente información:\n\nUna de las disciplinas más importantes de los Estudios Sociales es la Historia. El objetivo principal de esta disciplina es poder entender y explicar, a través del análisis de libros, fotografías, registros, películas y documentos, los sucesos históricos, sus causas y las consecuencias que provocaron.\n\nDe acuerdo con la información anterior, la importancia de la Historia, como parte de los Estudios Sociales, radica en\n\nA partir de la información anterior, la existencia de los derechos constitucionales en la sociedad posibilita",
+      "options": {
+        "A": "memorizar fechas y eventos sin profundizar en el contexto ni en el impacto social de los sucesos.",
+        "B": "priorizar la lectura de relatos tradicionales sin utilizar diversas fuentes ni fomentar un análisis crítico de la historia.",
+        "C": "comprender y analizar críticamente los hechos históricos, sus causas y consecuencias para entender la sociedad actual.",
+        "D": "estudiar las biografías de personajes famosos para destacar sus logros individuales y omitir los procesos de la colectividad."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "block": "Geografía e Historia",
+      "blockNumber": 32,
+      "skill": "Reconoce la importancia de Costa Rica en el contexto geográfico, social y político.",
+      "text": "Lea la siguiente información:\n\nEl nuevo panorama internacional nos impulsa a adoptar una “nueva forma de pensar y vivir en Centroamérica”. Para enfrentar los retos actuales, es esencial que busquemos soluciones innovadoras tanto a nivel nacional como regional y que mejoremos nuestra capacidad para coordinar acciones conjuntas. Costa Rica está estrechamente vinculada con Centroamérica a través de relaciones sociales y políticas, subrayando la importancia de la colaboración regional.\n\nAdaptado de: Estado de la Región. (2008).\n\nDe acuerdo con la información anterior, las relaciones políticas y sociales con los países centroamericanos permiten",
+      "options": {
+        "A": "el fortalecimiento de la cooperación política y social regional, lo cual facilita las soluciones conjuntas a retos comunes y desarrollo sostenible.",
+        "B": "la competencia y desconfianza entre países que obstaculizan la coordinación y la búsqueda de soluciones integrales en la región.",
+        "C": "el aislamiento de Costa Rica al enfocarse solo en intereses nacionales, limitando la colaboración con países vecinos.",
+        "D": "la desaparición de los vínculos históricos y culturales entre Costa Rica y Centroamérica."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "block": "Geografía e Historia",
+      "blockNumber": 33,
+      "skill": "Identifica las características básicas de las diferentes formas de relieve de Costa Rica.",
+      "text": "Lea la siguiente información:\n\nCosta Rica presenta diferentes formas de relieve. Una de ellas es el área donde las aguas oceánicas o marítimas se encuentran con los continentes o islas. Puede presentar una variedad de formas y características, como playas, acantilados, estuarios y deltas; su perfil puede ser influenciado por procesos naturales como la erosión, la sedimentación y la actividad tectónica.\n\nAdaptado de: Vargas, G. (2012).\n\nEl texto anterior hace referencia al concepto denominado",
+      "options": {
+        "A": "costa.",
+        "B": "meseta.",
+        "C": "valle fluvial.",
+        "D": "cordillera."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "block": "Geografía e Historia",
+      "blockNumber": 34,
+      "skill": "Identifica temporalmente la historia antigua de Costa Rica y su incidencia en la sociedad actual.",
+      "text": "Lea la siguiente información:\n\nEn este período (2000 a.C al 500 a.C) la organización social era de tipo tribal, en la que se desarrolló un cultivo basado en tubérculos y semillas. También se inició un proceso de diferenciación social y se aplicaron diversas técnicas de decoración en la cerámica.\n\nAdaptado de: Museo Nacional de Costa Rica.\n\nEl texto anterior, hace referencia al período de la historia antigua de Costa Rica denominado modo de vida",
+      "options": {
+        "A": "cacical.",
+        "B": "aldeano igualitario.",
+        "C": "nómada recolector.",
+        "D": "cazadores y recolectores."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "block": "Geografía e Historia",
+      "blockNumber": 35,
+      "skill": "Comprende las principales características de los pueblos originarios y sus aportes a la sociedad actual.",
+      "text": "Lea la siguiente información:\n\nLos pueblos bribris y cabécares desarrollaron una relación armoniosa con el entorno natural que se ha transmitido oralmente a través de narraciones, cantos y danzas a todos los miembros de la familia y en cada comunidad. También avanzaron en el campo de la medicina, las plantas medicinales, los valores espirituales, el conocimiento astrológico y la poesía.\n\nAdaptado de: Estrada, V. (2012).\n\nSegún el texto anterior, un aporte de los pueblos originarios, bribris y cabécares, a la sociedad actual es la",
+      "options": {
+        "A": "desaparición de sus prácticas culturales debido a la influencia externa, lo que limita su aporte al desarrollo social actual.",
+        "B": "adopción exclusiva de tecnologías modernas y la pérdida gradual de sus tradiciones ancestrales sin influencia en la cultura.",
+        "C": "transmisión oral y la práctica de conocimientos ancestrales sobre medicina natural, valores espirituales y tradiciones culturales.",
+        "D": "la sustitución total de los saberes tradicionales por costumbres externas, lo que impide que sus conocimientos tengan impacto social."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "block": "Geografía e Historia",
+      "blockNumber": 36,
+      "skill": "Comprende las características básicas de las principales etnias",
+      "text": "Lea la siguiente información:\n\nLos guacales-cantimplora tienen un cordón natural hecho a mano para colgarlos del hombro, pues, antiguamente, así era como se mantenía el agua fresca. Hoy, son tal vez uno de los productos que menos utilidad presenta para la vida diaria de una persona que desee comprarlos, sin embargo, y en la actualidad, el guacal o la jícara no ha perdido su gran sentido utilitario para Bribris y Cabécares en Costa Rica, que viven en Talamanca, ni tampoco ha perdido importancia para su arte y su poder de comunicación y la forma en como el artesano representaba su experiencia con lo que lo rodeaba.\n\nAdaptado de: Jiménez, C. (2015).\n\nLa información anterior indica que el arte para los pueblos originarios del país",
+      "options": {
+        "A": "sigue siendo un elemento fundamental que refleja su identidad cultural, transmite experiencias y mantiene viva su tradición ancestral.",
+        "B": "se ha transformado en una actividad comercial sin vínculos con las tradiciones ni con la expresión cultural auténtica de las comunidades.",
+        "C": "ha perdido relevancia práctica y simbólica, convirtiéndose en meros objetos decorativos sin conexión con la vida cotidiana.",
+        "D": "se ha limitado a la fabricación de utensilios sin valor simbólico, por lo cual deja de ser un medio de comunicación cultural."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "block": "Geografía e Historia",
+      "blockNumber": 37,
+      "skill": "Comprende las principales características de los pueblos originarios y sus aportes a la sociedad actual.",
+      "text": "Considere la siguiente información:\n\nLos pueblos originarios de Costa Rica han dejado un importante legado cultural y ambiental. Se destacan por sus avances en agricultura, especialmente con cultivos como el maíz, el frijol y la yuca, así como la práctica de la milpa la cual es un sistema agrícola sostenible. Además, han enriquecido la identidad cultural del país con sus tradiciones, lenguas y conocimientos sobre la naturaleza.\n\nAdaptado de: Montoya, F. (2011).\n\nConsiderando la información anterior, un aporte de los pueblos originarios de Costa Rica a la sociedad actual consiste en la",
+      "options": {
+        "A": "conservación de sus lenguas y costumbres para evitar el contacto con la sociedad actual.",
+        "B": "introducción de cultivos modernos que han sustituido las prácticas agrícolas tradicionales en la cultura costarricense.",
+        "C": "implementación de sistemas agrícolas sostenibles y la defensa de tradiciones culturales que fortalecen la identidad nacional.",
+        "D": "abandono de los sistemas agrícolas tradicionales y el rechazo de las prácticas culturales, lo que debilita la identidad nacional."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "block": "Geografía e Historia",
+      "blockNumber": 38,
+      "skill": "Comprende la situación actual y los retos de los pueblos originarios.",
+      "text": "Lea el siguiente texto:\n\nEn el período reciente, Costa Rica ha progresado en térmicos de la representación política de los pueblos indígenas y ha iniciado proyectos de desarrollo sostenible en sus territorios. Sin embargo, persisten retos significativos como la ocupación ilegal de tierras indígenas y la falta de implementación efectiva de leyes de protección ambiental.\n\nAdaptado de: _International Work Group for Indigenous Affairs._\n\nEl texto anterior refleja parte de la situación actual que viven los pueblos originarios del país, por lo cual es necesario",
+      "options": {
+        "A": "priorizar proyectos económicos sin atender las problemáticas sociales ni ambientales de las comunidades indígenas.",
+        "B": "fortalecer la protección legal y promover el desarrollo sostenible para garantizar los derechos y territorios indígenas.",
+        "C": "impulsar la modernización económica sin atender la representación política ni la defensa de los territorios indígenas.",
+        "D": "mantener intacta la idiosincrasia aborigen sin implementar medidas adicionales para resolver la ocupación ilegal."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "block": "Geografía e Historia",
+      "blockNumber": 39,
+      "skill": "Comprende el impacto cultural, demográfico y social de la conquista española.",
+      "text": "Lea el siguiente texto:\n\nLa encomienda consistió en un grupo de indígenas que se asignaban a un español, quienes servían a él y a sus descendientes por dos generaciones. La mano de obra indígena se utilizó en explotaciones agrarias como el trigo. También, los encomenderos les cobraban impuestos sobre los productos que cultivaban.\n\nAdaptado de: Velázquez, C. (2005).\n\nDe acuerdo con el texto anterior, una de las consecuencias de la conquista española en Costa Rica consistió en el",
+      "options": {
+        "A": "preservación de la autonomía indígena sin afectación en sus formas de trabajo ni en sus recursos.",
+        "B": "integración voluntaria de los indígenas en actividades agrícolas sin imposición ni explotación económica.",
+        "C": "sometimiento de los indígenas a trabajos forzados y cobro de impuestos por parte de los encomenderos españoles.",
+        "D": "respeto pleno de las formas de trabajo indígena y reconocimiento de sus derechos sin intervención de los encomenderos."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "block": "Geografía e Historia",
+      "blockNumber": 40,
+      "skill": "Ubica en el espacio y tiempo el periodo colonial de Costa Rica.",
+      "text": "Lea el siguiente texto:\n\nDurante el siglo XVII en Costa Rica, los españoles y sus descendientes comenzaron a expandirse más allá del Valle Oriental. Se establecieron en nuevas áreas del Valle Occidental que incluyeron los territorios actuales de San José, Heredia, Barva y Aserrí y promovieron el asentamiento en estas regiones.\n\nAdaptado de: Cartín, M. (2013).\n\n¿A cuál período de la historia de Costa Rica refiere el texto anterior?",
+      "options": {
+        "A": "Colonial",
+        "B": "Republicano",
+        "C": "Precolombino",
+        "D": "Independiente."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "block": "Geografía e Historia",
+      "blockNumber": 41,
+      "skill": "Ubica en el espacio y tiempo el periodo colonial de Costa Rica.",
+      "text": "Lea el siguiente texto:\n\nLa exportación de mulas desde diversos puntos de Centroamérica hacia Panamá fue un negocio que dejó ganancias a algunos habitantes de Cartago, aunque benefició más a los comerciantes de las ciudades de León y Granada de Nicaragua, de donde procedía un gran número de las mulas empleadas en el transporte trans-ístmico. El envío de mulas se mantuvo bien entrado el siglo XVIII y desapareció con la extinción de las ferias comerciales en Portobelo.\n\nAdaptado de: Solórzano, J. C. (2017).\n\nDe acuerdo con la información anterior, la economía de Costa Rica durante el período colonial se caracterizó por la",
+      "options": {
+        "A": "exportación de textiles, especies y metales preciosos hacia el sur del continente centroamericano.",
+        "B": "comercialización de productos agrícolas y pecuarios hacia diferentes regiones cercanas.",
+        "C": "concentración del comercio de mulas en el mercado nacional hasta el siglo XX.",
+        "D": "producción de artesanías y objetos de lujo destinados al comercio con Europa durante el siglo XVIII."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "block": "Geografía e Historia",
+      "blockNumber": 42,
+      "skill": "Analiza el proceso histórico de independencia de Costa Rica.",
+      "text": "Lea la siguiente información:\n\nEn la primera Constitución de Costa Rica (1821), el artículo 2 establece que:\n\n«La Provincia de Costa Rica reconoce y respeta la libertad civil, propiedad y demás derechos naturales y legítimos de toda persona y de cualquier pueblo o nación».\n\nAdaptado de: _Archivo Nacional de Costa Rica._\n\nDe acuerdo con el texto anterior, un principio democrático en Costa Rica establecido desde la independencia consiste en",
+      "options": {
+        "A": "la concentración del poder en una sola autoridad sin garantías para los derechos individuales ni colectivos.",
+        "B": "el reconocimiento y respeto de los derechos civiles en un contexto de libertad individual y colectivo.",
+        "C": "la limitación de la libertad civil a ciertos grupos privilegiados dentro de la sociedad costarricense.",
+        "D": "el establecimiento de un sistema monárquico que restringía los derechos naturales y legitimaba la concentración del poder."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "block": "Geografía e Historia",
+      "blockNumber": 43,
+      "skill": "Analiza el proceso histórico de independencia de Costa Rica.",
+      "text": "Considere el siguiente texto:\n\nEl 1 de diciembre de 1821, al saberse independiente de la corona española, en Costa Rica, una Junta de Legados redactó un contrato social para garantizar que los primeros pasos autónomos se dieran en un clima de armonía. Se considera la primera Constitución Política (provisional) y se llamó Pacto Social Fundamental Interino del Estado de Costa Rica, o Pacto de Concordia. Su importancia llega hasta hoy, ya que sienta las bases republicanas del Estado costarricense al manifestar el deseo de que se conserve “libre, unida, segura y tranquila por un pacto de unión y concordia”.\n\nAdaptado de: Badilla, E. (2022).\n\nAl considerar el texto anterior, ¿cuál es la importancia del Pacto de Concordia en la organización republicana del Estado costarricense?",
+      "options": {
+        "A": "Impuso un régimen autoritario que limitó la participación ciudadana y centralizó el poder en pocas manos.",
+        "B": "Fue un documento sin relevancia práctica, que no influyó en la formación política ni en la estabilidad del país.",
+        "C": "Estableció las bases para la unión y la paz social, sentando los cimientos del Estado republicano costarricense.",
+        "D": "Instauró un sistema monárquico provisional que mantuvo la dependencia de Costa Rica respecto a la corona española."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q44",
+      "number": 44,
+      "block": "Geografía e Historia",
+      "blockNumber": 44,
+      "skill": "Comprende la importancia geográfica y cultural de la Anexión del Partido de Nicoya a Costa Rica.",
+      "text": "Lea el siguiente texto:\n\nLa región del partido de Nicoya era muy importante para Costa Rica, principalmente en el contexto de la configuración de su Estado nacional. Por tal razón, Costa Rica se movió hábilmente en los pasillos de la República Federal y, con un mínimo de inversión y sin batallas gracias a que Nicaragua respetó las mismas reglas, aumentó su territorio, aseguró su puerto en el Océano Pacífico y quedó en situación de reclamar participación en un posible canal interoceánico.\n\nAdaptado de: Fernández, J. A. (2015).\n\nA partir del texto anterior, un aspecto importante en la incorporación del partido de Nicoya a Costa Rica, el 25 de julio de 1824, fue la",
+      "options": {
+        "A": "búsqueda de ventajas económicas y de seguridad que ofrecía Costa Rica frente a la inestabilidad en Nicaragua.",
+        "B": "intención de mantener lazos coloniales con la Capitanía General de Guatemala y evitar cambios políticos tras la independencia.",
+        "C": "presión militar ejercida por Costa Rica sobre el territorio de Nicoya con el fin de asegurar su anexión sin resistencia armada.",
+        "D": "mantener la dependencia política de Nicoya hacia Nicaragua para conservar su territorio bajo control externo."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "block": "Educación Cívica",
+      "blockNumber": 1,
+      "skill": "Comprende la definición y la importancia de la Educación Cívica.",
+      "text": "Lea el siguiente texto:\n\nEn Costa Rica, la Educación Cívica forma ciudadanos responsables mediante el desarrollo integral basado en una cultura democrática y pacífica. Su objetivo principal es preparar a los ciudadanos para vivir, respetar y contribuir al desarrollo de la comunidad, al fomentar la participación en asuntos de interés público y promoviendo la transparencia en la democracia.\n\nAdaptado de: Nades, A. (2024).\n\nDe acuerdo con el texto anterior, ¿cuál es la importancia de la Educación Cívica?",
+      "options": {
+        "A": "Es fundamental porque forma ciudadanos responsables que participan activamente en la vida democrática y comunitaria.",
+        "B": "Busca únicamente transmitir conocimientos históricos sobre la democracia y la organización política del país.",
+        "C": "Se centra en enseñar normas de convivencia escolar para reducir los conflictos entre estudiantes",
+        "D": "Transmisión de contenidos religiosos sin relación con la formación ciudadana ni democrática."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "block": "Educación Cívica",
+      "blockNumber": 2,
+      "skill": "Comprende la importancia de las instituciones promotoras de los derechos de las personas estudiantes (MEP, PANI, Ebais. Defensoría de los Habitantes. IMAS).",
+      "text": "Lea la siguiente información:\n\nEsta institución puede realizar transferencias económicas dirigidas a familias o personas afectadas por emergencias, provocadas por fenómenos de origen natural o antrópico, para la atención de sus necesidades inmediatas.\n\nLa información anterior hace referencia a la institución promotora de los derechos de la ciudadanía denominada",
+      "options": {
+        "A": "Caja Costarricense de Seguro Social.",
+        "B": "Patronato Nacional de la Infancia.",
+        "C": "Ministerio de Educación Pública.",
+        "D": "Instituto Mixto de Ayuda Social."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "block": "Educación Cívica",
+      "blockNumber": 3,
+      "skill": "Reconoce la importancia de las actitudes ciudadanas en el fortalecimiento de la relación armoniosa con el ambiente.",
+      "text": "Lea el siguiente texto:\n\nLa ley Orgánica del Ambiente en su artículo 6 establece que:\n\n«El Estado y las municipalidades, fomentarán la participación activa y organizada de los habitantes de la República, en la toma de decisiones y acciones tendientes a proteger y mejorar el ambiente».\n\nTomado: Sistema Costarricense de Información Jurídica.\n\nCon respecto al texto anterior, se puede distinguir que las buenas prácticas y actitudes ciudadanas en materia ambiental",
+      "options": {
+        "A": "corresponden únicamente al Estado junto con las municipalidades, sin requerir la mediación ciudadana.",
+        "B": "implican la protección del entorno mediante la inserción activa de la comunidad en decisiones y acciones ambientales.",
+        "C": "requieren de acatar las normas ambientales por parte de los ciudadanos sin participar en los procesos decisivos.",
+        "D": "delegar en organismos internacionales la protección ambiental, sin que las comunidades participen."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "block": "Educación Cívica",
+      "blockNumber": 4,
+      "skill": "Comprende la identidad costarricense desde una perspectiva intercultural, multiétnica y plurilingüe (afrodescendientes, asiáticos y pueblos originarios).",
+      "text": "Lea el siguiente texto:\n\nLa celebración de festividades y el respeto por las prácticas culturales indígenas también reflejan la profunda influencia de estos pueblos en la identidad nacional. El reconocimiento y la preservación de estas culturas enriquecen el sentido de pertenencia y la diversidad cultural de Costa Rica.\n\nA partir del texto anterior, se puede establecer que un aporte de los pueblos originarios a la identidad costarricense consiste en la",
+      "options": {
+        "A": "preservación de tradiciones y celebraciones que fortalecen la diversidad cultural y el sentido de pertenencia nacional.",
+        "B": "desaparición de las prácticas indígenas en la vida nacional, sin influencia en la diversidad cultural costarricense.",
+        "C": "limitación de sus prácticas culturales aisladas sin influencia significativa en la identidad nacional.",
+        "D": "imposición de sus costumbres como únicas, al desplazar otras manifestaciones culturales del país."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "block": "Educación Cívica",
+      "blockNumber": 5,
+      "skill": "Comprende los problemas éticos y ciudadanos establecidos en la cotidianidad durante el periodo colonial, para la construcción de una sociedad igualitaria y equitativa.",
+      "text": "Lea el siguiente texto:\n\nDesde la llegada de los europeos a Costa Rica y durante el período colonial, las sociedades indígenas sufrieron cambios drásticos en todos los aspectos de su vida. El desarrollo de las sociedades aborígenes, con diez mil años de historia, se vio cortado producto de la conquista y diferenciación social, y la población disminuyó debido a las enfermedades traídas por los españoles y a la explotación de mano de obra forzada.\n\nAdaptado de: Museo Nacional de Costa Rica.\n\nLa información anterior presenta un problema ético y social durante el período colonial en Costa Rica, que consistió en la",
+      "options": {
+        "A": "integración voluntaria y armoniosa de los pueblos indígenas en la sociedad colonial debido a la ausencia de conflictos.",
+        "B": "marginación de las sociedades indígenas por la conquista, sumado a las enfermedades y la explotación laboral.",
+        "C": "fortalecimiento de las sociedades indígenas por el acceso equitativo a los recursos y el respeto a sus formas de vida.",
+        "D": "expansión pacífica de las comunidades indígenas debido al apoyo de los colonizadores españoles."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "block": "Educación Cívica",
+      "blockNumber": 6,
+      "skill": "Comprende el papel de los símbolos nacionales en la consolidación del Estado Nación costarricense. (Escudo, Bandera E Himno nacional).",
+      "text": "Lea el siguiente texto:\n\nEn Costa Rica, los símbolos nacionales tienen como una de sus características más sobresalientes conservar rasgos que socialmente son aceptados. Con este se exterioriza o se da a conocer un pensamiento o ideas con un significado convencional, para una comunidad o conjunto de seres humanos. Estas representaciones visuales o verbales pretenden crear un sentimiento de identidad nacional a partir de la vivencia de valores, tradiciones, creencias y costumbres más significativas de un país.\n\nAdaptado de: Imprenta Nacional. (2022).\n\nEl texto anterior plantea la importancia de los símbolos nacionales, ya que",
+      "options": {
+        "A": "propician un sentido de identidad y pertenencia al reflejar valores y tradiciones compartidos por la comunidad.",
+        "B": "representan exclusivamente hechos históricos sin vincularse con las emociones o creencias de la población.",
+        "C": "representan la adopción de símbolos ajenos a la tradición costarricense que no reflejan valores nacionales.",
+        "D": "consisten en elementos decorativos sin influencia en la cohesión social o cultural del país."
+      },
+      "answer": "A"
+    }
+  ]
+}

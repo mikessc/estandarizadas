@@ -1,0 +1,757 @@
+{
+  "id": "espanol-primaria",
+  "title": "Español – Práctica",
+  "subject": "Español",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "block": "Comprensión lectora",
+      "blockNumber": 1,
+      "skill": "Distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«De las especies de tortugas marinas, casi todas están clasificadas como en peligro de extinción, y eso se debe principalmente a las actividades humanas. La captura accidental en las artes de pesca, que a menudo resulta en la muerte, es la mayor amenaza para la mayoría de las tortugas marinas. También son asesinadas por sus huevos, carne, piel y caparazón, y son víctimas de la caza furtiva y la sobreexplotación. Además, el cambio climático afecta las playas de anidación de las tortugas marinas así como a los huevos».\n\nTomado de: _www.worldwildlife.org_\n\nSegún el texto anterior, ¿cuál es la idea fundamental transmitida?",
+      "options": {
+        "A": "Las tortugas son cazadas para poder consumir su carne y huevos.",
+        "B": "Los cambios en el ambiente afectan la anidación de las tortugas marinas.",
+        "C": "La población de la tortuga marina disminuye por causa de las acciones humanas.",
+        "D": "La captura accidental en redes de pesca es la mayor amenaza para las tortugas marinas."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "block": "Comprensión lectora",
+      "blockNumber": 2,
+      "skill": "La persona estudiante distingue las ideas complementarias en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Los bosques otorgan múltiples beneficios, tanto para el ser humano como para las miles de especies que habitan la Tierra. Son la mayor fuente de oxígeno y son los purificadores del aire por excelencia. Además, proporcionan hogar y alimento a todos los animales».\n\nTomado de: _vidamasverde.com (adaptado)_\n\nEn el texto anterior, una idea complementaria destaca que en los bosques se",
+      "options": {
+        "A": "forman miles de especies de árboles.",
+        "B": "produce agua pura, necesaria para la vida.",
+        "C": "proporcionan hogar y alimento a todos los animales.",
+        "D": "destacan por ser una fuente de oxígeno en el planeta Tierra."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "block": "Comprensión lectora",
+      "blockNumber": 3,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Los derrumbes ocurren por gravedad, en lugares montañosos con pendientes fuertes o barrancos, cuando a la pendiente le es imposible retener el material de tierra. El material de tierra puede caer, volcarse, deslizarse, regarse o fluir […]. Los motivos principales y naturales de los derrumbes son las lluvias prolongadas e intensas y los temblores de tierra. Las actividades de los seres humanos complican la situación de derrumbes, como ejemplos: cuando ha ocurrido tala de árboles, cuando hay construcciones de casas en terrenos con problemas geográficos y no autorizados, cuando hay ríos que no han sido canalizados, o donde hayan filtraciones de agua por pozos sépticos».\n\nTomado de: _www.ecoexploratorio.org_\n\nSegún el texto anterior, ¿cuál es una causa natural que provoca los derrumbes?",
+      "options": {
+        "A": "Las lluvias constantes",
+        "B": "Las lluvias fuertes en barrancos",
+        "C": "Los pozos sépticos mal ubicados",
+        "D": "La construcción en terrenos no aptos"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "block": "Comprensión lectora",
+      "blockNumber": 4,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Un sismo es el movimiento brusco de la Tierra provocado por la liberación de energía acumulada durante un largo tiempo. Los más fuertes […] pueden generar graves daños, poniendo en riesgo la seguridad de todos los habitantes. Esto puede repercutir generando daños en las viviendas y edificios, derrumbes de puentes, rompimiento de vidrios, entre otros.\n\nEl impacto, o nivel de daños, que un sismo puede llegar a provocar en un lugar determinado, no depende exclusivamente de lo potente que sea el movimiento, sino también de la competencia sísmica con que las edificaciones hayan sido diseñadas y construidas».\n\nTomado de: _www.cne.go.cr_\n\nSegún el texto anterior, ¿cuál es un efecto provocado por los sismos?",
+      "options": {
+        "A": "La liberación de energía almacenada",
+        "B": "El rompimiento de vidrios en edificios",
+        "C": "La construcción de edificios y casas modernas",
+        "D": "Los daños a la infraestructura vial y a las viviendas"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "block": "Comprensión lectora",
+      "blockNumber": 5,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«No cabe duda. Los niños actuales están atrapados en los videojuegos. En Francia, el psico-sociólogo Gérard Bonnafont, ha investigado las reacciones de más de dos mil niños adictos a estos juegos, y sus conclusiones son optimistas. El juego potencia en los niños la tenacidad, la reflexión, los reflejos, el espíritu lógico y la memoria. Frente a la acusación de que es una actividad individual que aísla a los niños, el profesor aduce que, por el contrario, favorece las relaciones entre los jugadores, ya que se intercambian discos, juegan juntos y forman clubes. No obstante, el lado oscuro es que el niño se encuentra solo ante una pantalla, con la que mantiene una relación hipnótica. Competencia, reto, individualismo y necesidad de controlar la situación son otros de sus aspectos».\n\nTomado de: _www.elpais.com_\n\nSegún el texto anterior, un efecto de los videojuegos consiste en que",
+      "options": {
+        "A": "incentiva la reflexión y la memoria.",
+        "B": "fomenta un ambiente violento pero competitivo.",
+        "C": "aísla a los niños de las relaciones sociales.",
+        "D": "estimula la imaginación y la reflexión para enfrentar la vida."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "block": "Comprensión lectora",
+      "blockNumber": 6,
+      "skill": "La persona estudiante reconoce los temas presentes en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«Hubo gente que se asombró muchísimo de que una gata Angora fuera novia de un armadillo, y de que ambos pasaran tantas horas sentados en el sofá estampado viendo televisión. “Pensándolo bien, hay cosas mucho más raras”, dijo el ama de casa cuando empezaron los comentarios».\n\nTomado de: _El sofá estampado_\n\nEn el texto anterior, ¿cuál es el tema tratado?",
+      "options": {
+        "A": "Las buenas relaciones a pesar de las diferencias.",
+        "B": "Los comentarios ajenos que afectan la tranquilidad.",
+        "C": "Las situaciones que impiden la convivencia familiar.",
+        "D": "La sorpresa de la gente ante mascotas inusuales."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "block": "Comprensión lectora",
+      "blockNumber": 7,
+      "skill": "La persona estudiante infiere pensamientos de los personajes de un texto literario.",
+      "text": "Lea el siguiente texto:\n\n«―El príncipe da un baile mañana por la noche ―murmuraba el joven estudiante―, y mi amada asistirá a la fiesta. Si le llevo una rosa roja, bailará conmigo hasta el amanecer […] Pero no hay rosas rojas en mi jardín. Por lo tanto, tendré que estar solo y no me hará ningún caso. No se fijará en mí para nada y se destrozará mi corazón. ―He aquí el verdadero enamorado ―dijo el ruiseñor―. Sufre todo lo que yo canto: todo lo que es alegría para mí es pena para él. Realmente el amor es algo maravilloso: es más bello que las esmeraldas y más raro que los finos ópalos. Perlas y rubíes no pueden pagarlo porque no se halla expuesto en el mercado».\n\nTomado de: _El ruiseñor y la rosa, El Príncipe Feliz y otros cuentos_\n\nSegún el pensamiento mostrado por el ruiseñor en el texto anterior,",
+      "options": {
+        "A": "el fracaso amoroso produce tristeza.",
+        "B": "el amor es un lujo inalcanzable para los pobres.",
+        "C": "el amor verdadero es gratuito, paciente y solidario.",
+        "D": "la alegría y las penas son parte del enamoramiento."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "block": "Comprensión lectora",
+      "blockNumber": 8,
+      "skill": "La persona estudiante reconoce los conflictos de los personajes en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«A la mañana del día siguiente, cuando Heidi se despertó quedó extrañada de cuanto la rodeaba […] De súbito recordó que estaba en Frankfurt. Saltó del lecho y se arregló en un santiamén. Era todavía muy temprano. Heidi estaba acostumbrada a levantarse con la luz de la aurora. Como un pajarillo que se viera por primera vez encerrado en una bella jaula de oro y que, volando de aquí para allá, tratara de atravesar cada uno de los barrotes de su prisión para lanzarse al aire libre, Heidi iba de una ventana a otra, intentando abrirlas para ver el sol».\n\nTomado de: _Heidi_\n\nSegún el texto anterior, ¿cuál es el conflicto que enfrenta Heidi?",
+      "options": {
+        "A": "Sentirse encerrada.",
+        "B": "Desear ver el sol y no poder.",
+        "C": "Querer escaparse y no encontrar la salida.",
+        "D": "Levantarse temprano en un lugar desconocido."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "block": "Comprensión lectora",
+      "blockNumber": 9,
+      "skill": "La persona estudiante reconoce los conflictos de los personajes en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«Se casaron y hubo una gran parranda. Al día siguiente la Cucarachita […] después del almuerzo puso al fuego una gran olla de arroz con leche, cogió dos tinajas que colocó una sobre la cabeza y otra en el cuadril, y se fue por agua. Antes de salir dijo a su marido:\n\n—Véame el fuego y cuidadito con golosear en esa olla de arroz con leche […]. Volvió la Cucarachita y se encontró con la puerta atrancada. Tuvo que ir a hablarle a un carpintero para que viniera a abrirla. Cuando entró, el corazón le avisaba que había pasado una desgracia. Se puso a buscar a su marido por todos los rincones. Le dieron ganas de asomarse a la olla de arroz con leche... y ¡va viendo!... a su esposo bailando en aquel caldo. La pobre se puso como loca y daba unos gritos que se oían en toda la cuadra».\n\nTomado de: _La cucarachita mandinga, Cuentos de mi Tía Panchita_\n\n¿Cuál conflicto enfrenta la Cucarachita cuando llega a la casa?",
+      "options": {
+        "A": "Dar gritos hasta provocar que todos los vecinos se asustaran.",
+        "B": "Darse cuenta de que su marido había caído en la olla.",
+        "C": "Ir a buscar agua para cocinar el arroz con leche.",
+        "D": "Encontrar la puerta atrancada y no poder entrar."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "block": "Comprensión lectora",
+      "blockNumber": 10,
+      "skill": "La persona estudiante identifica comportamientos de los personajes en un texto literario.",
+      "text": "Lea el siguiente texto:\n\n«Gepetto quería cuidar a su hijo como habría hecho con cualquiera que no fuese de madera. Pinocho tenía que ir al colegio, aprender y conocer a otros niños. Pero el carpintero no tenía dinero, y tuvo que vender su abrigo para poder comprar una cartera y los libros.\n\nA partir de aquel día, Pinocho empezó a ir al colegio con la compañía de un grillo, que le daba buenos consejos. Pero, como la mayoría de los niños, Pinocho prefería ir a divertirse que ir al colegio a aprender, por lo que no siempre hacía caso del grillo».\n\nTomado de: _Las aventuras de Pinocho_\n\nSegún el texto anterior, Pinocho se comportó de forma",
+      "options": {
+        "A": "desinteresada, prefiere divertirse que aprender.",
+        "B": "positiva, valora el esfuerzo de su padre Gepetto.",
+        "C": "entusiasta, atiende los consejos de su amigo el grillo.",
+        "D": "obediente, acompaña al grillo al colegio todos los días."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "block": "Comprensión lectora",
+      "blockNumber": 11,
+      "skill": "La persona estudiante distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Últimamente se ha visto que otra causa importante de la desaparición de insectos son las luces. Se cree que aproximadamente la mitad de las especies de insectos comen y se reproducen de noche. Bombillos y lámparas pueden atraer mariposas y otros insectos. Se quedan dando vueltas a la lámpara y muchos mueren antes de la mañana, por cansancio o porque se los comen otros animales como arañas, ratas o sapos».\n\nTomado de: _Insectos que vuelan de noche, Escuela para todos. (2021_).\n\n¿Cuál es la idea fundamental del texto anterior?",
+      "options": {
+        "A": "La iluminación beneficia la reproducción de los insectos.",
+        "B": "Los bombillos pueden atraer mariposas y otros insectos.",
+        "C": "Las luces ocasionan que muchos insectos desaparezcan.",
+        "D": "Las especies nocturnas de insectos mueren por luces artificiales."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "block": "Comprensión lectora",
+      "blockNumber": 12,
+      "skill": "La persona estudiante distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«La Tierra gira alrededor de un eje inclinado, o una línea imaginaria que atraviesa el planeta desde el Polo Sur hasta el Polo Norte. Si el planeta tuviera un ángulo diferente, o si la Tierra estuviera un poco más cerca o más lejos del Sol, las temperaturas cambiarían drásticamente. Y eso haría imposible la vida aquí».\n\nTomado de: _5 razones por las que deberías amar la Tierra, National Geographic Kids_\n\n¿Cuál es la idea fundamental del texto anterior?",
+      "options": {
+        "A": "La Tierra gira alrededor de un eje imaginario que atraviesa los polos.",
+        "B": "La inclinación de la Tierra varía según la cercanía con el Sol.",
+        "C": "La Tierra tendría una mejor temperatura si cambia su ángulo.",
+        "D": "La posición de la Tierra permite que exista la vida en ella."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "block": "Comprensión lectora",
+      "blockNumber": 13,
+      "skill": "La persona estudiante distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Un gran número de aves en toda América del Norte surcan los cielos cuando el sol se pone en otoño. Para estos viajeros cansados, es hora de otro largo vuelo. Muchas aves tienen una casa de verano y otra de invierno. Estas aves usan un hogar para reproducirse y otro para mantenerse calientes y encontrar comida durante el invierno. Este comportamiento se llama migración».\n\nTomado de: _Viajeros cansados, Space Place_\n\n¿Cuál es la idea fundamental del texto anterior?",
+      "options": {
+        "A": "Algunas aves de América del Norte migran en otoño.",
+        "B": "Muchas aves tienen un hogar para calentarse en invierno.",
+        "C": "Ciertas aves vuelan durante la noche para evitar depredadores.",
+        "D": "Muchas aves viajan largas distancias cuando cambia el clima."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "block": "Comprensión lectora",
+      "blockNumber": 14,
+      "skill": "La persona estudiante distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Durante la temporada de reproducción de las aves en el verano, los jilgueros americanos machos desarrollan plumas más brillantes para atraer parejas. Las hembras ponen de dos a siete huevos. Los jilgueros recién nacidos pueden volar unas dos semanas después de nacer, pero muchos regresan a sus nidos y se quedan con sus padres durante un mes más antes de irse definitivamente».\n\nTomado de: _Jilguero americano, National Geographic Kids_\n\nEn el texto anterior, ¿cuál de las siguientes opciones presenta una idea complementaria relacionada con los jilgueros?",
+      "options": {
+        "A": "Pueden volar a la edad de unas dos semanas.",
+        "B": "Recién nacidos tienen un plumaje más brillante.",
+        "C": "Pueden reproducirse en cualquier época del año.",
+        "D": "Las hembras ponen entre dos y siete huevos."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "block": "Comprensión lectora",
+      "blockNumber": 15,
+      "skill": "La persona estudiante distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«La parte más profunda de los océanos suele estar a unos ocho mil metros. Es tanta la distancia que ninguna persona ha conseguido llegar hasta esos lugares recónditos y misteriosos. Eso sí, gracias a la avanzada tecnología actual, se envían robots exploradores a recoger información. Gracias a ellos sabemos que los oscurísimos fondos oceánicos están habitados por extrañas y fascinantes criaturas marinas. El lugar más profundo del planeta Tierra está a once mil metros bajo el nivel del mar, al fondo del Océano Pacífico, y se conoce como La Fosa de las Marianas».\n\nTomado de: _Los océanos, Mundo Primaria_\n\nEn el texto anterior, ¿cuál es una idea complementaria?",
+      "options": {
+        "A": "Los robots no han encontrado vida en los fondos oceánicos.",
+        "B": "Los fondos oceánicos están habitados por criaturas extrañas.",
+        "C": "Pocas personas han podido llegar hasta la Fosa de las Marianas.",
+        "D": "La parte más profunda de los océanos se encuentra a ocho mil metros."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "block": "Comprensión lectora",
+      "blockNumber": 16,
+      "skill": "La persona estudiante distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Si nuestra piel está expuesta a demasiada luz ultravioleta, con el tiempo, esta luz puede dañar las células de nuestra piel. Las células pueden morir y, por eso, nuestro cuerpo reacciona. La piel se vuelve roja y duele mucho. La luz ultravioleta viene del Sol, pero también puede rebotar en otras superficies como el agua, la nieve y el concreto. Esto significa que, aunque estés bajo una sombrilla, el Sol puede quemarte. La luz ultravioleta también puede atravesar las nubes, por eso es posible quemarse en un día nublado».\n\nTomado de:_¿Por qué nos quema el Sol?, Space Place_\n\nEn el texto anterior, ¿cuál es una idea complementaria?",
+      "options": {
+        "A": "La sombrilla protege de quemaduras solares.",
+        "B": "La nieve también puede quemar nuestra piel.",
+        "C": "La luz ultravioleta puede atravesar las nubes.",
+        "D": "La piel se vuelve roja y duele cuando nos quemamos."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "block": "Comprensión lectora",
+      "blockNumber": 17,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«La Tierra es un planeta terrestre. Es pequeño y rocoso. La atmósfera terrestre tiene el grosor perfecto para mantener la temperatura templada del planeta, para que seres vivos como nosotros podamos vivir en él. Es el único planeta de nuestro sistema solar que sabemos que tiene las condiciones necesarias para que haya vida. Está compuesto por nitrógeno, en su mayor parte, pero tiene una buena cantidad de oxígeno, que es lo que nos permite respirar».\n\nTomado de: _Todo sobre la Tierra, Space Place_\n\nSegún el texto anterior, ¿cuál es la causa de que podamos respirar en la Tierra?",
+      "options": {
+        "A": "La contextura pequeña y rocosa que posee el planeta.",
+        "B": "La composición de nitrógeno que caracteriza al planeta.",
+        "C": "La buena cantidad de oxígeno que tiene nuestro planeta.",
+        "D": "La atmósfera mantiene la temperatura templada del planeta."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "block": "Comprensión lectora",
+      "blockNumber": 18,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«El pez león, también llamado pez escorpión, es un habitante de los mares del otro lado del mundo. Siempre ha vivido en los mares de Japón, las islas Filipinas, en Indonesia y Australia. Ahora también es un habitante del mar Caribe. No es un pez agresivo, es manso y curioso. Los buzos, cuando entran al mar, los ven en parejas o en grupos. Puede llegar a medir hasta 40 centímetros de largo. Es de color rojo y tiene como unas plumas y unas espinas. Como es muy bonito, en algunos acuarios los tienen encerrados para verlos. Es un pez de cuidado, pues en las espinas tiene un veneno».\n\nTomado de: _El pez león, Escuela para todos. (2010)._\n\nSegún el texto anterior, ¿cuál es la causa de que el pez león se considere de cuidado?",
+      "options": {
+        "A": "Es muy curioso y agresivo.",
+        "B": "Son peces de gran tamaño.",
+        "C": "Sus espinas son venenosas.",
+        "D": "Su color rojo lo hace llamativo para los buzos."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "block": "Comprensión lectora",
+      "blockNumber": 19,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«El jaguar es el felino más grande de Costa Rica. Es común encontrarlo en bosques húmedos y manglares. Se alimenta de manera oportunista, toma cualquier presa que se encuentre a su disposición, incluso ataca a animales grandes como el ganado para alimentarse, lo cual ocasiona conflictos con los humanos por invadir sus propiedades. En nuestro país se encuentra en peligro de extinción, debido a la pérdida de su hábitat por deforestación».\n\nAdaptado de: _jaguar.org_\n\nSegún la información anterior, ¿cuál es la causa de que el jaguar se encuentre en riesgo de desaparecer?",
+      "options": {
+        "A": "El conflicto con humanos al invadir sus propiedades.",
+        "B": "La pérdida de su hábitat producto de la deforestación.",
+        "C": "La lucha contra presas muy grandes que intenta cazar.",
+        "D": "La presencia frecuente en bosques húmedos y manglares."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "block": "Comprensión lectora",
+      "blockNumber": 20,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«El tucán pico iris habita en zonas montañosas y bosques del territorio nacional. Se alimenta de frutas y semillas, pero también consume pequeños lagartos e insectos. Sus pesadas alas hacen que volar sea una experiencia agotadora, por lo que no vuela largas distancias. Anida en los huecos de altos árboles para evitar depredadores y se reproduce una vez al año».\n\nAdaptado de: _acmcr.org_\n\nSegún la información anterior, ¿cuál es la causa de que el tucán pico iris no vuele largas distancias?",
+      "options": {
+        "A": "Vive en bosques donde encuentra refugio seguro.",
+        "B": "Experimenta cansancio debido al peso de sus alas.",
+        "C": "Prefiere estar en los árboles para evitar depredadores.",
+        "D": "Debe permanecer en zonas montañosas para alimentarse."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "block": "Comprensión lectora",
+      "blockNumber": 21,
+      "skill": "La persona estudiante determina la relación de efecto en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«En las zonas frías de Norteamérica y Europa vive un animal llamado marmota. Por la cara, el cuerpo y el rabo parece una ardilla, pero es mucho más grande y gorda. Este animalito se alimenta de frutas y raíces y es común verlo corriendo por el campo. En esas regiones donde vive hace mucho frío los últimos meses del año. Los árboles se quedan sin hojas y sin frutos y el suelo se cubre de nieve y hielo. Durante ese tiempo, a la marmota le resultaría muy difícil conseguir alimento. Entonces cuando el período de frío se acerca, estos animalitos se esconden en un hueco y allí duermen durante meses. A este sueño profundo por tanto tiempo se le llama hibernación».\n\nAdaptado de: _El día de la marmota, Escuela para todos. (2010)._\n\nSegún el texto anterior, ¿cuál es el efecto del período frío en las marmotas?",
+      "options": {
+        "A": "Mueren por la falta de alimentos.",
+        "B": "Entran en periodo de hibernación.",
+        "C": "Tienden a enfermarse por resfríos.",
+        "D": "Buscan refugio para protegerse del clima."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "block": "Comprensión lectora",
+      "blockNumber": 22,
+      "skill": "La persona estudiante determina la relación de efecto en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Hace unos 20 años se estudió a varios animalitos de los llamados perezosos y se vio que dormían unas 16 horas por día. Pero los perezosos que se estudiaron estaban encerrados. Hace poco se hizo otro estudio con perezosos en libertad, y se vio que solo duermen unas 9 horas por día. Se piensa que cuando están encerrados, tal vez duermen más horas por aburrimiento, porque no tienen que buscarse la comida y porque no tienen enemigos que los ataquen».\n\nTomado de_: Curiosidades, Escuela para todos. (2010_).\n\nSegún el texto anterior, ¿cuál es el efecto de que los perezosos estén encerrados?",
+      "options": {
+        "A": "Viven más tiempo, al no tener enemigos.",
+        "B": "Consumen mayor cantidad de alimentos.",
+        "C": "Duermen mayor número de horas diarias.",
+        "D": "Permanecen más tranquilos dentro de su espacio."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "block": "Comprensión lectora",
+      "blockNumber": 23,
+      "skill": "La persona estudiante reconoce los temas presentes en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«Cenamos y papá tocó el tema de la basura. Comienza explicando y termina regañando: “que la suciedad de las playas\", \"que la gente tira papeles por las ventanas de los buses y de los automóviles\", \"que los parques dan asco llenos de basura y botellas vacías\", \"¿para qué los basureros en los lugares públicos si siempre están llenos?\", y \"que es una barbaridad que la gente no entienda que en los tarros recolectores de vidrio no se echan papeles ni basura. \"¿Cómo va a crecer un país si la cultura va para abajo?\"».\n\nTomado de: _Pantalones largos_\n\n¿Cuál tema se expone en el texto anterior?",
+      "options": {
+        "A": "Los problemas entre padres e hijos.",
+        "B": "La ausencia de basureros en algunas zonas.",
+        "C": "La irresponsabilidad para desechar la basura.",
+        "D": "La importancia de la educación para mejorar la cultura ambiental."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "block": "Comprensión lectora",
+      "blockNumber": 24,
+      "skill": "La persona estudiante reconoce los temas presentes en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«A menudo, la madre y el padre de Charlie acudían también a la habitación y se quedaban de pie junto a la puerta, escuchando las historias que contaban los ancianos, y así, durante una media hora cada noche, esta habitación se convertía en un lugar feliz, y la familia entera conseguía olvidar la situación difícil que vivía».\n\nTomado de: _Charlie y la fábrica de chocolate_\n\nEn el texto anterior, ¿cuál es el tema tratado?",
+      "options": {
+        "A": "La alegría de compartir tiempo en familia.",
+        "B": "Las historias propias de cada generación.",
+        "C": "La pobreza que afecta a algunas familias.",
+        "D": "La importancia de escuchar relatos de otras personas."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "block": "Comprensión lectora",
+      "blockNumber": 25,
+      "skill": "La persona estudiante infiere pensamientos de los personajes de un texto literario.",
+      "text": "Lea el siguiente texto:\n\n«Cuando las personas de nuestro entorno son presentadas, es costumbre que se pregunten la edad y por ello Wendy […] le preguntó a Peter cuántos años tenía […]. ―Wendy, me escapé el día en que nací […]. ―Fue porque oí a papá y mamá ―explicó él en voz baja―, hablar sobre lo que iba a ser yo cuando fuera mayor. Se puso nerviosísimo. ―No quiero ser mayor jamás ―dijo con vehemencia―. Quiero ser siempre un niño y divertirme. Así que me escapé a los jardines de Kensington y viví mucho, mucho tiempo entre las hadas».\n\nTomado de: _Peter Pan y Wendy_\n\nSegún el texto anterior, ¿cuál es el pensamiento evidenciado por Peter?",
+      "options": {
+        "A": "La vida adulta no es divertida.",
+        "B": "Los adultos no entienden a los niños.",
+        "C": "La edad para los niños no es importante.",
+        "D": "Los jardines son más divertidos que la casa familiar."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "block": "Comprensión lectora",
+      "blockNumber": 26,
+      "skill": "La persona estudiante infiere pensamientos de los personajes de un texto literario.",
+      "text": "Lea el siguiente texto:\n\n«Si a una persona mayor le decimos: \"Hay una casa preciosa de ladrillos rosas, con geranios en las ventanas y palomas sobre el tejado\", no pueden imaginarse cómo es. Es preciso decir: \"Hay una casa que vale tantos millones de pesos\". Entonces exclaman entusiasmados: \"¡Oh, qué hermosa es!\"».\n\nTomado de: _El Principito_\n\nSegún el texto anterior, ¿cuál es el pensamiento evidenciado por el personaje?",
+      "options": {
+        "A": "Los mayores perciben lo hermoso mejor que los niños.",
+        "B": "Las personas mayores no se fijan en detalles pequeños.",
+        "C": "Los adultos relacionan la belleza con el valor económico.",
+        "D": "Las personas mayores necesitan datos concretos para imaginar una casa."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "block": "Comprensión lectora",
+      "blockNumber": 27,
+      "skill": "La persona estudiante reconoce los conflictos de los personajes en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«El pobre Pinocho se acercó al fuego donde estaba aquella olla que hervía, y quiso destaparla para ver lo que había dentro; pero ya se acordarán que estaba pintada en la pared. Imaginen la cara que puso. La nariz, que ya era bien larga, le creció lo menos una cuarta. Entonces empezó a recorrer la habitación buscando por todos los cajones y por todos los rincones un poco de pan, aunque fuera muy duro y muy seco; un hueso que se hubiera dejado para los perros, un pedazo de pescado: cualquier cosa, en fin, que se pudiera llevar a la boca; pero no encontró nada, ¡nada! ¡Absolutamente nada!».\n\nTomado de: _Las aventuras de Pinocho_\n\nEn el texto anterior, ¿cuál conflicto enfrenta el personaje?",
+      "options": {
+        "A": "Sentirse muy solo.",
+        "B": "No tener qué comer.",
+        "C": "Ver una olla pintada.",
+        "D": "Tener la nariz demasiado larga."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "block": "Comprensión lectora",
+      "blockNumber": 28,
+      "skill": "La persona estudiante reconoce los conflictos de los personajes en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«—Ese Gepetto parece un buen hombre; pero es muy cruel con los muchachos. Si le dejan a ese pobre muñeco en sus manos, es capaz de hacerle pedazos. En suma, tanto dijeron y tanto murmuraron, que el guardia, dejando en libertad al muñeco, se llevó preso al pobre Gepetto, el cual, no sabiendo qué decir para defenderse, lloraba como un becerro; cuando iba camino de la cárcel...».\n\nTomado de: _Las aventuras de Pinocho_\n\nSegún el texto anterior, ¿cuál es el conflicto sufrido por Gepetto?",
+      "options": {
+        "A": "La pérdida de su libertad.",
+        "B": "Hacer pedazos al muñeco.",
+        "C": "El dolor por castigar a Pinocho.",
+        "D": "Las críticas injustas del vecindario."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "block": "Comprensión lectora",
+      "blockNumber": 29,
+      "skill": "La persona estudiante identifica comportamientos de los personajes en un texto literario.",
+      "text": "Lea el siguiente texto:\n\n«Campanilla no era toda maldad; o, más bien, era toda maldad en ese momento, pero, por otro lado, a veces era toda bondad. Las hadas tienen que ser una cosa o la otra, porque al ser tan pequeñas desgraciadamente solo tienen sitio para un sentimiento por vez. No obstante, les está permitido cambiar, aunque debe ser un cambio total. Por el momento estaba celosísima de Wendy. Por supuesto, Wendy no entendía lo que le decía con su precioso tintineo y estoy convencido de que parte eran palabrotas, pero sonaba agradable y volaba hacia adelante y hacia atrás, queriendo decir claramente: “Sígueme y todo saldrá bien”».\n\nTomado de: _Peter Pan y Wendy_\n\nEn el texto anterior, ¿cuál es el comportamiento evidenciado por Campanilla?",
+      "options": {
+        "A": "Amistoso: verdaderamente quería ser amiga de Wendy.",
+        "B": "Malvado: actuaba de una muy mala manera con Wendy.",
+        "C": "Temeroso: sentía miedo y quería la compañía de Wendy.",
+        "D": "Cambiante: variaba totalmente según su sentimiento."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "block": "Comprensión lectora",
+      "blockNumber": 30,
+      "skill": "La persona estudiante identifica comportamientos de los personajes en un texto literario.",
+      "text": "Lea el siguiente texto:\n\n«Aunque Gepetto estaba haciendo esfuerzos para poner cara de fiera, tenía los ojos llenos de lágrimas y el corazón en un puño por ver en aquel estado tan lamentable a su pobre Pinocho. Y sin decir nada, tomó sus herramientas y dos pedacitos de madera y se puso a trabajar con gran entusiasmo. En menos de una hora había hecho los pies; un par de pies esbeltos, finos y nerviosos, como si hubieran sido modelados por un artista genial».\n\nTomado de: _Las aventuras de Pinocho_\n\nEn el texto anterior, ¿cuál es el comportamiento evidenciado por Gepetto?",
+      "options": {
+        "A": "Rencoroso: ayuda a Pinocho, pero realmente está muy molesto con él.",
+        "B": "Sentimental: se conmueve y cede ante la condición en que está Pinocho.",
+        "C": "Inocente: es engañado por Pinocho para que le fabrique unos pies nuevos.",
+        "D": "Diligente: trabaja con cuidado y entusiasmo en la tarea encomendada."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "block": "Comprensión lectora",
+      "blockNumber": 31,
+      "skill": "La persona estudiante distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Frank Biro y sus colegas realizaron una investigación hace unos años sobre la pubertad temprana en las niñas. Estudios anteriores ya habían relacionado el índice de masa corporal con un inicio más temprano de la pubertad. Pero según el análisis del doctor Biro, el índice de masa corporal es el factor más importante a la hora de explicar este fenómeno. Esto es porque la grasa es una glándula hormonal muy activa, y las células grasas convierten otras hormonas en estrógeno. Cuanto más tejido graso tiene una niña, mayor es su probabilidad de comenzar la pubertad antes. Otros investigadores también apuntan que la exposición a elementos químicos del medio ambiente podría estar alterando la edad en la que empieza la pubertad».\n\nTomado de: BBC.com (2018).\n\nSegún la idea fundamental del texto anterior, el análisis del doctor Biro destaca que",
+      "options": {
+        "A": "los químicos del estrógeno alteran la estructura celular en las menores de edad.",
+        "B": "el índice de masa corporal se asocia principalmente con la pubertad temprana en las niñas.",
+        "C": "la exposición a elementos químicos aumenta la probabilidad de despertar la pubertad en las jóvenes.",
+        "D": "la grasa corporal convierte hormonas en estrógeno para activar la pubertad precoz en las niñas."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "block": "Comprensión lectora",
+      "blockNumber": 32,
+      "skill": "La persona estudiante distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«La bioluminiscencia es un fenómeno fascinante que se observa en muchos animales marinos. Este proceso implica la producción de luz por organismos vivos, y se cree que tiene varias funciones en el mundo marino. Por ejemplo, algunos peces bioluminiscentes utilizan su capacidad para atraer presas, comunicarse con otros individuos de su especie o incluso camuflarse en el ambiente oscuro del océano. Además, hay criaturas como las medusas y los calamares que utilizan la bioluminiscencia como mecanismo de defensa, emitiendo destellos de luz para confundir a los depredadores\\*».\n\n\\*depredadores: Son organismos que cazan y se alimentan de otros organismos.\n\nTomado de: smb.org (2018).\n\nSegún la idea fundamental del texto anterior, la bioluminiscencia",
+      "options": {
+        "A": "se presenta en ciertos animales marinos y es de poca importancia científica.",
+        "B": "es una característica presente en los peces que habitan en las zonas más profundas de los océanos.",
+        "C": "es una propiedad que permite a algunas especies marinas producir su propia luz para diversas funciones.",
+        "D": "es un fenómeno exclusivo que solo ocurre en ciertos organismos terrestres y sin Funciones prácticas."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "block": "Comprensión lectora",
+      "blockNumber": 33,
+      "skill": "La persona estudiante distingue las ideas fundamentales en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«La historia del grafiti en el campo de las artes empieza en la ciudad de Nueva York durante los años 60, fue grandemente influenciado por la música hip-hop del momento y los primeros artistas de esta técnica se localizaron en el lugar y muchos jóvenes acostumbraban a escribir sus nombres en paredes para identificarse en la calle. Ya para el año 70, la técnica empezó a alcanzar un punto importante y se empezaron a incluir diferentes tipos de iconografías\\* populares que incluían también dibujos animados. Se empezaron a realizar diseños de mayor tamaño, escenas más complejas y las letras que se utilizaban para hacerlos también se fueron perfeccionando poco a poco».\n\n\\*iconografías: imágenes relacionadas con un personaje o tema.\n\nTomado de: euston96.com (2021).\n\nLa idea fundamental del texto anterior expone que, en el ámbito de las artes, el grafiti",
+      "options": {
+        "A": "muestra los gustos y preferencias de artistas jóvenes.",
+        "B": "logró mucho éxito con los diseños complejos de gran tamaño.",
+        "C": "inició en los años 60 en Nueva York influenciado por la música hip-hop.",
+        "D": "expresó su evolución en los años 70 mediante el uso de colores vibrantes."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "block": "Comprensión lectora",
+      "blockNumber": 34,
+      "skill": "Distingue las ideas complementarias en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Una mejor educación, una que sea para la vida, es algo que desea toda la gente […]. Para lograrlo se debe aprender con el “corazón”, han descubierto científicos del Massachusetts Institute of Technology en Boston, Estados Unidos […]. El cerebro juega su importante papel, pero de forma secundaria. ¿De qué hablamos? De una ciencia aplicada tanto al aprendizaje como a la enseñanza, llamada neurodidáctica\\* y que ha nacido al amparo de la revolución llamada neurocultura\\*\\*. La neuroeducación demuestra que emoción y conocimiento van juntos».\n\n\\*Neurodidáctica: Estudia cómo funciona nuestro cerebro cuando aprendemos.\n\n\\*\\*Neurocultura: Estudia cómo nuestro cerebro interactúa con todo lo que aprendemos de la sociedad.\n\nTomado de: republica.net (2019).\n\n¿Cuál es una idea complementaria presente en el texto anterior?",
+      "options": {
+        "A": "La neurodidáctica es una ciencia aplicada al aprendizaje.",
+        "B": "Las mejores universidades estudian en conjunto la neurodidáctica.",
+        "C": "El cerebro cumple la función principal en el aprendizaje neurodidáctico.",
+        "D": "La neuroeducación integra emoción con el conocimiento humano."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "block": "Comprensión lectora",
+      "blockNumber": 35,
+      "skill": "La persona estudiante distingue las ideas complementarias en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Los perros son animales inteligentes y a la mayoría les encanta aprender. Si le enseñamos al perro cosas simples, como sentarse, esperar y venir cuando lo llamen, podremos tenerlo siempre seguro y bajo control. Además, enseñarle a un perro puede ser una excelente manera para que no se aburra. Pero hay que entender que para enseñarle a hacer cosas se necesita tiempo».\n\nTomado de: _Escuela para todos._ (2015).\n\nSegún el texto anterior, una idea complementaria destaca que un perro",
+      "options": {
+        "A": "es uno de los animales más inteligentes.",
+        "B": "recibe únicamente instrucciones de su amo.",
+        "C": "puede estar bajo control si se le enseñan cosas simples.",
+        "D": "puede evitar el aburrimiento si se le enseñan trucos."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "block": "Comprensión lectora",
+      "blockNumber": 36,
+      "skill": "La persona estudiante distingue las ideas complementarias en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Los asirios fueron los primeros en desarrollar armas y elementos de protección de hierro, un avance tecnológico que les dio una gran ventaja, así como la creación de una unidad de ingeniería separada, que instalaba escaleras y rampas, llenaba fosos y cavaba túneles para ayudar a los soldados a entrar en las ciudades amuralladas. También estuvieron entre los primeros en construir carruajes, que proporcionaron una mayor protección en el campo de batalla […]. Pero mucho se perdió durante su conquista, particularmente el tesoro de ideas asirias que guardaba la biblioteca de Nínive, que había sido concebida en el siglo VII a.C. para albergar la suma de todo el conocimiento humano».\n\nTomado de: bbc.com (2017).\n\n¿Cuál opción identifica una idea complementaria presente en el texto anterior?",
+      "options": {
+        "A": "Los asirios poseían la mejor tecnología de la época.",
+        "B": "Los túneles que hacían los asirios les permitía obtener victorias.",
+        "C": "Los asirios construyeron carruajes para protegerse en las batallas.",
+        "D": "Los asirios crearon una biblioteca para preservar su conocimiento."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "block": "Comprensión lectora",
+      "blockNumber": 37,
+      "skill": "La persona estudiante distingue las ideas complementarias en textos no literarios",
+      "text": "Lea el siguiente texto:\n\n«Los flamencos son aves de gran tamaño y aspecto peculiar, viven en humedales, donde se alimentan y crían a sus polluelos. Ellos no producen todos los pigmentos o colores que lucen, la mayoría provienen de la dieta. De todos los organismos de los que se alimenta, la artemia salina es la que presta a estas aves su color rosa. Cuando el flamenco las ingiere, durante la digestión, los pigmentos son metabolizados de forma que se unen a moléculas de grasa, viajando hasta la piel y de ahí, a las plumas cuando se produce la muda. Las crías de flamenco no adquieren el color rosa hasta que mudan al plumaje de adulto».\n\nTomado de: expertoanimal.com (2019).\n\nSegún el texto anterior, ¿cuál es la causa del color rosa en los flamencos?",
+      "options": {
+        "A": "La ingesta de la artemia salina.",
+        "B": "La molécula de grasa en la piel.",
+        "C": "La muda del plumaje de adulto.",
+        "D": "El pigmento que producen cuando son crías."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "block": "Comprensión lectora",
+      "blockNumber": 38,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Los aztecas, pueblo de cazadores nómades\\*, provenían del noroeste de México, habitaron y dominaron la meseta de Anahuac […]. Los pueblos que estaban establecidos en el Anahuac no vieron con buenos ojos a los aztecas, no solo porque venían a disputarles las tierras, sino que también por su costumbre de ofrecer corazones humanos a los dioses. Según cuenta la leyenda, su dios \"Huitzilopochtli\" les había ordenado construir una ciudad donde vieran un nopal (cactus) y sobre él, un águila devorando una serpiente. En este lugar debían levantar un templo en su honor y construir una ciudad, sin olvidarse nunca de alimentarlo con la sangre de corazones humanos recién sacrificados».\n\n\\*nómades: que están en constante viaje o desplazamiento.\n\nTomado de: portaleducativo.net (2021).\n\nSegún el texto anterior, ¿cuál fue una causa del rechazo hacia el pueblo de los aztecas?",
+      "options": {
+        "A": "Los dioses que adoraban eran violentos.",
+        "B": "La costumbre de invadir y dominar distintos pueblos.",
+        "C": "La práctica de realizar sacrificios humanos a sus dioses.",
+        "D": "La leyenda del nopal con águila devorando serpiente."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "block": "Comprensión lectora",
+      "blockNumber": 39,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«La destrucción del hábitat es resultado de los cambios de uso de suelo, ya sea por cultivos agrícolas, expansión urbana, construcción de carreteras u otras […]. La extinción de especies se debe a múltiples factores, el mayor, seguramente es la pérdida de hábitat, pero también se conjugan presiones directas como la sobreexplotación y el comercio legal e ilegal que tienen un impacto enorme en ciertos grupos de especies».\n\nTomado de: cepal.org (2014).\n\nSegún el texto anterior, ¿cuál es una causa de la extinción de especies?",
+      "options": {
+        "A": "El mal uso del suelo.",
+        "B": "La pérdida de hábitat.",
+        "C": "El comercio de algunas especies.",
+        "D": "La expansión de áreas urbanas."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "block": "Comprensión lectora",
+      "blockNumber": 40,
+      "skill": "La persona estudiante determina la relación de causa en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Vivir cerca de las olas del mar puede generar un beneficio tanto en el bienestar físico como mental. Así lo confirmó una investigación llevada a cabo en Nueva Zelanda, que reveló que la cercanía con el océano tiene una correlación directa con la reducción del estrés psicológico […]. Por otro lado, el aire salado esparcido por las olas trae mejoras en el sistema respiratorio, ya que, según las investigaciones, aquellas personas que sufren de diferentes enfermedades relacionadas con el asma, bronquitis o incluso diferente tipo de alergias, presentan una disminución de los síntomas cuando se encuentran próximas al océano».\n\nTomado de: infobae.com (2018).\n\nDe acuerdo con la información del texto anterior, un efecto de vivir cerca del océano podría ser la",
+      "options": {
+        "A": "tranquilidad generada por el aire salado.",
+        "B": "disminución de enfermedades psicológicas.",
+        "C": "reducción de algunas enfermedades como la bronquitis.",
+        "D": "correlación directa con la reducción del estrés."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "block": "Comprensión lectora",
+      "blockNumber": 41,
+      "skill": "La persona estudiante determina la relación de efecto en textos no literarios",
+      "text": "Lea el siguiente texto:\n\n«La lluvia limpia las plantas llegando a quitar todo el polvo que puede acumular durante los días más secos o de calor. Esto ayuda a la planta a oxigenarse y a respirar mejor. La lluvia además crea un ambiente húmedo óptimo para las plantas de tu jardín. Otro dato a destacar es que la lluvia tiene la facultad de ser una bendición para las plantas y los animales, pero si cae en exceso puede inundar los cultivos, sobre todo si no existe un buen sistema de drenaje en el terreno. El agua contiene muchísimos minerales y nitrógeno, además de iones negativos, que de inmediato nos ayuda a sentirnos mejor».\n\nTomado de: altagracianoticias.com (2020).\n\nSegún el texto anterior, ¿cuál es un efecto del exceso de lluvia?",
+      "options": {
+        "A": "Provoca que los cultivos se inunden.",
+        "B": "Atrae humedad que limpia el polvo acumulado.",
+        "C": "Aporta minerales que mejoran el bienestar humano.",
+        "D": "Produce iones negativos que impiden la oxigenación de las plantas."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "block": "Comprensión lectora",
+      "blockNumber": 42,
+      "skill": "La persona estudiante determina la relación de efecto en textos no literarios.",
+      "text": "Lea el siguiente texto:\n\n«Si el fenómeno del agujero de ozono empeora, estaríamos más expuestos a los rayos ultravioleta (UV) porque se perdería el filtro natural presente en la estratosfera. Sin embargo, los rayos UV son muy peligrosos para la salud humana: aumentan el riesgo de cáncer de piel y mutaciones del ADN. Incluso el medio ambiente sería puesto a prueba por los rayos ultravioleta porque inhiben\\* la fotosíntesis de la clorofila, socavando\\*\\* así el ecosistema mismo».\n\n\\*inhiben: impiden o reducen.\n\n\\*\\*socavando: debilitan.\n\nTomado de: curionautas.com (2021).\n\n¿Cuál es un efecto de los rayos ultravioleta (UV)?",
+      "options": {
+        "A": "Pérdida del ecosistema.",
+        "B": "Aumento de las mutaciones del ADN.",
+        "C": "Cambios significativos en la estratosfera.",
+        "D": "Inhibición de la fotosíntesis de la clorofila."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "block": "Comprensión lectora",
+      "blockNumber": 43,
+      "skill": "La persona estudiante reconoce los temas tratados en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«Un joven pastor, que cuidaba un rebaño de ovejas cerca de una villa, alarmó a los habitantes tres o cuatro veces gritando:\n\n—¡El lobo, el lobo! Pero cuando los vecinos llegaban a ayudarle, se reía viendo sus preocupaciones. Mas el lobo, un día de tantos, sí llegó de verdad. El joven pastor, ahora alarmado él mismo, gritaba lleno de terror:\n\n—Por favor, vengan y ayúdenme; el lobo está matando a las ovejas. Pero ya nadie puso atención a sus gritos, y mucho menos pensar en acudir a auxiliarlo. Y el lobo, viendo que no había razón para temer mal alguno, hirió y destrozó a su antojo todo el rebaño».\n\nTomado de: _Fábulas de Esopo._\n\nEn el texto anterior, ¿cuál es el tema tratado?",
+      "options": {
+        "A": "La felicidad que conlleva la labor de cuidar ovejas.",
+        "B": "El engaño para librarse de determinados problemas.",
+        "C": "La valentía del pastor para enfrentar al lobo solo.",
+        "D": "La mentira como generadora de la pérdida de confianza."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q44",
+      "number": 44,
+      "block": "Comprensión lectora",
+      "blockNumber": 44,
+      "skill": "La persona estudiante reconoce los temas tratados en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«Estaba una liebre siendo perseguida por un águila, y viéndose perdida pidió ayuda a un escarabajo, suplicándole que la salvara. Le pidió el escarabajo al águila que perdonara a su amiga. Pero el águila, despreciando la insignificancia del escarabajo, devoró a la liebre en su presencia. Desde entonces, buscando vengarse, el escarabajo observaba los lugares donde el águila ponía sus huevos, y haciéndolos rodar, los tiraba a tierra».\n\nTomado de_: La liebre y el escarabajo._\n\n¿Cuál es el tema tratado en el texto anterior?",
+      "options": {
+        "A": "La venganza ante las malas acciones.",
+        "B": "El maltrato conlleva decisiones desleales.",
+        "C": "El trágico final producto de una petición innecesaria.",
+        "D": "La humildad del escarabajo ante la arrogancia águila."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "block": "Comprensión lectora",
+      "blockNumber": 45,
+      "skill": "La persona estudiante infiere pensamientos de los personajes de un texto literario",
+      "text": "Lea el siguiente texto:\n\n«—¿Y por qué Martín se comporta desde hace tiempo de dos maneras diferentes? Unas veces es normal y cariñoso, otras, se vuelve furioso y hasta cruel.\n\n—Porque así es el ser humano. Tiene dentro de sí el bien y el mal, lo positivo y lo negativo. A veces la balanza se inclina más de un lado que del otro […] —explicó Ángela».\n\nTomado de: _El círculo de fuego blanco._\n\nSegún el texto anterior, ¿cuál es el pensamiento evidenciado por Ángela?",
+      "options": {
+        "A": "El tiempo hace que las personas se vuelvan crueles.",
+        "B": "El ser humano casi siempre opta por malas actitudes.",
+        "C": "El comportamiento de los seres humanos es inestable.",
+        "D": "El ser humano posee bien y mal internos."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "block": "Comprensión lectora",
+      "blockNumber": 46,
+      "skill": "Infiere pensamientos de los personajes de un texto literario.",
+      "text": "Lea el siguiente texto:\n\n«Es natural y justo que con el tiempo todas se vayan a sus propios hogares; pero deseo conservar a mis hijas todo el tiempo posible, y siento que esto haya sucedido tan pronto, porque Meg no tiene más que diecisiete años, y John no podrá formar un hogar para ella por algunos años. Tu padre y yo estamos de acuerdo en que no se comprometa de ninguna manera ni se case antes de cumplir veinte años».\n\nTomado de_: Mujercitas._ Según el pensamiento de los padres de Meg presente en el texto anterior, los",
+      "options": {
+        "A": "padres desean retener a sus hijas en casa.",
+        "B": "compromisos requieren madurez de las personas.",
+        "C": "jóvenes deben casarse hasta que tengan cierta edad.",
+        "D": "adultos son sabios y deben aconsejar a sus hijas."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "block": "Comprensión lectora",
+      "blockNumber": 47,
+      "skill": "La persona estudiante reconoce los conflictos de los personajes en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«Esa noche le dijeron: “Estás enfermo”. El médico lo aseguró. Daniel se iría haciendo cada vez más pequeño hasta llegar a desaparecer, sin remedio. El niño se asustó y sintió, de un solo golpe, disminuir su estatura, por lo menos, en cinco centímetros.\n\n—¿Cómo puede curarse? —preguntaron los padres, con asombro.\n\n—No hay forma —respondió el doctor—. Hasta el momento no existe científico en el mundo que haya inventado medicamento o vacuna. La gente, lentamente, se hace diminuta, luego, ya no se le vuelve a ver más».\n\nTomado de: _El libro de la Navidad._\n\nEn el texto anterior, ¿cuál conflicto enfrenta Daniel?",
+      "options": {
+        "A": "Perder su tamaño de forma irremediable",
+        "B": "Recibir un diagnóstico médico sin esperanza",
+        "C": "Nacer en un país con pocos servicios médicos",
+        "D": "Contar con poco dinero para comprar una vacuna ."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "block": "Comprensión lectora",
+      "blockNumber": 48,
+      "skill": "La persona estudiante reconoce los conflictos de los personajes en textos literarios.",
+      "text": "Lea el siguiente texto:\n\n«La hija de un granjero llevaba un recipiente lleno de leche a vender al pueblo, y empezó a hacer planes futuros:\n\n—Cuando venda esta leche, compraré trescientos huevos. Los huevos, descartando los que no nazcan, me darán al menos doscientos pollos. Los pollos estarán listos para mercadearlos cuando los precios de ellos estén en lo más alto, de modo que para fin de año tendré suficiente dinero para comprarme el mejor vestido para asistir a las fiestas donde todos los muchachos me pretenderán, y yo los valoraré uno a uno. Pero en ese momento tropezó con una piedra, cayendo junto con la vasija de leche al suelo, regando su contenido. Y así todos sus planes acabaron en un instante».\n\nTomado de: _Fábulas de Esopo._\n\nEn el texto anterior, ¿cuál conflicto enfrenta la hija del granjero?",
+      "options": {
+        "A": "La codicia excesiva provoca la ruina total.",
+        "B": "La intervención de la naturaleza frustra sus planes.",
+        "C": "La pérdida de la leche impide el logro de los planes.",
+        "D": "La búsqueda de mejores oportunidades en el pueblo."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "block": "Comprensión lectora",
+      "blockNumber": 49,
+      "skill": "La persona estudiante identifica comportamientos de los personajes en un texto literario.",
+      "text": "Lea el siguiente texto:\n\n«—Esas taladradoras giran a una velocidad enorme —dijo el padre—, así que cuando conecto la taladradora, los números del cuentakilómetros retroceden a toda velocidad. En pocos minutos puedo rebajar cincuenta mil kilómetros del cuentakilómetros con mi taladradora eléctrica de gran velocidad. Y, cuando termino, el coche solo ha hecho diez mil kilómetros y está listo para su venta. “Está casi nuevo”, le digo al cliente. “Apenas ha hecho diez mil. Pertenecía a una señora mayor que solo lo utilizaba una vez a la semana para ir de compras”.\n\n—¿De verdad puedes hacer que el cuentakilómetros vaya hacia atrás con una taladradora eléctrica? —preguntó Michael.\n\n—Te estoy contando secretos del negocio —dijo el padre—, así que no vayas a decírselo a nadie».\n\nTomado de: _Matilda._\n\nSegún el texto anterior, ¿cómo es el comportamiento del padre?",
+      "options": {
+        "A": "Deshonesto: hace trampa para engañar a sus clientes.",
+        "B": "Valiente: resuelve con agilidad los problemas laborales.",
+        "C": "Orgulloso: presume ante su hijo los éxitos de su trabajo.",
+        "D": "Confidencial: comparte secretos profesionales con su hijo."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "block": "Comprensión lectora",
+      "blockNumber": 50,
+      "skill": "La persona estudiante identifica comportamientos de los personajes en un texto literario.",
+      "text": "Lea el siguiente texto:\n\n«Cualquiera que las vea podrá creer indudablemente que mi rosa es igual que cualquiera de ustedes. Pero ella se sabe más importante que todas, porque yo la he regado, porque ha sido a ella a la que abrigué con el fanal\\*, porque yo le maté los gusanos (salvo dos o tres que se hicieron mariposas) y es a ella a la que yo he oído quejarse, alabarse y algunas veces hasta callarse. Porque es mi rosa, en fin».\n\n\\*fanal: Campana que sirve para proteger algo del polvo.\n\nTomado de: _El principito_\n\nEn el texto anterior, ¿cuál comportamiento evidencia el principito?",
+      "options": {
+        "A": "Respetuoso: escucha y acepta las opiniones de la rosa.",
+        "B": "Afectuoso: escucha, atiende y cuida con esmero a la rosa.",
+        "C": "Generoso: da alimento a la rosa sin esperar nada a cambio.",
+        "D": "Celoso: protege y defiende con devoción a la rosa."
+      },
+      "answer": "B"
+    }
+  ]
+}

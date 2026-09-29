@@ -1,0 +1,43 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DATABASE_URL_UNPOOLED")
+}
+
+enum Role {
+  ADMIN
+  TEACHER
+  STUDENT
+}
+
+model User {
+  id           String    @id @default(cuid())
+  name         String
+  email        String    @unique
+  passwordHash String
+  role         Role
+  teacherId    String?
+  teacher      User?     @relation("TeacherStudents", fields: [teacherId], references: [id], onDelete: SetNull)
+  students     User[]    @relation("TeacherStudents")
+  attempts     Attempt[]
+  createdAt    DateTime  @default(now())
+
+  @@index([teacherId])
+}
+
+model Attempt {
+  id        String   @id @default(cuid())
+  studentId String
+  student   User     @relation(fields: [studentId], references: [id], onDelete: Restrict)
+  examId    String
+  score     Int
+  total     Int
+  answers   Json
+  createdAt DateTime @default(now())
+
+  @@index([studentId, createdAt])
+}

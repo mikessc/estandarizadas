@@ -1,0 +1,757 @@
+{
+  "id": "ciencias-primaria",
+  "title": "Ciencias – Práctica",
+  "subject": "Ciencias",
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "block": "Cuerpo humano",
+      "blockNumber": 1,
+      "skill": "Analiza la función inmunológica de los componentes del tejido sanguíneo.",
+      "text": "El siguiente texto se relaciona con el tejido sanguíneo:\n\nLos tejidos están formados por un conjunto de células que realizan una o varias funciones. En el caso del tejido sanguíneo, se pueden encontrar los glóbulos rojos, los glóbulos blancos y las plaquetas, que se encuentran en la sangre y les permite desplazarse por todo el cuerpo. Uno de estos componentes es el responsable de producir coágulos y sellar las rupturas de los vasos sanguíneos.\n\nEl componente de la sangre referido la información anterior, se denomina",
+      "options": {
+        "A": "plasma",
+        "B": "plaqueta.",
+        "C": "glóbulo rojo.",
+        "D": "glóbulo blanco."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "block": "Cuerpo humano",
+      "blockNumber": 2,
+      "skill": "Analiza la función e importancia de las vacunas para la prevención de enfermedades infectocontagiosas.",
+      "text": "Lea la siguiente información:\n\nLas vacunas son medicamentos biológicos que se aplican a las personas sanas con el propósito de provocar la producción de defensas o anticuerpos, y para la protección de contagios en el futuro. Benefician tanto a las personas vacunadas como a las no vacunadas que viven en el mismo entorno.\n\nLa información anterior, se refiere a",
+      "options": {
+        "A": "el proceso de fabricación de las vacunas.",
+        "B": "el origen y descubrimiento de las vacunas.",
+        "C": "la importancia de la vacunación para el ser humano.",
+        "D": "estadísticas de efectividad de las vacunas en los niños."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "block": "Cuerpo humano",
+      "blockNumber": 3,
+      "skill": "Analiza conceptos, funciones y características de los órganos y los sistemas del cuerpo humano para el mantenimiento de una buena salud.",
+      "text": "Considere la siguiente información:\n\nLa médula espinal es una parte del sistema nervioso central localizada dentro del conducto vertebral. Conecta el cerebro con los nervios de la mayor parte del cuerpo, posee neuronas que reciben información de los distintos órganos y otras que se encargan de enviar la información y las órdenes a distintas zonas de nuestro cuerpo.\n\nDe acuerdo con la información anterior, se puede concluir que la médula espinal",
+      "options": {
+        "A": "produce hormonas que regulan el crecimiento y el desarrollo del cuerpo.",
+        "B": "controla los actos involuntarios como los latidos del corazón y la digestión.",
+        "C": "se encarga de las facultades intelectuales: atención, memoria e inteligencia.",
+        "D": "conduce impulsos nerviosos entre el encéfalo y los demás órganos y tejidos del cuerpo."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "block": "Cuerpo humano",
+      "blockNumber": 4,
+      "skill": "Analiza las interrelaciones entre los diferentes sistemas del cuerpo humano que permiten comprender el funcionamiento y cuidado de la salud.",
+      "text": "Considere la siguiente información:\n\nLa irritabilidad de los seres vivos es la reacción de un estímulo, sea este externo o interno, en cuyo caso modifica la conducta de los seres vivos que se someten a los mismos. Por ejemplo: correr para resguardarse de un peligro, dar un beso a una persona amada, funciona a través de sustancias químicas que reciben el nombre de hormonas. Un sistema del cuerpo procesa los estímulos provenientes del interior del organismo (estímulos internos) y otro sistema recibe los estímulos provenientes del entorno externo del organismo a través de los sentidos.\n\nEn los seres vivos, los sistemas responsables de procesar y recibir los estímulos corresponden a los sistemas",
+      "options": {
+        "A": "nervioso y digestivo.",
+        "B": "excretor y endocrino.",
+        "C": "endocrino y nervioso.",
+        "D": "respiratorio y digestivo."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "block": "Cuerpo humano",
+      "blockNumber": 5,
+      "skill": "Analiza conceptos, funciones y características de los órganos y los sistemas del cuerpo humano para el mantenimiento de una buena salud.",
+      "text": "Considere el siguiente texto: La excreción es un proceso que le permite al cuerpo expulsar las sustancias que no sirven ni se usan y pueden ser tóxicas, se realiza por medio de varios órganos y uno de ellos son los riñones. Cuando fallan los riñones significa que han perdido la capacidad para funcionar de forma adecuada, en estos casos se pueden presentar síntomas como la acumulación de productos de desecho y exceso de agua en su cuerpo. Con base en el texto anterior, el sistema urinario es fundamental en el proceso de excreción porque",
+      "options": {
+        "A": "filtra las toxinas y el exceso de agua para producir la orina.",
+        "B": "mantiene dentro las toxinas necesarias para el buen funcionamiento del cuerpo.",
+        "C": "cuando los riñones fallan, los otros órganos del sistema excretor realizan su función.",
+        "D": "controla muchas funciones importantes en el cuerpo, como el crecimiento, el desarrollo y el metabolismo."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "block": "Cuerpo humano",
+      "blockNumber": 6,
+      "skill": "Analiza las interrelaciones entre los diferentes sistemas del cuerpo humano que permiten comprender el funcionamiento y cuidado de la salud.",
+      "text": "Considere la siguiente información:\n\nLa sangre siempre debe circular para mantener la vida. Transporta oxígeno absorbido del aire que respiramos a las células en todo el cuerpo. El bombeo del corazón mantiene en movimiento este flujo sanguíneo a través de las arterias, los capilares y las venas. Un grupo de vasos sanguíneos hace circular la sangre a través de los pulmones para el intercambio gaseoso. La sangre oxigenada es transportada a partir del corazón al resto del cuerpo y después retorna a este desoxigenada.\n\n¿Cuáles son los sistemas del cuerpo humano que participan directamente en el proceso descrito anteriormente?",
+      "options": {
+        "A": "Circulatorio y nervioso",
+        "B": "Endocrino y reproductor",
+        "C": "Respiratorio y endocrino",
+        "D": "Respiratorio y circulatorio"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "block": "Cuerpo humano",
+      "blockNumber": 7,
+      "skill": "Analiza la función e importancia de las vacunas para la prevención de enfermedades infectocontagiosas.",
+      "text": "Lea la siguiente información:\n\nDurante más de doscientos años las vacunas han reducido de forma segura enfermedades como la poliomielitis, el sarampión y la viruela, las cuales causaron muchas muertes en niños y adultos. Las vacunas salvan más de cinco vidas cada minuto, las campañas de inmunización realizadas en todo el mundo permiten que los niños puedan caminar, jugar, bailar y aprender. Sin embargo, cada año los niños más pobres y marginados no reciben las vacunas fundamentales, debido a que muchos de ellos viven en países afectados por conflictos políticos o en zonas remotas a las que es difícil llegar. En 2019, la Organización Mundial de la Salud (OMS) declaró que la desconfianza ante las vacunas es una de las principales amenazas para la salud pública, ya que las personas no autorizan que se les apliquen, a pesar de que pueden salvar su vida y la de sus familiares.\n\nA partir de la información anterior, se afirma que",
+      "options": {
+        "A": "la población mundial debe vacunarse solo cuando exista una pandemia.",
+        "B": "las vacunas se consideran un invento moderno e innecesario para toda la población.",
+        "C": "las vacunas, aplicadas desde la niñez, son importantes para garantizar la salud pública.",
+        "D": "la población humana no se ha beneficiado en nada con la invención de las vacunas y mueren más personas de las que se salvan."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "block": "Cuerpo humano",
+      "blockNumber": 8,
+      "skill": "Comprende el funcionamiento de los sistemas del cuerpo humano para el mantenimiento de una buena salud y las funciones de los órganos involucrados.",
+      "text": "La siguiente información se refiere a un componente del sistema respiratorio:\n\nEn el sistema respiratorio la entrada de gases inicia en las fosas nasales y termina en los pulmones. La tráquea es un órgano que se encuentra en una posición intermedia en el sistema respiratorio y abarca desde la laringe hasta los bronquios. Está formada por una serie de anillos cartilaginosos que evitan que se cierre y aseguran que el aire pase sin problemas.\n\nSegún la información anterior, la función principal de la tráquea es",
+      "options": {
+        "A": "evitar que los pulmones se cierren.",
+        "B": "transportar el aire desde la laringe hasta los bronquios.",
+        "C": "filtrar, calentar y humedecer el aire que ingresa al cuerpo.",
+        "D": "permitir el intercambio de oxígeno y dióxido de carbono en los pulmones."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "block": "Cuerpo humano",
+      "blockNumber": 9,
+      "skill": "Analiza conceptos, funciones y características de los órganos y los sistemas del cuerpo humano para el mantenimiento de una buena salud.",
+      "text": "Considere la siguiente información:\n\nPara realizar un repaso de los temas desarrollados en clase, el docente de Ciencias lleva un cartel sobre el aparato reproductor humano, con los siguientes textos:\n\n1. Este órgano se encuentra protegido por el escroto, es el encargado de producir los espermatozoides y las hormonas masculinas.\n\n2. Es un conducto del sistema reproductor femenino por donde se desplazan los óvulos cada mes, es donde ocurre normalmente la fecundación del óvulo por el espermatozoide.\n\nLuego, pregunta a los estudiantes, ¿cuáles son los nombres de los órganos descritos en el cartel?",
+      "options": {
+        "A": "1 Clítoris y uretra.",
+        "B": "1 Próstata y 2 ovario",
+        "C": "1 Conducto deferente y 2 vagina",
+        "D": "1 Testículo y 2 trompas de Falopio"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "block": "Cuerpo humano",
+      "blockNumber": 10,
+      "skill": "Analiza conceptos, funciones y características de los órganos y los sistemas del cuerpo humano para el mantenimiento de una buena salud.",
+      "text": "Considere la siguiente información:\n\nEl aparato reproductor de la mujer incluye los ovarios, las trompas de Falopio, el útero, el cuello uterino y la vagina. El aparato reproductor femenino permite que una mujer produzca óvulos y que pueda nutrir al óvulo fertilizado hasta que se desarrolle completamente.\n\n![Figura](/exams/ciencias-primaria/q10.png)\n\n¿Cuál es el nombre del órgano donde se nutre el óvulo fertilizado y que está señalado en la imagen anterior?",
+      "options": {
+        "A": "Trompas de Falopio",
+        "B": "Vagina",
+        "C": "Ovario",
+        "D": "Útero"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "block": "Cuerpo humano",
+      "blockNumber": 11,
+      "skill": "Analiza las interrelaciones entre los diferentes sistemas del cuerpo humano que permiten comprender el funcionamiento y cuidado de la salud.",
+      "text": "Considere la siguiente información:\n\nLa digestión es responsable de que las células reciban los nutrientes que necesitan. Al utilizar estos nutrientes, las células no solo producen dióxido de carbono como desecho, sino que también la urea, que es otro producto de desecho que se origina a partir de nutrientes que tienen nitrógeno. Las toxinas y sustancias innecesarias son filtradas por el riñón y desechados en forma de orina. De este modo, el cuerpo se deshace de toxinas y sustancias que no necesita.\n\nLa información anterior describe cómo se interrelacionan los sistemas",
+      "options": {
+        "A": "digestivo y urinario, en el proceso de la nutrición y en el desecho de sustancias.",
+        "B": "hormonal y digestivo, en la formación de la urea a partir de nutrientes que contienen nitrógeno.",
+        "C": "reproductor y el urinario, en la formación de la orina después de que los riñones recogen las sustancias de desecho.",
+        "D": "respiratorio y nervioso, en el proceso de digestión y eliminación de sustancias toxicas que contienen nitrógeno como la urea."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "block": "Biodiversidad",
+      "blockNumber": 1,
+      "skill": "Comprende conceptos básicos relacionados con la biodiversidad para un mejoramiento del entorno natural.",
+      "text": "La siguiente información se relaciona con conceptos de ecología:\n\nLos manatíes, conocidos con el nombre de vacas marinas, habitan los canales de Tortuguero y se alimentan de plantas acuáticas. En estos canales pueden encontrarse, además, una alta diversidad de aves, como garzas, martines pescadores y patos, los cuales interactúan con su entorno de diversas maneras, por ejemplo, para encontrar alimento.\n\nSegún el texto anterior, ¿cuál opción hace referencia a una población de organismos?",
+      "options": {
+        "A": "La diversidad de aves",
+        "B": "Los manatíes de Tortuguero",
+        "C": "Las garzas y patos que buscan alimento",
+        "D": "La diversidad de aves, los manatíes y su entorno."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "block": "Biodiversidad",
+      "blockNumber": 2,
+      "skill": "Clasifica los organismos de acuerdo con sus adaptaciones, características, complejidad (unicelulares y pluricelulares), vertebrados e invertebrados, tipos de alimentación, respiración, reproducción, medio en el que se desarrollan y reinos biológicos al que pertenecen.",
+      "text": "Considere la siguiente información:\n\nEn una clase de Ciencias la maestra desarrolla el tema de los reinos biológicos, muestra dos láminas con diferentes organismos y les dice que en la lámina 1 se ilustra un tipo de bacteria y un alga verdeazulada conocida como cianobacterias o cianofíceas, que son organismos procariotas que carecen de organelas celulares y en la lámina 2 se ilustra una ameba, una euglena y un paramecio que son organismos eucariotas, unicelulares y microscópicos de nutrición variada.\n\nDe acuerdo con la clasificación de Whittaker los organismos de la lámina 1 y 2 pertenecen respectivamente a los reinos biológicos denominados",
+      "options": {
+        "A": "fungi y monera.",
+        "B": "monera y protista.",
+        "C": "protista y monera.",
+        "D": "animalia y monera."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "block": "Biodiversidad",
+      "blockNumber": 3,
+      "skill": "Distingue algunas relaciones de interdependencia entre los seres vivos y su importancia en el equilibrio ecológico.",
+      "text": "Considere la siguiente información:\n\nLas garrapatas son parásitos que viven en el suelo, principalmente en matorrales. Se suben a cualquier animal o persona que se acerque, al que se le llama huésped; una vez en él, la garrapata se ubica en zonas estratégicas, en las que hay mayor suministro de sangre porque esto le facilita picar para alimentarse. Ahí pueden vivir por largo tiempo, lo que perjudica al huésped sin causarle la muerte.\n\nLa información anterior hace referencia a la relación de tipo",
+      "options": {
+        "A": "simbiótica, dado al beneficio mutuo de las especies.",
+        "B": "intraespecífica, porque interactúan individuos de la misma especie.",
+        "C": "interespecífica, ya que interactúan individuos de especies diferentes.",
+        "D": "intraespecífica, debido a que una especia se beneficia y otra se perjudica."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "block": "Biodiversidad",
+      "blockNumber": 4,
+      "skill": "Comprende los aspectos relacionados con la fotosíntesis para la vida en la Tierra.",
+      "text": "Considere la siguiente información:\n\nLa vida en el planeta depende de las radiaciones solares, gracias a las cuales se forma la materia orgánica en el proceso de la fotosíntesis por medio de los organismos autótrofos como las plantas. En esta transformación se convierten sustancias simples en azúcares y oxígeno, las plantas almacenan carbono que de otro modo estaría en la atmósfera en forma de dióxido de carbono. Por lo tanto, las plantas ayudan a reducir la cantidad de este gas del efecto invernadero en el ambiente y elaboran las sustancias básicas que precisan para su nutrición y crecimiento. Los restantes organismos deben su subsistencia a la fotosíntesis; los organismos herbívoros deben alimentarse de vegetales, y los carnívoros se alimentan de otros animales sean estos carnívoros o herbívoros.\n\nA partir de la información anterior, se puede asegurar que la fotosíntesis",
+      "options": {
+        "A": "proveen de alimento de forma directa a los animales carnívoros.",
+        "B": "es una forma que tienen todos los seres vivos de aprovechar la energía del sol.",
+        "C": "es el proceso que realizan las plantas para obtener sus nutrientes, crecer y desarrollarse.",
+        "D": "es la forma en la que los animales herbívoros ayudan a reducir la cantidad de gas que produce el efecto invernadero."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "block": "Biodiversidad",
+      "blockNumber": 5,
+      "skill": "Distingue los niveles de organización de los seres vivos y las interrelaciones que se establecen entre los componentes de los ecosistemas.",
+      "text": "Observe el siguiente esquema que representa una cadena alimenticia:\n\n![Figura](/exams/ciencias-primaria/q16.png)\n\nDe acuerdo con el esquema anterior, en el orden respectivo, ¿cuáles organismos corresponde a los niveles tróficos de productor y consumidor de segundo orden?",
+      "options": {
+        "A": "Ratón y Lechuza",
+        "B": "Lechuza y Serpiente",
+        "C": "Planta de maíz y Ratón",
+        "D": "Planta de maíz y Serpiente"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "block": "Biodiversidad",
+      "blockNumber": 6,
+      "skill": "Clasifica los organismos de acuerdo con sus adaptaciones, características, complejidad (unicelulares y pluricelulares), vertebrados e invertebrados, tipos de alimentación, respiración, reproducción, medio en el que se desarrollan y reinos biológicos al que pertenecen.",
+      "text": "Considere la siguiente información:\n\nLos animales pueden clasificarse en dos grupos: animales vertebrados y animales invertebrados, según posean una columna vertebral o no. Algunos ejemplos de animales son los caracoles, la araña, el cangrejo, el pez, la mariposa, el elefante, la tortuga, el tucán y el pato. Este último es muy común en los parques de las ciudades y se caracteriza porque poseen plumas y pueden volar.\n\nSegún la información anterior, los organismos que se clasifican como invertebrados, corresponden a",
+      "options": {
+        "A": "el pez y el tucán.",
+        "B": "la jirafa y la araña.",
+        "C": "el pato y la mariposa.",
+        "D": "la mariposa y el caracol."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "block": "Biodiversidad",
+      "blockNumber": 7,
+      "skill": "Comprende conceptos básicos relacionados con la biodiversidad para un mejoramiento del entorno natural.",
+      "text": "La siguiente información se relaciona con conceptos ecológicos:\n\nUn ejemplo claro de una comunidad ecológica se puede encontrar en el jardín donde se observan varias poblaciones de plantas: hierbas, arbustos y quizás algunos árboles. Las aves consumen sus frutos o buscan atrapar algún insecto entre sus ramas. También, es posible encontrar una variedad de invertebrados que habitan en el suelo, debajo de las rocas y las charcas de agua.\n\nSegún la información anterior, ¿cuáles componentes forman parte del concepto de comunidad ecológica?",
+      "options": {
+        "A": "Las aves y las rocas",
+        "B": "El suelo, las rocas y el agua",
+        "C": "Las hierbas, los arbustos y los árboles",
+        "D": "El agua, las hierbas, los arbustos y los árboles"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "block": "Biodiversidad",
+      "blockNumber": 8,
+      "skill": "Comprende conceptos básicos relacionados con la biodiversidad para un mejoramiento del entorno natural.",
+      "text": "Considere el siguiente texto sobre una adaptación en los animales:\n\nCiertas serpientes, como la terciopelo, poseen una coloración muy similar al ambiente donde se encuentran. Al camuflarse tan bien con su entorno logran acercarse a sus presas sin ser notadas, lo que le permite atacar más fácilmente y sus presas no logran escapar a tiempo.\n\nSegún la información anterior, el camuflaje en algunas serpientes les",
+      "options": {
+        "A": "ayuda a alimentarse.",
+        "B": "facilita la reproducción.",
+        "C": "permite escapar de sus depredadores.",
+        "D": "disminuye sus posibilidades de supervivencia."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "block": "Biodiversidad",
+      "blockNumber": 9,
+      "skill": "Clasifica los organismos de acuerdo con sus adaptaciones, características, complejidad (unicelulares y pluricelulares), vertebrados e invertebrados, tipos de alimentación, respiración, reproducción, medio en el que se desarrollan y reinos biológicos al que pertenecen.",
+      "text": "Lea las siguientes características referidas a organismos de un reino biológico:\n\nSe caracterizan por ser heterótrofos, inmóviles y por tener células provistas de paredes reforzadas con quitina. Son incapaces de fijar carbono a través de la fotosíntesis, pero lo usan porque es fijado por otros organismos. Pueden ser unicelulares o pluricelulares, se reproducen sexual y asexualmente.\n\nDe acuerdo con las características anteriores, se afirma que estos organismos pertenecen al reino",
+      "options": {
+        "A": "plantae, porque realiza la fotosíntesis.",
+        "B": "protista, debido a que es unicelular o pluricelular.",
+        "C": "fungi, ya que no puede producir su propio alimento.",
+        "D": "animalia, porque pueden ser unicelulares y pluricelulares."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "block": "Biodiversidad",
+      "blockNumber": 10,
+      "skill": "Clasifica los organismos de acuerdo con sus adaptaciones, características, complejidad (unicelulares y pluricelulares), vertebrados e invertebrados, tipos de alimentación, respiración, reproducción, medio en el que se desarrollan y reinos biológicos al que pertenecen.",
+      "text": "Considere la siguiente información:\n\nEn una gira educativa la maestra lleva a sus estudiantes a un acuario, les comentó que los tiburones son animales de sangre fría y están muy bien adaptados a los ambientes acuáticos, ya que poseen aletas y un cuerpo alargado que les facilita desplazarse en el agua. También, les mencionó que las ballenas se caracterizan por nacer del vientre materno y por alimentar a las crías con leche por medio de glándulas mamarias.\n\nSegún la información anterior, los tiburones y las ballenas se clasifican, respectivamente, como",
+      "options": {
+        "A": "anfibios y peces.",
+        "B": "peces y mamíferos.",
+        "C": "mamíferos y peces.",
+        "D": "reptiles y mamíferos."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "block": "Biodiversidad",
+      "blockNumber": 11,
+      "skill": "Clasifica los organismos de acuerdo con sus adaptaciones, características, complejidad (unicelulares y pluricelulares), vertebrados e invertebrados, tipos de alimentación, respiración, reproducción, medio en el que se desarrollan y reinos biológicos al que pertenecen.",
+      "text": "Considere la siguiente información relacionada con los seres vivos:\n\nEn el suelo, las lombrices de tierra y escarabajos se alimentan de restos orgánicos que encuentran entre las raíces de las plantas. También, se agrupan gran diversidad de bacterias y otros organismos microscópicos, que descomponen la materia orgánica.\n\nDe los seres vivos mencionados, ¿cuáles corresponden a organismos unicelulares?",
+      "options": {
+        "A": "Plantas",
+        "B": "Bacterias",
+        "C": "Escarabajos",
+        "D": "Lombrices de tierra"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "block": "Biodiversidad",
+      "blockNumber": 12,
+      "skill": "Clasifica las relaciones de interdependencia entre los seres vivos y su importancia en el equilibrio ecológico",
+      "text": "Lea la siguiente información sobre relaciones en los seres vivos:\n\n(1) Las gaviotas suelen agruparse durante la época reproductiva, tienen sus nidos en la playa rocosa muy cerca unas de otras, ya que al haber tantas aves juntas pueden proteger mejor los nidos. Esto les brinda protección contra (2) los depredadores como los zorros que buscan alimentarse de sus pichones.\n\nLa información numerada anteriormente, hace referencia a las relaciones de tipo",
+      "options": {
+        "A": "1 intraespecífica y 2 interespecífica.",
+        "B": "1 interespecífica y 2 intraespecífica.",
+        "C": "1 intraespecífica y 2 intraespecífica.",
+        "D": "1 interespecífica y 2 interespecífica."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "block": "Biodiversidad",
+      "blockNumber": 13,
+      "skill": "Clasifica las relaciones de interdependencia entre los seres vivos y su importancia en el equilibrio ecológico",
+      "text": "Considere la siguiente información:\n\nEn la casa de Lucrecia tienen una zona llena de árboles frutales, uno de estos árboles es de manzana. Lucrecia ha estado esperando que las manzanas estén listas para comerlas, pero encontró que la mayoría de las manzanas estaban llenas de gusanos. Inmediatamente fue a buscar a su papá, él le explicó que el gusano obtiene beneficio y vive a costa de la manzana, causándole daño generalmente.\n\nLa relación entre la manzana y los gusanos se denomina",
+      "options": {
+        "A": "simbiótica.",
+        "B": "mutualismo.",
+        "C": "parasitismo.",
+        "D": "comensalismo."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "block": "Energía",
+      "blockNumber": 1,
+      "skill": "Clasifica la energía por sus características según tipos, clases, fuentes, transformaciones y aplicaciones que se dan en el entorno.",
+      "text": "La siguiente información se relaciona con un avance tecnológico en la medicina:\n\nEs un procedimiento físico que produce ondas para producir imágenes de las estructuras internas del cuerpo. Durante el embarazo monitorea el crecimiento y el desarrollo del feto. En fisioterapia se utiliza para tratar lesiones, inflamación de tendones, cicatrices, favoreciendo una rápida reparación en los tejidos dañados.\n\nLa información anterior hace referencia al avance tecnológico en medicina denominado",
+      "options": {
+        "A": "rayo láser.",
+        "B": "ultrasonido.",
+        "C": "bomba de cobalto.",
+        "D": "tomografía computarizada (TAC)."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "block": "Energía",
+      "blockNumber": 2,
+      "skill": "Distingue las manifestaciones de la energía (movimiento, calor, luz, sonido) en situaciones cotidianas.",
+      "text": "Considere la siguiente información:\n\nAlgunos animales son reconocidos por su gran velocidad. El halcón peregrino puede alcanzar en su vuelo los 100 km/h, el vencejo llega hasta los 200 km/h y el tiburón Mako alcanza los 124 km/h en el agua. Además, el guepardo, considerado el mamífero terrestre más veloz, puede llegar a 114 km/h en carrera.\n\nSi todos estos animales pudieran competir en condiciones ideales que les permitan mantener su velocidad máxima durante un recorrido de 5 km, ¿cuál llegaría primero?",
+      "options": {
+        "A": "Halcón peregrino",
+        "B": "Tiburón Mako",
+        "C": "Guepardo",
+        "D": "Vencejo"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "block": "Energía",
+      "blockNumber": 3,
+      "skill": "Distingue las manifestaciones de la energía (movimiento, calor, luz, sonido) en situaciones cotidianas.",
+      "text": "Considere la siguiente información:\n\nLa mamá de Sara los domingos por la tarde cocina arroz con leche para la merienda de la familia. Después de remover el arroz con leche dejó el cucharón sobre la olla, al volver, lo toma para remover de nuevo y se da cuenta que el cucharón está caliente.\n\n¿Cómo se denominan la forma de transmisión del calor desde la olla que contiene el arroz con leche hasta el cucharón?",
+      "options": {
+        "A": "Radiación",
+        "B": "Convección",
+        "C": "Conducción",
+        "D": "Evaporación"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "block": "Energía",
+      "blockNumber": 4,
+      "skill": "Distingue las manifestaciones de la energía (movimiento, calor, luz, sonido) en situaciones cotidianas.",
+      "text": "Considere la siguiente información:\n\nEn la clase de Ciencias le entregaron una planta a cada niño, la cual debían cuidar y llevarla a la escuela una semana después. (1) Lucía la colocó en una mesa de noche junto a la ventana por lo que todos los días recibía luz y calor, su planta crecía de manera normal. (2) Sandra la colocó detrás de una pantalla que dejaba pasar parcialmente la luz, pero se le fue marchitando poco a poco. (3) Susana con el fin de cuidarla y estar pendiente de ella la colocó en un rincón de su cuarto, detrás de un armario donde no dejaba pasar la luz. Aunque ella la regó todos los días, su planta no sobrevivió.\n\nDe acuerdo con las características descritas, ¿cómo se clasifican los objetos con base en su capacidad para dejar pasar la luz en el orden 1, 2 y 3?",
+      "options": {
+        "A": "Translúcido, opaco y transparente",
+        "B": "Transparente, translúcido y opaco",
+        "C": "Opaco, transparente, y translúcido",
+        "D": "Transparente, opaco, translúcido"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "block": "Energía",
+      "blockNumber": 5,
+      "skill": "Clasifica la energía por sus características según tipos, clases, fuentes, transformaciones y aplicaciones que se dan en el entorno.",
+      "text": "Considere la siguiente información:\n\nEn una clase de Ciencias estudian sobre los tipos de energía que existe, como la (1) energía nuclear que genera residuos radioactivos que tardan millones de años en perder su carga, lo que implica un peligro potencial para las zonas próximas y que en la construcción de las centrales y su funcionamiento requiere de materiales escasos. También mencionó que (2) la energía solar no genera residuos y que utiliza una fuente natural y que frecuentemente se utiliza para calentadores solares de agua.\n\nLa información anterior hace referencia a la energía",
+      "options": {
+        "A": "1 limpia y 2 limpia.",
+        "B": "1 limpia y 2 contaminante.",
+        "C": "1 contaminante y 2 limpia.",
+        "D": "1 contaminante y 2 contaminante."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "block": "Energía",
+      "blockNumber": 6,
+      "skill": "Determina las características de electricidad, magnetismo, corriente eléctrica, circuitos y conductividad en los fenómenos cotidianos.",
+      "text": "Considere la siguiente información:\n\nEn la clase de Ciencias el docente ejemplifica dos tipos de corriente eléctrica:\n\n1. En este tipo de corriente el cambio de dirección en el flujo de electrones permite, por ejemplo, que se pueda conectar un aparato a un enchufe sin importar dónde está el polo positivo y el negativo del enchufe\n\n2. En este tipo de corriente los electrones fluyen a través de un cable metálico, pero en una sola dirección pues los electrones son repelidos por un polo del campo magnético y atraídos por el otro, como en las baterías.\n\nLos ejemplos que brinda el docente se Ciencias corresponden a corriente de tipo",
+      "options": {
+        "A": "1 alterna y 2 alterna.",
+        "B": "1 continua y 2 alterna.",
+        "C": "1 alterna y 2 continua.",
+        "D": "1 continua y 2 continua."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "block": "Energía",
+      "blockNumber": 7,
+      "skill": "Distingue las manifestaciones de la energía (movimiento, calor, luz, sonido) en situaciones cotidianas.",
+      "text": "Observe las siguientes imágenes:\n\n![Figura](/exams/ciencias-primaria/q31.png)\n\nCon base en las imágenes anteriores, es correcto afirmar que",
+      "options": {
+        "A": "ninguna posición tiene energía cinética.",
+        "B": "la posición 1 y 2 tienen la misma energía cinética.",
+        "C": "la posición 1 tiene más energía cinética que la posición 2.",
+        "D": "la posición 2 tiene más energía cinética que la posición 1."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "block": "Energía",
+      "blockNumber": 8,
+      "skill": "Clasifica la energía por sus características según tipos, clases, fuentes, transformaciones y aplicaciones que se dan en el entorno.",
+      "text": "La siguiente información se relaciona con la producción de energía:\n\nEn el año 2015 los europeos se enteraron por medio de la prensa británica, que en Costa Rica durante 250 días no se utilizó combustibles fósiles para producir electricidad, debido a que esta fue en su mayoría de origen hidroeléctrico. Eso no es todo, en el 2016 el 98,12 % del servicio de energía provino de fuentes hidroeléctricas, geotérmicas, eólicas o solares. En la actualidad, por año, según datos del Instituto Costarricense de Electricidad (ICE), esta marca se encuentra en 98,9 %.\n\nLa información anterior se refiere a",
+      "options": {
+        "A": "el porcentaje de producción de energía hidroeléctrica que se realiza en los países europeos.",
+        "B": "la importancia de la energía hidroeléctrica para Costa Rica, como única fuente de energía limpia.",
+        "C": "la producción europea de electricidad, la cual ronda el 98 % de generación hidroeléctrica en general.",
+        "D": "el crecimiento que ha tenido la generación de energía a partir de fuentes naturales, practicada en Costa Rica."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "block": "Energía",
+      "blockNumber": 9,
+      "skill": "Distingue las manifestaciones de la energía (movimiento, calor, luz, sonido) en situaciones cotidianas.",
+      "text": "Considere la siguiente información:\n\nRolando y Cecilia viven cerca de la escuela, caminan todas las mañanas desde sus casas para llegar a clases. La casa de Rolando está a 800 m de la escuela, mientras que la de Cecilia se encuentra a 1200 m, ambos en línea recta. Un día deciden medir el tiempo que tardan en realizar el recorrido y descubren que tardan lo mismo.\n\nA partir de la situación descrita, es correcto afirmar que cada mañana al viajar hacia la escuela, Cecilia",
+      "options": {
+        "A": "llega siempre después que Rolando.",
+        "B": "tiene mayor rapidez que Rolando.",
+        "C": "tiene menor rapidez que Rolando.",
+        "D": "tarda más tiempo que Rolando."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "block": "Energía",
+      "blockNumber": 10,
+      "skill": "Distingue las manifestaciones de la energía (movimiento, calor, luz, sonido) en situaciones cotidianas.",
+      "text": "Considere la siguiente información:\n\nLos caballos han sido utilizados como medio de transporte desde hace muchos años, por esto es importante herrarlos. Herrar un caballo consiste en colocarle en los cascos unas piezas de hierro llamadas herraduras para protegerlos. El herrero trabajaba el hierro en un horno a gran temperatura y lo moldea a punta de martillo, el hierro caliente es manipulado con una pinza y guantes.\n\n¿Cuál es la forma de transmisión del calor que se produce en la pieza de hierro y que obliga al herrero a utilizar guantes y pinzas?",
+      "options": {
+        "A": "Conducción",
+        "B": "Convección",
+        "C": "Radiación",
+        "D": "Fricción."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "block": "Energía",
+      "blockNumber": 11,
+      "skill": "Clasifica la energía por sus características según tipos, clases, fuentes, transformaciones",
+      "text": "Lea la siguiente información:\n\nUn grupo de estudiantes fue de visita al Instituto Costarricense de Electricidad (ICE), ahí se dio información sobre distintas formas de obtener energía, una de ellas es la siguiente:\n\nEs una energía renovable que aprovecha el calor del subsuelo, para obtener agua caliente y vapor de forma ecológica. El agua y el vapor que se extraen, se aprovechan mediante una turbina para generar electricidad, una vez extraída la energía, el agua se devuelve a su lugar original, para asegurar la sostenibilidad del recurso.\n\nLa información anterior hace referencia a la energía",
+      "options": {
+        "A": "solar.",
+        "B": "magnética.",
+        "C": "geotérmica.",
+        "D": "hidroeléctrica."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "block": "Energía",
+      "blockNumber": 12,
+      "skill": "Determina las características de electricidad, magnetismo, corriente eléctrica, circuitos y conductividad en los fenómenos cotidianos.",
+      "text": "Considere la siguiente información:\n\nEl docente de Ciencias está explicando a los estudiantes acerca de las cargas eléctricas y lo ejemplifica con la electricidad estática, frota dos globos con una franela y luego los acerca, observando que los globos se atraen entre sí, como se muestra en la imagen:\n\n![Figura](/exams/ciencias-primaria/q36.png)\n\nSegún la información anterior, hay una atracción entre los dos globos porque las cargas generadas son",
+      "options": {
+        "A": "ambas positivas.",
+        "B": "ambas negativas.",
+        "C": "positivas y negativas.",
+        "D": "iguales, pero con diferente intensidad de carga."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "block": "Energía",
+      "blockNumber": 13,
+      "skill": "Distingue las manifestaciones de la energía (movimiento, calor, luz, sonido) en situaciones cotidianas.",
+      "text": "Considere la siguiente información:\n\nLos docentes de Educación Física seleccionan estudiantes para competir en los juegos deportivos escolares, en carreras de atletismo. Las categorías son dos: hasta 9 años participarán en la carrera de 1 kilómetro, se entrenan 2 veces por semana y en cada entrenamiento recorren esa distancia. Los de 12 años correrán en la competencia de 3 kilómetros y se entrenan 2 veces por semana y recorren en cada entrenamiento esa distancia.\n\nA partir de la información anterior, se afirma que durante una semana de entrenamiento",
+      "options": {
+        "A": "los de 9 años recorren mayor distancia que los de 12 años.",
+        "B": "los de 12 años recorren mayor distancia que los de 9 años.",
+        "C": "todos sin importar la edad recorren la misma distancia.",
+        "D": "los de 9 años corren más porque son más pequeños."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "block": "Energía",
+      "blockNumber": 14,
+      "skill": "Distingue las manifestaciones de la energía (movimiento, calor, luz, sonido) en situaciones cotidianas.",
+      "text": "Considere la siguiente información:\n\nEn la clase de Ciencias están estudiando las diferentes formas de transmisión del calor. Para explicar una de estas formas, el docente utiliza un ejemplo cotidiano: cuando se coloca una olla con agua sobre un quemador, el agua caliente asciende y el agua menos caliente desciende, lo que provoca el movimiento del agua dentro de la olla y eso demuestra una manera de transmisión del calor.\n\nEl tipo de transmisión del calor que se observa en el movimiento del agua se denomina",
+      "options": {
+        "A": "radiación.",
+        "B": "convección.",
+        "C": "conducción.",
+        "D": "condensación."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "block": "Energía",
+      "blockNumber": 15,
+      "skill": "Distingue las manifestaciones de la energía (movimiento, calor, luz, sonido) en situaciones cotidianas.",
+      "text": "Considere la siguiente información:\n\nLa luz blanca se desplaza en el espacio como ondas de diferentes tamaños, que definen los colores en los objetos. Por ejemplo, en una manzana el tamaño de la onda de luz roja rebota, por eso la vemos de ese color.\n\nCon base en la información anterior, se concluye que",
+      "options": {
+        "A": "los objetos rojos absorben ese color en su totalidad.",
+        "B": "los colores resultan de la luz que refractan los objetos.",
+        "C": "la manzana se ve roja porque cambia el color de la luz.",
+        "D": "la manzana se ve roja porque refleja la luz de color rojo."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "block": "Energía",
+      "blockNumber": 16,
+      "skill": "Clasifica la energía por sus características según tipos, clases, fuentes, transformaciones y aplicaciones que se dan en el entorno.",
+      "text": "Considere la siguiente información:\n\nEn una charla que recibieron los estudiantes de una escuela, se les brindó información sobre los distintos tipos de energía, se les mencionó lo siguiente:\n\nHay una energía renovable que aprovecha el calor del subsuelo, para obtener agua caliente y vapor de forma ecológica. El agua y el vapor que se extraen, se aprovechan mediante una turbina para generar electricidad, el agua se devuelve a su lugar original, para asegurar la sostenibilidad del recurso.\n\nLa información brindada a los estudiantes se refiere a la energía limpia porque",
+      "options": {
+        "A": "el agua empleada ya no se puede utilizar como un recurso natural.",
+        "B": "genera residuos que pueden contaminar durante siglos.",
+        "C": "se obtiene de los combustibles como el petróleo.",
+        "D": "utiliza recursos que no dañan el ambiente."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q41",
+      "number": 41,
+      "block": "Energía",
+      "blockNumber": 17,
+      "skill": "Determina las características de electricidad, magnetismo, corriente eléctrica, circuitos y conductividad en los fenómenos cotidianos.",
+      "text": "Considere la siguiente información sobre un circuito eléctrico:\n\nEnrique repasa la clase de Ciencias sobre los circuitos eléctricos, que son una conexión, de dos o más elementos, que tiene una trayectoria cerrada por la que viaja una corriente eléctrica. Se clasifican según el camino que sigue la corriente eléctrica una vez que sale de la fuente. En los que tienen una conexión como en el circuito A, la corriente viaja por un solo camino y si falla un componente, el circuito no funciona. En los circuitos por los que la corriente viaja por dos o más caminos, si falla un componente la luz puede viajar por otro camino, como en el circuito B.\n\n![Figura](/exams/ciencias-primaria/q41.png)\n\nSegún la información anterior, se afirma que el circuito",
+      "options": {
+        "A": "A es en paralelo, y el circuito B es en serie.",
+        "B": "A es en serie, y el circuito B es en paralelo.",
+        "C": "A es en serie y el circuito B es mixto.",
+        "D": "A es mixto y el circuito B es en serie."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q42",
+      "number": 42,
+      "block": "Energía",
+      "blockNumber": 18,
+      "skill": "Clasifica la energía por sus características según tipos, clases, fuentes, transformaciones y aplicaciones que se dan en el entorno.",
+      "text": "Considere las siguientes imágenes de un paracaidista:\n\n![Figura](/exams/ciencias-primaria/q42.png)\n\nDe acuerdo con las imágenes 1 y 2, ¿cuál opción señala la información correcta sobre la energía cinética que presentan los paracaidistas?",
+      "options": {
+        "A": "La energía cinética es igual en ambas situaciones para ambos paracaidistas.",
+        "B": "El paracaidista de la situación 2 tiene más energía cinética que el paracaidista de la situación 1.",
+        "C": "El paracaidista de la situación 1 tiene más energía cinética que el paracaidista de la situación 2.",
+        "D": "El paracaidista de la situación 1 tiene el doble de la energía cinética que el paracaidista de la situación 2."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "q43",
+      "number": 43,
+      "block": "Geofísica",
+      "blockNumber": 1,
+      "skill": "Distingue la estructura interna y externa del planeta Tierra, así como los agentes externos e internos que los modifican.",
+      "text": "Considere la siguiente información:\n\nEl desequilibrio ecológico es un grave problema que sufren muchos de los ecosistemas. Para que se produzca deben darse factores importantes: una perturbación externa al medio ya sea de origen natural o producido por actividades humanas que se han ido desarrollando a lo largo del tiempo. Los reportes señalan que una de cada seis especies naturales está en peligro de extinción, el 75 % de los ecosistemas terrestres se han degradado por la acción humana y el 97 % de los océanos están contaminados o alterados. En otras palabras, la vida como la conocemos está en riesgo.\n\n¿Cuál opción corresponde a un factor natural que altera el equilibrio ecológico?",
+      "options": {
+        "A": "El uso de los combustibles fósiles afectan directamente la salud y producen gases que aumentan el efecto de invernadero.",
+        "B": "Los plaguicidas producen contaminación del agua, de los suelos, del aire y de los alimentos.",
+        "C": "La construcción de represas hidroeléctricas que modifican el cauce de los ríos.",
+        "D": "La ceniza producto del vulcanismo obstruye las corrientes de agua."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q44",
+      "number": 44,
+      "block": "Geofísica",
+      "blockNumber": 2,
+      "skill": "Distingue la estructura interna y externa del planeta Tierra, así como los agentes externos e internos que los modifican.",
+      "text": "¿Cuál de las siguientes opciones se refiere a la capa de la Tierra denominada hidrósfera?",
+      "options": {
+        "A": "Es la parte de la Tierra conformada por todas las masas de agua que se encuentran tanto sobre, como debajo de la superficie terrestre.",
+        "B": "Es la capa de donde provienen los materiales expulsados en las erupciones volcánicas, se encuentra entre el núcleo y la corteza terrestre.",
+        "C": "Esta capa es la más externa de la Tierra, es sólida y rígida, está formada por rocas, básicamente silicatos.",
+        "D": "Es la envoltura gaseosa que rodea la Tierra y permite la respiración de los seres vivos."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q45",
+      "number": 45,
+      "block": "Geofísica",
+      "blockNumber": 3,
+      "skill": "Distingue la estructura interna y externa del planeta Tierra, así como los agentes externos e internos que los modifican.",
+      "text": "Considere la siguiente información:\n\n1. El viento actúa sobre la totalidad de la superficie del suelo, primero arranca trocitos de roca y luego los transportan a otros lugares, desgasta las zonas altas y acumulan los materiales arrancados en las zonas bajas.\n\n2. Posterior al terremoto de Limón en 1991 se observó que la costa se levantó varios metros por lo que el mar se retiró, los suelos se licuaron y se produjeron muchos deslizamientos.\n\n3. El agua de la lluvia erosiona las laderas, sobre todo si no hay vegetación que le permita sostener la tierra, esto genera la reducción de la productividad de los suelos y la pérdida y degradación de la tierra.\n\n¿Cuál opción hace referencia a efectos provocados por los agentes internos sobre el relieve?",
+      "options": {
+        "A": "Solo 1",
+        "B": "Solo 2",
+        "C": "1 y 3 solamente",
+        "D": "2 y 3 solamente"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q46",
+      "number": 46,
+      "block": "Geofísica",
+      "blockNumber": 4,
+      "skill": "Clasifica los movimientos de la Tierra y la Luna, así como los efectos que producen (eclipses, fases de la luna, estaciones del año).",
+      "text": "Considere la siguiente información:\n\n![Figura](/exams/ciencias-primaria/q46.png)\n\nLa Luna es el único satélite natural de la Tierra. Esta completa una vuelta alrededor de la Tierra aproximadamente una vez al mes. Esto hace que, curiosamente, la Luna siempre muestre la misma cara y parezca que está totalmente fija.\n\nLa información anterior se refiere al movimiento de la Luna denominado",
+      "options": {
+        "A": "eclipse.",
+        "B": "rotación.",
+        "C": "giratorio.",
+        "D": "traslación."
+      },
+      "answer": "D"
+    },
+    {
+      "id": "q47",
+      "number": 47,
+      "block": "Geofísica",
+      "blockNumber": 5,
+      "skill": "Clasifica los movimientos de la Tierra y la Luna, así como los efectos que producen (eclipses, fases de la luna, estaciones del año).",
+      "text": "Considere la siguiente información:\n\nEl 10 de junio del 2021 se generó un fenómeno que se produce cuando la Luna, que está lo más alejada posible de la Tierra, se interpone entre la Tierra y el Sol. Al estar tan alejada no logra cubrir por completo la superficie del Sol y por eso deja ver a su alrededor un anillo brillante conocido como anillo de fuego.\n\n¿Con cuál de las opciones tiene relación el proceso descrito anteriormente?",
+      "options": {
+        "A": "El anillo de fuego es un tipo de eclipse solar, ya que la Luna al interponerse no es capaz de tapar por completo la luz solar.",
+        "B": "El anillo de fuego es efecto de las erupciones solares, también conocidas como auroras y que son comunes en los polos.",
+        "C": "El anillo de fuego es un tipo de eclipse lunar, ya que la Luna es la que se interpone entre el Sol y la Tierra para cubrir el Sol.",
+        "D": "El anillo de fuego es un tipo de eclipse solar, ya que la Tierra cubre casi todo el Sol al interponerse entre el Sol y la Luna."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q48",
+      "number": 48,
+      "block": "Geofísica",
+      "blockNumber": 6,
+      "skill": "Reconoce los movimientos de la Tierra y la Luna.",
+      "text": "Considere la siguiente información:\n\nDamaris le contó a su mamá que se arreglaría el cabello, porque se veía un poco dañado. Su madre le comentó un mito que contaba su abuela cuando ella era niña: “el cabello dañado es mejor cortarlo cuando la Luna se hace visible completamente y se ve como un disco iluminado, ya que esto ayuda a su reparación”.\n\nSegún la información anterior, ¿cuál es la fase de la Luna a la que se refiere la bisabuela de Damaris?",
+      "options": {
+        "A": "Llena",
+        "B": "Nueva",
+        "C": "Cuarto creciente",
+        "D": "Cuarto menguante"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "q49",
+      "number": 49,
+      "block": "Geofísica",
+      "blockNumber": 7,
+      "skill": "Reconoce algunos componentes del Universo y los cuerpos que conforman el Sistema Solar, entre ellos el planeta Tierra.",
+      "text": "Considere la siguiente imagen que representa un cuerpo celeste:\n\n![Figura](/exams/ciencias-primaria/q49.png)\n\n¿Cuál de las siguientes afirmaciones describe al cuerpo celeste que se representa en la imagen?",
+      "options": {
+        "A": "Son sistemas cósmicos enormes que constan de miles de millones de estrellas.",
+        "B": "Son agrupaciones aparentes de estrellas en el cielo nocturno, que a menudo forman patrones reconocibles y tienen nombres asociados.",
+        "C": "Son concentraciones de gas en las que predominan el hidrógeno, el helio y el polvo estelar, que debido a la fuerza de gravedad pueden unirse hasta formar un grupo.",
+        "D": "Son cuerpos rocosos que orbitan alrededor del Sol y se concentran principalmente entre Marte y Júpiter."
+      },
+      "answer": "A"
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "block": "Geofísica",
+      "blockNumber": 8,
+      "skill": "Distingue los componentes Sistema Solar, el Universo y los alcances científico-tecnológicos de la exploración espacial.",
+      "text": "Considere la siguiente información:\n\nLos cuerpos celestes son todos los objetos naturales que forman parte del universo y que pueden interactuar con otro cuerpo, debido a la fuerza de gravedad.\n\n¿Cuál de las siguientes opciones describe al cuerpo celeste denominado Vía Láctea?",
+      "options": {
+        "A": "Es una agrupación aparente de estrellas que forman figuras en el cielo nocturno.",
+        "B": "Son pequeños objetos rocosos que orbitan alrededor del Sol, la mayoría se localizan entre las órbitas de Marte y Júpiter.",
+        "C": "Es una galaxia en forma de espiral, en su centro tiene una columna formada por miles de millones de estrellas y masas solares.",
+        "D": "Son enormes bolas de gases ardientes, la mayoría de los cuales están hechos de hidrógeno, produce enorme cantidad de energía en forma de luz y calor."
+      },
+      "answer": "B"
+    }
+  ]
+}

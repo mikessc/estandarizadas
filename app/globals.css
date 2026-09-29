@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+html {
+  font-size: 18px;
+}
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+/* Contenido Markdown de preguntas y opciones */
+.md > * + * {
+  margin-top: 0.75rem;
+}
+.md {
+  line-height: 1.6;
+  overflow-wrap: anywhere;
+}
+.md ul {
+  @apply list-disc pl-6;
+}
+.md ol {
+  @apply list-decimal pl-6;
+}
+.md table {
+  @apply my-2 border-collapse;
+}
+.md th,
+.md td {
+  @apply border border-slate-300 px-3 py-1.5 text-left;
+}
+.md th {
+  @apply bg-slate-100;
+}
+.md .katex {
+  font-size: 1.1em;
+}
+.md .katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.btn {
+  @apply inline-flex items-center justify-center rounded-xl bg-blue-600 px-5 py-3 font-semibold text-white hover:bg-blue-700 disabled:opacity-50;
+}
+.btn-light {
+  @apply inline-flex items-center justify-center rounded-xl border border-slate-300 bg-white px-5 py-3 font-semibold text-slate-800 hover:bg-slate-100 disabled:opacity-50;
+}
+.input {
+  @apply w-full rounded-lg border border-slate-300 bg-white px-3 py-2;
+}
+.card {
+  @apply rounded-2xl border border-slate-200 bg-white p-4 shadow-sm;
+}
