@@ -7,7 +7,7 @@
     "start": "next start",
     "postinstall": "prisma generate",
     "seed": "dotenv -e .env.local -- prisma db seed",
-    "check": "node --test tests/grade.test.ts",
+    "check": "node --test \"tests/*.test.ts\"",
     "db:migrate": "dotenv -e .env.local -- prisma migrate deploy"
   },
   "prisma": {
