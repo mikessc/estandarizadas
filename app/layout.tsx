@@ -21,6 +21,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
             {s && (
               <form action={logout} className="flex items-center gap-3 text-base">
                 <span className="truncate text-slate-600">{s.name}</span>
+                <Link href="/cuenta" className="shrink-0 text-blue-700 underline">
+                  Mi cuenta
+                </Link>
                 <button className="rounded-lg px-2 py-1 text-blue-700 underline">Salir</button>
               </form>
             )}

@@ -9,6 +9,8 @@ import { COOKIE, HOME, createSession, requireRole } from "@/lib/auth";
 import { getExam } from "@/lib/exams";
 import { sanitizeAnswers, score } from "@/lib/grade";
 import { EMAIL_RE, parseBulk } from "@/lib/bulk";
+import { newPasswordError } from "@/lib/password";
+import { canResetPassword } from "@/lib/access";
 
 type FormState = { error?: string; ok?: string } | undefined;
 const str = (f: FormData, k: string) => String(f.get(k) ?? "").trim();
@@ -64,15 +66,28 @@ export async function createUser(_: FormState, f: FormData): Promise<FormState> 
   return { ok: `${role === "TEACHER" ? "Profesor" : "Alumno"} creado: ${name}` };
 }
 
-export async function resetPassword(f: FormData) {
-  await requireRole("ADMIN");
+export async function changePassword(_: FormState, f: FormData): Promise<FormState> {
+  const s = await requireRole("ADMIN", "TEACHER", "STUDENT");
+  const current = String(f.get("current") ?? "");
   const password = String(f.get("password") ?? "");
-  if (password.length < 6) throw new Error("La contraseña debe tener al menos 6 caracteres.");
-  await prisma.user.update({
-    where: { id: str(f, "userId") },
-    data: { passwordHash: await bcrypt.hash(password, 10) },
-  });
-  revalidatePath("/admin");
+  const user = await prisma.user.findUnique({ where: { id: s.id } });
+  if (!user || !(await bcrypt.compare(current, user.passwordHash)))
+    return { error: "La contraseña actual no es correcta." };
+  const error = newPasswordError(password, String(f.get("confirm") ?? ""), current);
+  if (error) return { error };
+  await prisma.user.update({ where: { id: s.id }, data: { passwordHash: await bcrypt.hash(password, 10) } });
+  return { ok: "Contraseña actualizada." };
+}
+
+export async function resetPassword(_: FormState, f: FormData): Promise<FormState> {
+  const s = await requireRole("ADMIN", "TEACHER");
+  const userId = str(f, "userId");
+  if (!(await canResetPassword(s, userId))) return { error: "No tienes permiso para cambiar esta contraseña." };
+  const password = String(f.get("password") ?? "");
+  const error = newPasswordError(password, String(f.get("confirm") ?? ""));
+  if (error) return { error };
+  await prisma.user.update({ where: { id: userId }, data: { passwordHash: await bcrypt.hash(password, 10) } });
+  return { ok: "Contraseña restablecida." };
 }
 
 export async function setTeacher(f: FormData) {

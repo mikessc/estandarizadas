@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getExam } from "@/lib/exams";
 import { formatDate, pct } from "@/lib/format";
+import ResetPasswordForm from "./ResetPasswordForm";
 
 type S = {
   id: string;
@@ -26,6 +27,9 @@ export default function StudentTable({ students }: { students: S[] }) {
                   : "Sin intentos"}
               </span>
             </Link>
+            <div className="px-3 pb-3">
+              <ResetPasswordForm userId={s.id} />
+            </div>
           </li>
         );
       })}

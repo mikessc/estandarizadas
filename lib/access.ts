@@ -24,3 +24,10 @@ export async function getVisibleAttempt(s: Session, attemptId: string) {
   if (!exam) notFound();
   return { attempt, answers: attempt.answers as Answers, student, exam };
 }
+
+/** Restablecer contraseña: admin a cualquiera; profesor solo a sus alumnos ligados. */
+export async function canResetPassword(s: Session, userId: string) {
+  if (s.role === "ADMIN") return true;
+  if (s.role !== "TEACHER") return false;
+  return !!(await prisma.user.findFirst({ where: { id: userId, role: "STUDENT", teacherId: s.id } }));
+}

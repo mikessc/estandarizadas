@@ -4,6 +4,7 @@ import { getVisibleStudent } from "@/lib/access";
 import { prisma } from "@/lib/db";
 import { getExams } from "@/lib/exams";
 import AttemptList from "@/components/AttemptList";
+import ResetPasswordForm from "@/components/ResetPasswordForm";
 
 export default async function StudentAttempts({
   params,
@@ -29,6 +30,7 @@ export default async function StudentAttempts({
         ← Alumnos
       </Link>
       <h1 className="text-2xl font-bold">{student.name}</h1>
+      <ResetPasswordForm userId={student.id} />
       <nav className="flex flex-wrap gap-2">
         <Link href={`/alumnos/${student.id}`} className={chip(!examen)}>
           Todos

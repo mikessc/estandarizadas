@@ -4,7 +4,8 @@ import { prisma } from "@/lib/db";
 import StudentTable from "@/components/StudentTable";
 import CreateUserForm from "@/components/CreateUserForm";
 import BulkStudentsForm from "@/components/BulkStudentsForm";
-import { resetPassword, setTeacher } from "../actions";
+import ResetPasswordForm from "@/components/ResetPasswordForm";
+import { setTeacher } from "../actions";
 
 const ROLE = { ADMIN: "Admin", TEACHER: "Profesor", STUDENT: "Alumno" } as const;
 
@@ -95,11 +96,7 @@ async function Users({ profesor }: { profesor: string }) {
                 <button className="btn-light shrink-0 !py-2">Guardar</button>
               </form>
             )}
-            <form action={resetPassword} className="flex gap-2">
-              <input type="hidden" name="userId" value={u.id} />
-              <input name="password" required minLength={6} placeholder="Nueva contraseña" className="input" />
-              <button className="btn-light shrink-0 !py-2">Restablecer</button>
-            </form>
+            <ResetPasswordForm userId={u.id} />
           </li>
         ))}
       </ul>
