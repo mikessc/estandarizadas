@@ -1,21 +1,17 @@
 import Link from "next/link";
-import { notFound } from "next/navigation";
 import { requireRole } from "@/lib/auth";
-import { getVisibleStudent } from "@/lib/access";
-import { prisma } from "@/lib/db";
-import { getExam } from "@/lib/exams";
+import { getVisibleAttempt } from "@/lib/access";
 import { barColor, formatDate, pct } from "@/lib/format";
-import { LETTERS, buildReport, type Answers } from "@/lib/grade";
-import { OptionContent, QuestionText } from "@/components/QuestionBody";
+import { buildReport } from "@/lib/grade";
+import ReviewedQuestion from "@/components/ReviewedQuestion";
 
 export default async function AttemptReport({ params }: { params: Promise<{ id: string }> }) {
   const s = await requireRole("STUDENT", "TEACHER", "ADMIN");
-  const attempt = await prisma.attempt.findUnique({ where: { id: (await params).id } });
-  if (!attempt) notFound();
-  const student = await getVisibleStudent(s, attempt.studentId);
-  const exam = getExam(attempt.examId);
-  if (!exam) notFound();
-  const { blocks, reinforce, wrong } = buildReport(exam, attempt.answers as Answers);
+  const { attempt, answers, student, exam } = await getVisibleAttempt(s, (await params).id);
+  const report = buildReport(exam, answers);
+  const { blocks, reinforce } = report;
+  // El alumno solo ve bloques y temas: las preguntas falladas (con "answer") no salen del servidor.
+  const wrong = s.role === "STUDENT" ? [] : report.wrong;
   const p = pct(attempt.score, attempt.total);
 
   const actions =
@@ -29,9 +25,14 @@ export default async function AttemptReport({ params }: { params: Promise<{ id: 
         </Link>
       </div>
     ) : (
-      <Link href={`/alumnos/${student.id}`} className="btn-light w-full">
-        ← Intentos de {student.name}
-      </Link>
+      <div className="flex flex-wrap gap-3">
+        <Link href={`/alumnos/${student.id}`} className="btn-light flex-1">
+          ← Intentos de {student.name}
+        </Link>
+        <Link href={`/intento/${attempt.id}/revision`} className="btn flex-1">
+          Ver todas las respuestas
+        </Link>
+      </div>
     );
 
   return (
@@ -93,36 +94,20 @@ export default async function AttemptReport({ params }: { params: Promise<{ id: 
         <section className="space-y-4">
           <h2 className="text-xl font-bold">Preguntas para revisar ({wrong.length})</h2>
           {wrong.map((q) => (
-            <article key={q.id} className="card space-y-3">
-              <p className="text-base text-slate-500">
-                Pregunta {q.number} · {q.block}
-                <span className="block italic">{q.skill}</span>
-              </p>
-              <QuestionText q={q} />
-              {!q.given && <p className="font-semibold text-red-700">Sin responder</p>}
-              <ul className="space-y-2">
-                {LETTERS.map((l) => {
-                  const style =
-                    l === q.answer
-                      ? "border-green-600 bg-green-50"
-                      : l === q.given
-                        ? "border-red-600 bg-red-50"
-                        : "border-slate-200";
-                  return (
-                    <li key={l} className={`flex gap-3 rounded-xl border-2 p-2 ${style}`}>
-                      <span className="w-6 shrink-0 font-bold">{l}</span>
-                      <div className="min-w-0 flex-1">
-                        <OptionContent option={q.options[l]} />
-                        {l === q.answer && <p className="text-base font-semibold text-green-700">✓ Respuesta correcta</p>}
-                        {l === q.given && <p className="text-base font-semibold text-red-700">✗ {s.role === "STUDENT" ? "Tu respuesta" : "Respuesta del alumno"}</p>}
-                      </div>
-                    </li>
-                  );
-                })}
-              </ul>
-            </article>
+            <ReviewedQuestion
+              key={q.id}
+              q={q}
+              given={q.given}
+              givenLabel="✗ Respuesta del alumno"
+            />
           ))}
         </section>
+      )}
+
+      {s.role === "STUDENT" && (
+        <p className="card text-center text-lg font-semibold text-blue-800">
+          {reinforce.length ? "Repasa estos temas y vuelve a intentarlo" : "¡Excelente! Respondiste todo bien."}
+        </p>
       )}
 
       {actions}
