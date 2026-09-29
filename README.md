@@ -2,6 +2,8 @@
 
 App web para que alumnos de primaria practiquen las pruebas sumativas del MEP. Next.js 16 + Prisma + Postgres (Neon), lista para Vercel.
 
+Requisitos: Node.js 20 o superior.
+
 - **Admin**: crea profesores y alumnos, liga alumnos a profesores, restablece contraseñas y ve todos los reportes (`/admin`).
 - **Profesor**: crea alumnos (quedan ligados a él) y ve los intentos de sus alumnos (`/profesor`).
 - **Alumno**: resuelve exámenes y ve su reporte e historial (`/alumno`).
