@@ -22,16 +22,17 @@ Las respuestas correctas nunca llegan al navegador antes de entregar: la calific
    | `ADMIN_EMAIL` | Correo del administrador |
    | `ADMIN_PASSWORD` | Contraseña inicial del administrador |
 
-4. **Crea las tablas y el usuario admin** desde tu computadora (una sola vez, y otra vez cuando haya migraciones nuevas):
+4. Haz **Redeploy** en Vercel. El build (`npm run build`) ejecuta `prisma migrate deploy`, así que las tablas se crean y actualizan solas en cada deploy.
+
+5. **Crea el usuario admin** desde tu computadora (una sola vez, después del primer deploy):
 
    ```bash
    npm install
    npx vercel env pull .env        # o copia .env.example a .env y llena los valores
-   npx prisma migrate deploy
    npm run seed                    # crea o actualiza el admin con ADMIN_EMAIL / ADMIN_PASSWORD
    ```
 
-5. Haz **Redeploy** en Vercel y entra con el correo del admin.
+   Luego entra con el correo del admin.
 
 > Volver a correr `npm run seed` restablece la contraseña del admin al valor de `ADMIN_PASSWORD`.
 

@@ -5,8 +5,17 @@ import { submitAttempt } from "@/app/actions";
 import { LETTERS, type Answers, type PublicQuestion } from "@/lib/grade";
 import { OptionContent, QuestionText } from "./QuestionBody";
 
-export default function ExamRunner({ examId, questions }: { examId: string; questions: PublicQuestion[] }) {
-  const key = `examen:${examId}`;
+export default function ExamRunner({
+  userId,
+  examId,
+  questions,
+}: {
+  userId: string;
+  examId: string;
+  questions: PublicQuestion[];
+}) {
+  // Por usuario: varios alumnos comparten la misma computadora o tablet.
+  const key = `progreso:${userId}:${examId}`;
   const [answers, setAnswers] = useState<Answers>({});
   const [i, setI] = useState(0);
   const [loaded, setLoaded] = useState(false);
