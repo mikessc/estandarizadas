@@ -13,13 +13,13 @@ Las respuestas correctas nunca llegan al navegador antes de entregar: la calific
 ## Despliegue en Vercel
 
 1. **Sube el repositorio** a GitHub e impórtalo en Vercel (New Project).
-2. **Crea la base de datos Neon desde el Marketplace**: en el proyecto de Vercel, *Storage → Create Database → Neon (Serverless Postgres)* y conéctala al proyecto. Esto agrega automáticamente `DATABASE_URL` (con pooler) y `DATABASE_URL_UNPOOLED` (directa, la usa Prisma para migrar).
+2. **Crea la base de datos Neon desde el Marketplace**: en el proyecto de Vercel, *Storage → Create Database → Neon (Serverless Postgres)* y conéctala al proyecto. Usa el prefijo `STORAGE` para que agregue automáticamente `STORAGE_DATABASE_URL` (con pooler) y `STORAGE_DATABASE_URL_UNPOOLED` (directa, la usa Prisma para migrar).
 3. **Configura las variables de entorno** en *Settings → Environment Variables*:
 
    | Variable | Valor |
    |---|---|
-   | `DATABASE_URL` | La agrega Neon |
-   | `DATABASE_URL_UNPOOLED` | La agrega Neon |
+   | `STORAGE_DATABASE_URL` | La agrega Neon |
+   | `STORAGE_DATABASE_URL_UNPOOLED` | La agrega Neon |
    | `AUTH_SECRET` | Cadena larga y aleatoria. Genérala con `openssl rand -base64 32` |
    | `ADMIN_EMAIL` | Correo del administrador |
    | `ADMIN_PASSWORD` | Contraseña inicial del administrador |
