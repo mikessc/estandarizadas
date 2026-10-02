@@ -12,8 +12,9 @@ export default async function TeacherHome() {
   });
   return (
     <div className="space-y-6">
+      <h1 className="text-2xl font-bold">¡Hola, {s.name}!</h1>
       <section>
-        <h1 className="mb-3 text-2xl font-bold">Mis alumnos</h1>
+        <h2 className="mb-3 text-xl font-bold">Mis alumnos</h2>
         <StudentTable students={students} />
       </section>
       <CreateUserForm />

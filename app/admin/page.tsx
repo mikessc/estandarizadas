@@ -14,7 +14,7 @@ export default async function AdminHome({
 }: {
   searchParams: Promise<{ tab?: string; profesor?: string }>;
 }) {
-  await requireRole("ADMIN");
+  const s = await requireRole("ADMIN");
   const sp = await searchParams;
   const tab = sp.tab === "alumnos" ? "alumnos" : "usuarios";
   const tabClass = (t: string) =>
@@ -22,6 +22,7 @@ export default async function AdminHome({
 
   return (
     <div className="space-y-5">
+      <h1 className="text-2xl font-bold">¡Hola, {s.name}!</h1>
       <nav className="flex gap-2">
         <Link href="/admin" className={tabClass("usuarios")}>
           Usuarios

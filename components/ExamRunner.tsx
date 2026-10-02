@@ -137,7 +137,7 @@ export default function ExamRunner({
             </button>
           ))}
         </div>
-        <button className="btn mt-4 w-full !bg-green-600 hover:!bg-green-700" onClick={submit} disabled={pending}>
+        <button className="btn-gold mt-4 w-full" onClick={submit} disabled={pending}>
           {pending ? "Entregando…" : "Entregar examen"}
         </button>
       </div>
